@@ -49,7 +49,7 @@ ggsave(file.path("results","plots","heatmap.png"), width=12, height=8)
    geom_bar(stat="count", aes(x=aqi_argmax,
                               group=aqi_cat_en,
                               y=..prop..,
-                              fill=..x..),
+                              fill=factor(..x..)),
             show.legend = F) +
    facet_wrap(~aqi_cat_en, scales="free_x") +
    theme(axis.text.y=element_blank(),
@@ -67,7 +67,7 @@ ggsave(file.path("results","plots","aqi_pollutants.png"), width=8, height=5)
 
 # Responsible pollutant per province ------------------------------------------
 (plt <- ggplot(m.aqi %>% filter(aqi_cat >= 5)) +
-   geom_bar(stat="count", aes(x=factor(aqi_argmax),
+   geom_bar(stat="count", aes(x=aqi_argmax,
                               group=province_en,
                               y=..prop..,
                               fill=factor(..x..)),
