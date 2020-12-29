@@ -33,24 +33,24 @@ AFG,Afghanistan,AFG.31_1,Takhar,Takar,,Velayat,Province,,AF.TK
 AFG,Afghanistan,AFG.32_1,Uruzgan,Urozgan,,Velayat,Province,,AF.OZ
 AFG,Afghanistan,AFG.33_1,Wardak,Verdak|Wardag|Maiden,,Velayat,Province,,AF.VR
 AFG,Afghanistan,AFG.34_1,Zabul,Zubul|Zaboul,,Velayat,Province,,AF.ZB
-AGO,Angola,AGO.1_1,Bengo,,,Província,Province,"1",AO.BO
-AGO,Angola,AGO.2_1,Benguela,Benguella,,Província,Province,"2",AO.BG
-AGO,Angola,AGO.3_1,Bié,,,Província,Province,"3",AO.BI
-AGO,Angola,AGO.4_1,Cabinda,,,Província,Province,"4",AO.CB
-AGO,Angola,AGO.5_1,Cuando Cubango,,,Província,Province,"5",AO.CC
-AGO,Angola,AGO.6_1,Cuanza Norte,Cuanza-Nord|Kwanza Norte,,Província,Province,"6",AO.CN
-AGO,Angola,AGO.7_1,Cuanza Sul,Cuanza-Sud|Kwanza Sul,,Província,Province,"7",AO.CS
-AGO,Angola,AGO.8_1,Cunene,,,Província,Province,"8",AO.CU
-AGO,Angola,AGO.9_1,Huambo,,,Província,Province,"9",AO.HM
-AGO,Angola,AGO.10_1,Huíla,,,Província,Province,"10",AO.HL
-AGO,Angola,AGO.11_1,Luanda,Loanda,,Província,Province,"11",AO.LU
-AGO,Angola,AGO.12_1,Lunda Norte,,,Província,Province,"12",AO.LN
-AGO,Angola,AGO.13_1,Lunda Sul,,,Província,Province,"13",AO.LS
-AGO,Angola,AGO.14_1,Malanje,Malange,,Província,Province,"14",AO.ML
-AGO,Angola,AGO.15_1,Moxico,,,Província,Province,"15",AO.MX
-AGO,Angola,AGO.16_1,Namibe,Moçâmedes|Mossamedes,,Província,Province,"16",AO.NA
-AGO,Angola,AGO.17_1,Uíge,,,Província,Province,"17",AO.UI
-AGO,Angola,AGO.18_1,Zaire,,,Província,Province,"18",AO.ZA
+AGO,Angola,AGO.1_1,Bengo,,,Província,Province,1,AO.BO
+AGO,Angola,AGO.2_1,Benguela,Benguella,,Província,Province,2,AO.BG
+AGO,Angola,AGO.3_1,Bié,,,Província,Province,3,AO.BI
+AGO,Angola,AGO.4_1,Cabinda,,,Província,Province,4,AO.CB
+AGO,Angola,AGO.5_1,Cuando Cubango,,,Província,Province,5,AO.CC
+AGO,Angola,AGO.6_1,Cuanza Norte,Cuanza-Nord|Kwanza Norte,,Província,Province,6,AO.CN
+AGO,Angola,AGO.7_1,Cuanza Sul,Cuanza-Sud|Kwanza Sul,,Província,Province,7,AO.CS
+AGO,Angola,AGO.8_1,Cunene,,,Província,Province,8,AO.CU
+AGO,Angola,AGO.9_1,Huambo,,,Província,Province,9,AO.HM
+AGO,Angola,AGO.10_1,Huíla,,,Província,Province,10,AO.HL
+AGO,Angola,AGO.11_1,Luanda,Loanda,,Província,Province,11,AO.LU
+AGO,Angola,AGO.12_1,Lunda Norte,,,Província,Province,12,AO.LN
+AGO,Angola,AGO.13_1,Lunda Sul,,,Província,Province,13,AO.LS
+AGO,Angola,AGO.14_1,Malanje,Malange,,Província,Province,14,AO.ML
+AGO,Angola,AGO.15_1,Moxico,,,Província,Province,15,AO.MX
+AGO,Angola,AGO.16_1,Namibe,Moçâmedes|Mossamedes,,Província,Province,16,AO.NA
+AGO,Angola,AGO.17_1,Uíge,,,Província,Province,17,AO.UI
+AGO,Angola,AGO.18_1,Zaire,,,Província,Province,18,AO.ZA
 ALA,Åland,ALA.1_1,Brändö,Braendoe,,Municipality,Municipality,,AX.BR
 ALA,Åland,ALA.2_1,Eckerö,Eckeroe,,Municipality,Municipality,,AX.EC
 ALA,Åland,ALA.3_1,Finström,Finstroem,,Municipality,Municipality,,AX.FN
@@ -67,18 +67,18 @@ ALA,Åland,ALA.13_1,Saltvik,,,Municipality,Municipality,,AX.SV
 ALA,Åland,ALA.14_1,Sottunga,,,Municipality,Municipality,,AX.ST
 ALA,Åland,ALA.15_1,Sund,,,Municipality,Municipality,,AX.SD
 ALA,Åland,ALA.16_1,Vårdö,Vaardoe,,Municipality,Municipality,,AX.VR
-ALB,Albania,ALB.1_1,Berat,,,Qark|Region,County,"80001",AL.BE
-ALB,Albania,ALB.2_1,Dibër,Dibra| Dibrë,,Qark|Region,County,"80005",AL.DB
-ALB,Albania,ALB.3_1,Durrës,Durresi|Durrsi|Durazzo,,Qark|Region,County,"80009",AL.DU
-ALB,Albania,ALB.4_1,Elbasan,,,Qark|Region,County,"80012",AL.EB
-ALB,Albania,ALB.5_1,Fier,,,Qark|Region,County,"80017",AL.FI
-ALB,Albania,ALB.6_1,Gjirokastër,Gjinokastër|Argirocastro|Argyrocastro|Argyrokastron,,Qark|Region,County,"80021",AL.GK
-ALB,Albania,ALB.7_1,Korçë,Coriza|Corizza|Koritsa|Koritza|Korça|Kortscha,,Qark|Region,County,"80025",AL.KE
-ALB,Albania,ALB.8_1,Kukës,Kosova|Kossovo,,Qark|Region,County,"80030",AL.KK
-ALB,Albania,ALB.9_1,Lezhë,Alessio|Lezha,,Qark|Region,County,"80034",AL.LZ
-ALB,Albania,ALB.10_1,Shkodër,Escútari|Shkodra|Skodë|Scutari,,Qark|Region,County,"80038",AL.SD
-ALB,Albania,ALB.11_1,Tiranë,Tiran|Tirana,,Qark|Region,County,"80042",AL.TI
-ALB,Albania,ALB.12_1,Vlorë,Vlona|Vlora|Vlonë|Valona,,Qark|Region,County,"80045",AL.VR
+ALB,Albania,ALB.1_1,Berat,,,Qark|Region,County,80001,AL.BE
+ALB,Albania,ALB.2_1,Dibër,Dibra| Dibrë,,Qark|Region,County,80005,AL.DB
+ALB,Albania,ALB.3_1,Durrës,Durresi|Durrsi|Durazzo,,Qark|Region,County,80009,AL.DU
+ALB,Albania,ALB.4_1,Elbasan,,,Qark|Region,County,80012,AL.EB
+ALB,Albania,ALB.5_1,Fier,,,Qark|Region,County,80017,AL.FI
+ALB,Albania,ALB.6_1,Gjirokastër,Gjinokastër|Argirocastro|Argyrocastro|Argyrokastron,,Qark|Region,County,80021,AL.GK
+ALB,Albania,ALB.7_1,Korçë,Coriza|Corizza|Koritsa|Koritza|Korça|Kortscha,,Qark|Region,County,80025,AL.KE
+ALB,Albania,ALB.8_1,Kukës,Kosova|Kossovo,,Qark|Region,County,80030,AL.KK
+ALB,Albania,ALB.9_1,Lezhë,Alessio|Lezha,,Qark|Region,County,80034,AL.LZ
+ALB,Albania,ALB.10_1,Shkodër,Escútari|Shkodra|Skodë|Scutari,,Qark|Region,County,80038,AL.SD
+ALB,Albania,ALB.11_1,Tiranë,Tiran|Tirana,,Qark|Region,County,80042,AL.TI
+ALB,Albania,ALB.12_1,Vlorë,Vlona|Vlora|Vlonë|Valona,,Qark|Region,County,80045,AL.VR
 AND,Andorra,AND.1_1,Andorra la Vella,,,Parròquia,Parish,,AD.AN
 AND,Andorra,AND.2_1,Canillo,,,Parròquia,Parish,,AD.CA
 AND,Andorra,AND.3_1,Encamp,,,Parròquia,Parish,,AD.EN
@@ -144,17 +144,17 @@ ATG,Antigua and Barbuda,ATG.5_1,Saint Mary,Bolands,,Parish,Parish,,AG.MA
 ATG,Antigua and Barbuda,ATG.6_1,Saint Paul,Nelson's Dockyard,,Parish,Parish,,AG.PA
 ATG,Antigua and Barbuda,ATG.7_1,Saint Peter,Parham,,Parish,Parish,,AG.PE
 ATG,Antigua and Barbuda,ATG.8_1,Saint Philip,Carlisle,,Parish,Parish,,AG.PH
-AUS,Australia,AUS.1_1,Ashmore and Cartier Islands,,,Territory,Territory,"12",AU.AS
-AUS,Australia,AUS.2_1,Australian Capital Territory,,,Territory,Territory,"8",AU.AC
-AUS,Australia,AUS.3_1,Coral Sea Islands Territory,,,Territory,Territory,"11",AU.CR
-AUS,Australia,AUS.4_1,Jervis Bay Territory,,,Territory,Territory,"10",AU.JB
-AUS,Australia,AUS.5_1,New South Wales,,,State,State,"1",AU.NS
-AUS,Australia,AUS.6_1,Northern Territory,,,Territory,Territory,"7",AU.NT
-AUS,Australia,AUS.7_1,Queensland,,,State,State,"3",AU.QL
-AUS,Australia,AUS.8_1,South Australia,,,State,State,"4",AU.SA
-AUS,Australia,AUS.9_1,Tasmania,,,State,State,"6",AU.TS
-AUS,Australia,AUS.10_1,Victoria,,,State,State,"2",AU.VI
-AUS,Australia,AUS.11_1,Western Australia,,,State,State,"5",AU.WA
+AUS,Australia,AUS.1_1,Ashmore and Cartier Islands,,,Territory,Territory,12,AU.AS
+AUS,Australia,AUS.2_1,Australian Capital Territory,,,Territory,Territory,8,AU.AC
+AUS,Australia,AUS.3_1,Coral Sea Islands Territory,,,Territory,Territory,11,AU.CR
+AUS,Australia,AUS.4_1,Jervis Bay Territory,,,Territory,Territory,10,AU.JB
+AUS,Australia,AUS.5_1,New South Wales,,,State,State,1,AU.NS
+AUS,Australia,AUS.6_1,Northern Territory,,,Territory,Territory,7,AU.NT
+AUS,Australia,AUS.7_1,Queensland,,,State,State,3,AU.QL
+AUS,Australia,AUS.8_1,South Australia,,,State,State,4,AU.SA
+AUS,Australia,AUS.9_1,Tasmania,,,State,State,6,AU.TS
+AUS,Australia,AUS.10_1,Victoria,,,State,State,2,AU.VI
+AUS,Australia,AUS.11_1,Western Australia,,,State,State,5,AU.WA
 AUT,Austria,AUT.1_1,Burgenland,Burgenlândia,,Bundesländ|Länd,State,,AT.BU
 AUT,Austria,AUT.2_1,Kärnten,Carinthia|Caríntia|Carintia,,Bundesländ|Länd,State,,AT.KA
 AUT,Austria,AUT.3_1,Niederösterreich,Lower Austria|Baixa-Áustria|Baja Austria|Niederdonau|Österreich unter der Enns,,Bundesländ|Länd,State,,AT.NO
@@ -222,13 +222,13 @@ BFA,Burkina Faso,BFA.10_1,Nord,,,Région,Region,,BF.NO
 BFA,Burkina Faso,BFA.11_1,Plateau-Central,,,Région,Region,,BF.PC
 BFA,Burkina Faso,BFA.12_1,Sahel,,,Région,Region,,BF.SA
 BFA,Burkina Faso,BFA.13_1,Sud-Ouest,,,Région,Region,,BF.SO
-BGD,Bangladesh,BGD.1_1,Barisal,Bakerganj,,Bibhag,Division,"10",BD.BA
-BGD,Bangladesh,BGD.2_1,Chittagong,Chattagram|Parbattya Chattagram|Rangamati,,Bibhag,Division,"20",BD.CG
-BGD,Bangladesh,BGD.3_1,Dhaka,Daca|Dacca,,Bibhag,Division,"30",BD.DH
-BGD,Bangladesh,BGD.4_1,Khulna,,,Bibhag,Division,"40",BD.KH
-BGD,Bangladesh,BGD.5_1,Rajshahi,,,Bibhag,Division,"50",BD.RS
-BGD,Bangladesh,BGD.6_1,Rangpur,,,Bibhag,Division,"55",BD.RP
-BGD,Bangladesh,BGD.7_1,Sylhet,,,Bibhag,Division,"60",BD.SY
+BGD,Bangladesh,BGD.1_1,Barisal,Bakerganj,,Bibhag,Division,10,BD.BA
+BGD,Bangladesh,BGD.2_1,Chittagong,Chattagram|Parbattya Chattagram|Rangamati,,Bibhag,Division,20,BD.CG
+BGD,Bangladesh,BGD.3_1,Dhaka,Daca|Dacca,,Bibhag,Division,30,BD.DH
+BGD,Bangladesh,BGD.4_1,Khulna,,,Bibhag,Division,40,BD.KH
+BGD,Bangladesh,BGD.5_1,Rajshahi,,,Bibhag,Division,50,BD.RS
+BGD,Bangladesh,BGD.6_1,Rangpur,,,Bibhag,Division,55,BD.RP
+BGD,Bangladesh,BGD.7_1,Sylhet,,,Bibhag,Division,60,BD.SY
 BGR,Bulgaria,BGR.1_1,Blagoevgrad,Gorna Cumaya|Cuma-i Bala|Gorna Djumaya|Gorna Dzhumaya,Благоевград,Oblast,Province,,BG.BL
 BGR,Bulgaria,BGR.2_1,Burgas,Bourgas,Бургас,Oblast,Province,,BG.BR
 BGR,Bulgaria,BGR.3_1,Dobrich,Tolbukhin,Добрич,Oblast,Province,,BG.DO
@@ -424,19 +424,19 @@ CAF,Central African Republic,CAF.15_1,Ouham,,,Préfecture,Prefecture,,CF.AC
 CAF,Central African Republic,CAF.14_1,Ouham-Pendé,,,Préfecture,Prefecture,,CF.OP
 CAF,Central African Republic,CAF.16_1,Sangha-Mbaéré,Sangha|Sangha-Économique|Sangha M'baéré,,Préfecture,Economic Prefecture,,CF.SE
 CAF,Central African Republic,CAF.17_1,Vakaga,Birao,,Préfecture,Prefecture,,CF.VK
-CAN,Canada,CAN.1_1,Alberta,,,Province,Province,"48",CA.AB
-CAN,Canada,CAN.2_1,British Columbia,Colombie britannique|New Caledonia,,Province,Province,"59",CA.BC
-CAN,Canada,CAN.3_1,Manitoba,,,Province,Province,"46",CA.MB
-CAN,Canada,CAN.4_1,New Brunswick,Nouveau-Brunswick|Acadia,,Province,Province,"13",CA.NB
-CAN,Canada,CAN.5_1,Newfoundland and Labrador,Newfoundland|Terre-Neuve|Terre-Neuve-et-Labrador,,Province,Province,"10",CA.NF
-CAN,Canada,CAN.6_1,Northwest Territories,Territoires du Nord-Ouest,,Territoire,Territory,"61",CA.NT
-CAN,Canada,CAN.7_1,Nova Scotia,Acadia|Nouvelle-Écosse,,Province,Province,"12",CA.NS
-CAN,Canada,CAN.8_1,Nunavut,,,Territoire,Territory,"62",CA.NU
-CAN,Canada,CAN.9_1,Ontario,Upper Canada,,Province,Province,"35",CA.ON
-CAN,Canada,CAN.10_1,Prince Edward Island,Île de Saint-Jean|Île du Prince-Édouard,,Province,Province,"11",CA.PE
-CAN,Canada,CAN.11_1,Québec,Lower Canada,,Province,Province,"24",CA.QC
-CAN,Canada,CAN.12_1,Saskatchewan,,,Province,Province,"47",CA.SK
-CAN,Canada,CAN.13_1,Yukon,Yukon Territory|Territoire du Yukon|Yukon|Yuk¢n,,Territoire,Territory,"60",CA.YT
+CAN,Canada,CAN.1_1,Alberta,,,Province,Province,48,CA.AB
+CAN,Canada,CAN.2_1,British Columbia,Colombie britannique|New Caledonia,,Province,Province,59,CA.BC
+CAN,Canada,CAN.3_1,Manitoba,,,Province,Province,46,CA.MB
+CAN,Canada,CAN.4_1,New Brunswick,Nouveau-Brunswick|Acadia,,Province,Province,13,CA.NB
+CAN,Canada,CAN.5_1,Newfoundland and Labrador,Newfoundland|Terre-Neuve|Terre-Neuve-et-Labrador,,Province,Province,10,CA.NF
+CAN,Canada,CAN.6_1,Northwest Territories,Territoires du Nord-Ouest,,Territoire,Territory,61,CA.NT
+CAN,Canada,CAN.7_1,Nova Scotia,Acadia|Nouvelle-Écosse,,Province,Province,12,CA.NS
+CAN,Canada,CAN.8_1,Nunavut,,,Territoire,Territory,62,CA.NU
+CAN,Canada,CAN.9_1,Ontario,Upper Canada,,Province,Province,35,CA.ON
+CAN,Canada,CAN.10_1,Prince Edward Island,Île de Saint-Jean|Île du Prince-Édouard,,Province,Province,11,CA.PE
+CAN,Canada,CAN.11_1,Québec,Lower Canada,,Province,Province,24,CA.QC
+CAN,Canada,CAN.12_1,Saskatchewan,,,Province,Province,47,CA.SK
+CAN,Canada,CAN.13_1,Yukon,Yukon Territory|Territoire du Yukon|Yukon|Yuk¢n,,Territoire,Territory,60,CA.YT
 CHE,Switzerland,CHE.1_1,Aargau,Argovia|Arg¢via|Argovie,,Canton|Kanton|Chantun,Canton,,CH.AG
 CHE,Switzerland,CHE.2_1,Appenzell Ausserrhoden,Appenzell Ausser-Rhoden|Appenzell Outer Rhodes|Appenzell dadens|Appenzell Rhodes Extérieures|Appenzello Esterno,,Canton|Kanton|Chantun,Canton,,CH.AR
 CHE,Switzerland,CHE.3_1,Appenzell Innerrhoden,Appenzell Inner-Rhoden|Appenzell Inner Rhodes|Appenzell dador|Appenzell Rhodes Intérieures|Appenzello Interno,,Canton|Kanton|Chantun,Canton,,CH.AI
@@ -497,8 +497,8 @@ CHN,China,CHN.15_1,Jiangsu,Jiāngsū,江蘇|江苏,Shěng,Province,,CN.JS
 CHN,China,CHN.16_1,Jiangxi,Jiāngxī,江西,Shěng,Province,,CN.JX
 CHN,China,CHN.17_1,Jilin,Jílín,吉林,Shěng,Province,,CN.JL
 CHN,China,CHN.18_1,Liaoning,Liáoníng,遼寧|辽宁,Shěng,Province,,CN.LN
-CHN,China,CHN.19_1,Nei Mongol,Inner Mongol|Nèiměnggǔ,內蒙古自治區|内蒙古自治区,Zìzhìqu,Autonomous Region,,CN.NM
-CHN,China,CHN.20_1,Ningxia Hui,Níngxià Húizú,寧夏回族自治區|宁夏回族自治区,Zìzhìqu,Autonomous Region,,CN.NX
+CHN,China,CHN.19_1,Inner Mongolia,Inner Mongol|Nèiměnggǔ,內蒙古自治區|内蒙古自治区,Zìzhìqu,Autonomous Region,,CN.NM
+CHN,China,CHN.20_1,Ningxia,Níngxià Húizú,寧夏回族自治區|宁夏回族自治区,Zìzhìqu,Autonomous Region,,CN.NX
 CHN,China,CHN.21_1,Qinghai,Qīnghǎi,青海,Shěng,Province,,CN.QH
 CHN,China,CHN.22_1,Shaanxi,Shǎnxī,陝西|陕西,Shěng,Province,,CN.SA
 CHN,China,CHN.23_1,Shandong,Shāndōng,山東|山东,Shěng,Province,,CN.SD
@@ -506,8 +506,8 @@ CHN,China,CHN.24_1,Shanghai,Shànghǎi,上海|上海,Zhíxiáshì,Municipality,,
 CHN,China,CHN.25_1,Shanxi,Shānxī,山西,Shěng,Province,,CN.SX
 CHN,China,CHN.26_1,Sichuan,Sìchuān,四川,Shěng,Province,,CN.SC
 CHN,China,CHN.27_1,Tianjin,Tiānjīn,天津|天津,Zhíxiáshì,Municipality,,CN.TJ
-CHN,China,CHN.28_1,Xinjiang Uygur,Xīnjiāng Wéiwúěr,新疆維吾爾自治區|新疆维吾尔自治区,Zìzhìqu,Autonomous Region,,CN.XJ
-CHN,China,CHN.29_1,Xizang,Tibet|Xīzàng,西藏自治區|西藏自治区,Zìzhìqu,Autonomous Region,,CN.XZ
+CHN,China,CHN.28_1,Xinjiang,Xīnjiāng Wéiwúěr,新疆維吾爾自治區|新疆维吾尔自治区,Zìzhìqu,Autonomous Region,,CN.XJ
+CHN,China,CHN.29_1,Tibet,Tibet|Xīzàng,西藏自治區|西藏自治区,Zìzhìqu,Autonomous Region,,CN.XZ
 CHN,China,CHN.30_1,Yunnan,Yúnnán,雲南|云南,Shěng,Province,,CN.YN
 CHN,China,CHN.31_1,Zhejiang,Zhèjiāng,浙江,Shěng,Province,,CN.ZJ
 CIV,Côte d'Ivoire,CIV.1_1,Abidjan,,,District autonome,Autonomous district,,CI.AB
@@ -678,22 +678,22 @@ CZE,Czech Republic,CZE.11_1,Prague,Prag |Hlavní město Praha,,Kraj,Region,,CZ.S
 CZE,Czech Republic,CZE.12_1,Středočeský,Central Bohemian,,Kraj,Region,,CZ.SK
 CZE,Czech Republic,CZE.13_1,Ústecký,Aussig an der Elbe|Aussig|Ústí nad Labem,,Kraj,Region,,CZ.UK
 CZE,Czech Republic,CZE.14_1,Zlínský,Gottwaldov|Zlín,,Kraj,Region,,CZ.ZK
-DEU,Germany,DEU.1_1,Baden-Württemberg,,,Land,State,"08",DE.BW
-DEU,Germany,DEU.2_1,Bayern,Bavaria,,Freistaat,,"09",DE.BY
-DEU,Germany,DEU.3_1,Berlin,,,Land,State,"11",DE.BE
-DEU,Germany,DEU.4_1,Brandenburg,,,Land,State,"12",DE.BR
-DEU,Germany,DEU.5_1,Bremen,,,Freie Hansestadt,State,"04",DE.HB
-DEU,Germany,DEU.6_1,Hamburg,,,Freie und Hansestadt,State,"02",DE.HH
-DEU,Germany,DEU.7_1,Hessen,Hesse,,Land,State,"06",DE.HE
-DEU,Germany,DEU.8_1,Mecklenburg-Vorpommern,Mecklenburg-West Pomerania,,Land,State,"13",DE.MV
-DEU,Germany,DEU.9_1,Niedersachsen,Lower Saxony,,Land,State,"03",DE.NI
-DEU,Germany,DEU.10_1,Nordrhein-Westfalen,North Rhine-Westphalia,,Land,State,"05",DE.NW
-DEU,Germany,DEU.11_1,Rheinland-Pfalz,Rhineland-Palatinate,,Land,State,"07",DE.RP
-DEU,Germany,DEU.12_1,Saarland,,,Land,State,"10",DE.SL
-DEU,Germany,DEU.14_1,Sachsen,Saxony,,Freistaat,State,"14",DE.SN
-DEU,Germany,DEU.13_1,Sachsen-Anhalt,Saxony-Anhalt,,Land,State,"15",DE.ST
-DEU,Germany,DEU.15_1,Schleswig-Holstein,,,Land,State,"01",DE.SH
-DEU,Germany,DEU.16_1,Thüringen,Thuringia,,Freistaat,State,"16",DE.TH
+DEU,Germany,DEU.1_1,Baden-Württemberg,,,Land,State,8,DE.BW
+DEU,Germany,DEU.2_1,Bayern,Bavaria,,Freistaat,,9,DE.BY
+DEU,Germany,DEU.3_1,Berlin,,,Land,State,11,DE.BE
+DEU,Germany,DEU.4_1,Brandenburg,,,Land,State,12,DE.BR
+DEU,Germany,DEU.5_1,Bremen,,,Freie Hansestadt,State,4,DE.HB
+DEU,Germany,DEU.6_1,Hamburg,,,Freie und Hansestadt,State,2,DE.HH
+DEU,Germany,DEU.7_1,Hessen,Hesse,,Land,State,6,DE.HE
+DEU,Germany,DEU.8_1,Mecklenburg-Vorpommern,Mecklenburg-West Pomerania,,Land,State,13,DE.MV
+DEU,Germany,DEU.9_1,Niedersachsen,Lower Saxony,,Land,State,3,DE.NI
+DEU,Germany,DEU.10_1,Nordrhein-Westfalen,North Rhine-Westphalia,,Land,State,5,DE.NW
+DEU,Germany,DEU.11_1,Rheinland-Pfalz,Rhineland-Palatinate,,Land,State,7,DE.RP
+DEU,Germany,DEU.12_1,Saarland,,,Land,State,10,DE.SL
+DEU,Germany,DEU.14_1,Sachsen,Saxony,,Freistaat,State,14,DE.SN
+DEU,Germany,DEU.13_1,Sachsen-Anhalt,Saxony-Anhalt,,Land,State,15,DE.ST
+DEU,Germany,DEU.15_1,Schleswig-Holstein,,,Land,State,1,DE.SH
+DEU,Germany,DEU.16_1,Thüringen,Thuringia,,Freistaat,State,16,DE.TH
 DJI,Djibouti,DJI.1_1,Ali Sabieh,`Ali Sabîh,,Region,Region,,DJ.AS
 DJI,Djibouti,DJI.2_1,Dikhil,Dikkil,,Region,Region,,DJ.DK
 DJI,Djibouti,DJI.3_1,Djibouti,,,City,City,,DJ.DB
@@ -746,78 +746,78 @@ DOM,Dominican Republic,DOM.30_1,Santiago,Santiago de los Caballeros,,Provincia,P
 DOM,Dominican Republic,DOM.29_1,Santiago Rodríguez,Santiago Rodriguez,,Provincia,Province,,DO.SR
 DOM,Dominican Republic,DOM.31_1,Santo Domingo,,,Provincia,Province,,DO.SD
 DOM,Dominican Republic,DOM.32_1,Valverde,,,Provincia,Province,,DO.VA
-DZA,Algeria,DZA.1_1,Adrar,Duperré,ولاية أدرا,Wilaya,Province,"1",DZ.AR
-DZA,Algeria,DZA.2_1,Aïn Defla,Ain Dafla,ولاية عين الدفلى,Wilaya,Province,"44",DZ.AD
-DZA,Algeria,DZA.3_1,Aïn Témouchent,Ain Tamouchent,ولاية عين تموشنت,Wilaya,Province,"46",DZ.AT
-DZA,Algeria,DZA.4_1,Alger,Algeri|Algiers|Algier|al-Jazair|al-Djazair|El Djazaïr|Argel|Dzayer|Djezaïr,ولاية الجزائر,Wilaya,Province,"16",DZ.AL
-DZA,Algeria,DZA.5_1,Annaba,Anaba|Bona|Bône,ولاية عنابة,Wilaya,Province,"23",DZ.AN
-DZA,Algeria,DZA.6_1,Batna,,ولاية باتنة,Wilaya,Province,"5",DZ.BT
-DZA,Algeria,DZA.7_1,Béchar,Colomb-Béchar|Bechar,ولاية بشار,Wilaya,Province,"8",DZ.BC
-DZA,Algeria,DZA.8_1,Béjaïa,Bougie|Bedjaya|Bidjaia|Bugia|Bujia,بجاية,Wilaya,Province,"6",DZ.BJ
-DZA,Algeria,DZA.9_1,Biskra,Beskra,ولاية بسكرة,Wilaya,Province,"7",DZ.BS
-DZA,Algeria,DZA.10_1,Blida,El Boulaïda|Al-Boulaida,البليدة,Wilaya,Province,"9",DZ.BL
-DZA,Algeria,DZA.11_1,Bordj Bou Arréridj,Borjbouarirej|Bordi Bou Arreridj,ولاية برج بوعريريج,Wilaya,Province,"34",DZ.BB
-DZA,Algeria,DZA.12_1,Bouira,,ولاية البويرة,Wilaya,Province,"10",DZ.BU
-DZA,Algeria,DZA.13_1,Boumerdès,Boumerdas,ولاية بومرداس,Wilaya,Province,"35",DZ.BM
-DZA,Algeria,DZA.14_1,Chlef,El Asnam|Orléansville|Ech Cheliff,ولاية الشلف,Wilaya,Province,"2",DZ.CH
-DZA,Algeria,DZA.15_1,Constantine,Constantina|Costatina|Qoussantina|Qacentina,قسنطينة,Wilaya,Province,"25",DZ.CO
-DZA,Algeria,DZA.16_1,Djelfa,El Djelfa,ولاية الجلفة,Wilaya,Province,"17",DZ.DJ
-DZA,Algeria,DZA.17_1,El Bayadh,El Bayad|El Beyyadh|Géryville,ولاية البيض,Wilaya,Province,"32",DZ.EB
-DZA,Algeria,DZA.18_1,El Oued,El Ouadi|El Wad,ولاية الوادي,Wilaya,Province,"39",DZ.EO
-DZA,Algeria,DZA.19_1,El Tarf,Et Tarf|El Taref,ولاية الطارف,Wilaya,Province,"36",DZ.ET
-DZA,Algeria,DZA.20_1,Ghardaïa,GhardaSa|Gharday,ولاية غرداية,Wilaya,Province,"47",DZ.GR
-DZA,Algeria,DZA.21_1,Guelma,,ولاية قالمة,Wilaya,Province,"24",DZ.GL
-DZA,Algeria,DZA.22_1,Illizi,Polignac|Fort Polignac|Ilizi,ولاية اليزي,Wilaya,Province,"33",DZ.IL
-DZA,Algeria,DZA.23_1,Jijel,Djidjel| Djidjelli,ولاية جيجل,Wilaya,Province,"18",DZ.JJ
-DZA,Algeria,DZA.24_1,Khenchela,Khenchela,ولاية خنشلة,Wilaya,Province,"40",DZ.KH
-DZA,Algeria,DZA.25_1,Laghouat,,ولاية الأغواط,Wilaya,Province,"3",DZ.LG
-DZA,Algeria,DZA.26_1,M'Sila,Msila,ولاية المسيلة,Wilaya,Province,"28",DZ.MS
-DZA,Algeria,DZA.27_1,Mascara,Mouaskar,ولاية معسكر,Wilaya,Province,"29",DZ.MC
-DZA,Algeria,DZA.28_1,Médéa,El Mediyya|Lemdiyya,ولاية المدية,Wilaya,Province,"26",DZ.MD
-DZA,Algeria,DZA.29_1,Mila,,ولاية ميلة,Wilaya,Province,"43",DZ.ML
-DZA,Algeria,DZA.30_1,Mostaganem,Mostaghanem|Mestghanem,ولاية مستغانم,Wilaya,Province,"27",DZ.MG
-DZA,Algeria,DZA.31_1,Naâma,Naama,ولاية النعامة,Wilaya,Province,"45",DZ.NA
-DZA,Algeria,DZA.32_1,Oran,Orán|Orano|Orão|Ouahran|Ouahrane|Wahran,ولاية وهران,Wilaya,Province,"31",DZ.OR
-DZA,Algeria,DZA.33_1,Ouargla,Wargla,ورقلة,Wilaya,Province,"30",DZ.OG
-DZA,Algeria,DZA.34_1,Oum el Bouaghi,Oum el Bouagui|Canrobert,ولاية أم البواقي,Wilaya,Province,"4",DZ.OB
-DZA,Algeria,DZA.35_1,Relizane,Ghelizane|Ghilizane,ولاية غليزان,Wilaya,Province,"48",DZ.RE
-DZA,Algeria,DZA.36_1,Saïda,,ولاية سعيدة,Wilaya,Province,"20",DZ.SD
-DZA,Algeria,DZA.37_1,Sétif,Stif,ولاية سطيف,Wilaya,Province,"19",DZ.SF
-DZA,Algeria,DZA.38_1,Sidi Bel Abbès,Sidi-Bel-Abbes,ولاية سيدي بلعباس,Wilaya,Province,"22",DZ.SB
-DZA,Algeria,DZA.39_1,Skikda,Philippeville|Skidda,سكيكدة,Wilaya,Province,"21",DZ.SK
-DZA,Algeria,DZA.40_1,Souk Ahras,Souk-Ahras|Souq Ahras,ولاية سوق أهراس,Wilaya,Province,"41",DZ.SA
-DZA,Algeria,DZA.41_1,Tamanghasset,Tamanrasset|Tamenghasset|Tamenghest|Fort Laperrine,ولاية تمنراست,Wilaya,Province,"11",DZ.TM
-DZA,Algeria,DZA.42_1,Tébessa,Tbessa,ولاية تبسة,Wilaya,Province,"12",DZ.TB
-DZA,Algeria,DZA.43_1,Tiaret,Tendouf|Tihert,ولاية تيارت,Wilaya,Province,"14",DZ.TR
-DZA,Algeria,DZA.44_1,Tindouf,Tiaret,ولاية تندوف,Wilaya,Province,"37",DZ.TN
-DZA,Algeria,DZA.45_1,Tipaza,Tibaza| Tefessedt,ولاية تيبازة,Wilaya,Province,"42",DZ.TP
-DZA,Algeria,DZA.46_1,Tissemsilt,Vialar,ولاية تسمسيلت,Wilaya,Province,"38",DZ.TS
-DZA,Algeria,DZA.47_1,Tizi Ouzou,Tizi-ouzou|Tizi Wezzu,ولاية غليزان,Wilaya,Province,"15",DZ.TO
-DZA,Algeria,DZA.48_1,Tlemcen,Tilimsene|Tlemsane|Tilimsen|Tremecém,تلمسان,Wilaya,Province,"13",DZ.TL
-ECU,Ecuador,ECU.1_1,Azuay,,,Provincia,Province,"01",EC.AZ
-ECU,Ecuador,ECU.2_1,Bolivar,,,Provincia,Province,"02",EC.BO
-ECU,Ecuador,ECU.3_1,Cañar,,,Provincia,Province,"03",EC.CN
-ECU,Ecuador,ECU.4_1,Carchi,,,Provincia,Province,"04",EC.CR
-ECU,Ecuador,ECU.5_1,Chimborazo,,,Provincia,Province,"06",EC.CB
-ECU,Ecuador,ECU.6_1,Cotopaxi,,,Provincia,Province,"05",EC.CT
-ECU,Ecuador,ECU.7_1,El Oro,,,Provincia,Province,"07",EC.EO
-ECU,Ecuador,ECU.8_1,Esmeraldas,,,Provincia,Province,"08",EC.ES
-ECU,Ecuador,ECU.9_1,Galápagos,,,Provincia,Province,"20",EC.GA
-ECU,Ecuador,ECU.10_1,Guayas,,,Provincia,Province,"09",EC.GU
-ECU,Ecuador,ECU.11_1,Imbabura,,,Provincia,Province,"10",EC.IM
-ECU,Ecuador,ECU.12_1,Loja,,,Provincia,Province,"11",EC.LJ
-ECU,Ecuador,ECU.13_1,Los Rios,,,Provincia,Province,"12",EC.LR
-ECU,Ecuador,ECU.14_1,Manabi,,,Provincia,Province,"13",EC.MN
-ECU,Ecuador,ECU.15_1,Morona Santiago,,,Provincia,Province,"14",EC.MS
-ECU,Ecuador,ECU.16_1,Napo,,,Provincia,Province,"15",EC.NA
-ECU,Ecuador,ECU.17_1,Orellana,,,Provincia,Province,"22",EC.OR
-ECU,Ecuador,ECU.18_1,Pastaza,,,Provincia,Province,"16",EC.PA
-ECU,Ecuador,ECU.19_1,Pichincha,,,Provincia,Province,"17",EC.PI
-ECU,Ecuador,ECU.20_1,Santa Elena,,,Provincia,Province,"24",EC.SE
-ECU,Ecuador,ECU.21_1,Santo Domingo de los Tsachilas,,,Provincia,Province,"23",EC.SD
-ECU,Ecuador,ECU.22_1,Sucumbios,,,Provincia,Province,"21",EC.SU
-ECU,Ecuador,ECU.23_1,Tungurahua,,,Provincia,Province,"18",EC.TU
-ECU,Ecuador,ECU.24_1,Zamora Chinchipe,,,Provincia,Province,"19",EC.ZC
+DZA,Algeria,DZA.1_1,Adrar,Duperré,ولاية أدرا,Wilaya,Province,1,DZ.AR
+DZA,Algeria,DZA.2_1,Aïn Defla,Ain Dafla,ولاية عين الدفلى,Wilaya,Province,44,DZ.AD
+DZA,Algeria,DZA.3_1,Aïn Témouchent,Ain Tamouchent,ولاية عين تموشنت,Wilaya,Province,46,DZ.AT
+DZA,Algeria,DZA.4_1,Alger,Algeri|Algiers|Algier|al-Jazair|al-Djazair|El Djazaïr|Argel|Dzayer|Djezaïr,ولاية الجزائر,Wilaya,Province,16,DZ.AL
+DZA,Algeria,DZA.5_1,Annaba,Anaba|Bona|Bône,ولاية عنابة,Wilaya,Province,23,DZ.AN
+DZA,Algeria,DZA.6_1,Batna,,ولاية باتنة,Wilaya,Province,5,DZ.BT
+DZA,Algeria,DZA.7_1,Béchar,Colomb-Béchar|Bechar,ولاية بشار,Wilaya,Province,8,DZ.BC
+DZA,Algeria,DZA.8_1,Béjaïa,Bougie|Bedjaya|Bidjaia|Bugia|Bujia,بجاية,Wilaya,Province,6,DZ.BJ
+DZA,Algeria,DZA.9_1,Biskra,Beskra,ولاية بسكرة,Wilaya,Province,7,DZ.BS
+DZA,Algeria,DZA.10_1,Blida,El Boulaïda|Al-Boulaida,البليدة,Wilaya,Province,9,DZ.BL
+DZA,Algeria,DZA.11_1,Bordj Bou Arréridj,Borjbouarirej|Bordi Bou Arreridj,ولاية برج بوعريريج,Wilaya,Province,34,DZ.BB
+DZA,Algeria,DZA.12_1,Bouira,,ولاية البويرة,Wilaya,Province,10,DZ.BU
+DZA,Algeria,DZA.13_1,Boumerdès,Boumerdas,ولاية بومرداس,Wilaya,Province,35,DZ.BM
+DZA,Algeria,DZA.14_1,Chlef,El Asnam|Orléansville|Ech Cheliff,ولاية الشلف,Wilaya,Province,2,DZ.CH
+DZA,Algeria,DZA.15_1,Constantine,Constantina|Costatina|Qoussantina|Qacentina,قسنطينة,Wilaya,Province,25,DZ.CO
+DZA,Algeria,DZA.16_1,Djelfa,El Djelfa,ولاية الجلفة,Wilaya,Province,17,DZ.DJ
+DZA,Algeria,DZA.17_1,El Bayadh,El Bayad|El Beyyadh|Géryville,ولاية البيض,Wilaya,Province,32,DZ.EB
+DZA,Algeria,DZA.18_1,El Oued,El Ouadi|El Wad,ولاية الوادي,Wilaya,Province,39,DZ.EO
+DZA,Algeria,DZA.19_1,El Tarf,Et Tarf|El Taref,ولاية الطارف,Wilaya,Province,36,DZ.ET
+DZA,Algeria,DZA.20_1,Ghardaïa,GhardaSa|Gharday,ولاية غرداية,Wilaya,Province,47,DZ.GR
+DZA,Algeria,DZA.21_1,Guelma,,ولاية قالمة,Wilaya,Province,24,DZ.GL
+DZA,Algeria,DZA.22_1,Illizi,Polignac|Fort Polignac|Ilizi,ولاية اليزي,Wilaya,Province,33,DZ.IL
+DZA,Algeria,DZA.23_1,Jijel,Djidjel| Djidjelli,ولاية جيجل,Wilaya,Province,18,DZ.JJ
+DZA,Algeria,DZA.24_1,Khenchela,Khenchela,ولاية خنشلة,Wilaya,Province,40,DZ.KH
+DZA,Algeria,DZA.25_1,Laghouat,,ولاية الأغواط,Wilaya,Province,3,DZ.LG
+DZA,Algeria,DZA.26_1,M'Sila,Msila,ولاية المسيلة,Wilaya,Province,28,DZ.MS
+DZA,Algeria,DZA.27_1,Mascara,Mouaskar,ولاية معسكر,Wilaya,Province,29,DZ.MC
+DZA,Algeria,DZA.28_1,Médéa,El Mediyya|Lemdiyya,ولاية المدية,Wilaya,Province,26,DZ.MD
+DZA,Algeria,DZA.29_1,Mila,,ولاية ميلة,Wilaya,Province,43,DZ.ML
+DZA,Algeria,DZA.30_1,Mostaganem,Mostaghanem|Mestghanem,ولاية مستغانم,Wilaya,Province,27,DZ.MG
+DZA,Algeria,DZA.31_1,Naâma,Naama,ولاية النعامة,Wilaya,Province,45,DZ.NA
+DZA,Algeria,DZA.32_1,Oran,Orán|Orano|Orão|Ouahran|Ouahrane|Wahran,ولاية وهران,Wilaya,Province,31,DZ.OR
+DZA,Algeria,DZA.33_1,Ouargla,Wargla,ورقلة,Wilaya,Province,30,DZ.OG
+DZA,Algeria,DZA.34_1,Oum el Bouaghi,Oum el Bouagui|Canrobert,ولاية أم البواقي,Wilaya,Province,4,DZ.OB
+DZA,Algeria,DZA.35_1,Relizane,Ghelizane|Ghilizane,ولاية غليزان,Wilaya,Province,48,DZ.RE
+DZA,Algeria,DZA.36_1,Saïda,,ولاية سعيدة,Wilaya,Province,20,DZ.SD
+DZA,Algeria,DZA.37_1,Sétif,Stif,ولاية سطيف,Wilaya,Province,19,DZ.SF
+DZA,Algeria,DZA.38_1,Sidi Bel Abbès,Sidi-Bel-Abbes,ولاية سيدي بلعباس,Wilaya,Province,22,DZ.SB
+DZA,Algeria,DZA.39_1,Skikda,Philippeville|Skidda,سكيكدة,Wilaya,Province,21,DZ.SK
+DZA,Algeria,DZA.40_1,Souk Ahras,Souk-Ahras|Souq Ahras,ولاية سوق أهراس,Wilaya,Province,41,DZ.SA
+DZA,Algeria,DZA.41_1,Tamanghasset,Tamanrasset|Tamenghasset|Tamenghest|Fort Laperrine,ولاية تمنراست,Wilaya,Province,11,DZ.TM
+DZA,Algeria,DZA.42_1,Tébessa,Tbessa,ولاية تبسة,Wilaya,Province,12,DZ.TB
+DZA,Algeria,DZA.43_1,Tiaret,Tendouf|Tihert,ولاية تيارت,Wilaya,Province,14,DZ.TR
+DZA,Algeria,DZA.44_1,Tindouf,Tiaret,ولاية تندوف,Wilaya,Province,37,DZ.TN
+DZA,Algeria,DZA.45_1,Tipaza,Tibaza| Tefessedt,ولاية تيبازة,Wilaya,Province,42,DZ.TP
+DZA,Algeria,DZA.46_1,Tissemsilt,Vialar,ولاية تسمسيلت,Wilaya,Province,38,DZ.TS
+DZA,Algeria,DZA.47_1,Tizi Ouzou,Tizi-ouzou|Tizi Wezzu,ولاية غليزان,Wilaya,Province,15,DZ.TO
+DZA,Algeria,DZA.48_1,Tlemcen,Tilimsene|Tlemsane|Tilimsen|Tremecém,تلمسان,Wilaya,Province,13,DZ.TL
+ECU,Ecuador,ECU.1_1,Azuay,,,Provincia,Province,1,EC.AZ
+ECU,Ecuador,ECU.2_1,Bolivar,,,Provincia,Province,2,EC.BO
+ECU,Ecuador,ECU.3_1,Cañar,,,Provincia,Province,3,EC.CN
+ECU,Ecuador,ECU.4_1,Carchi,,,Provincia,Province,4,EC.CR
+ECU,Ecuador,ECU.5_1,Chimborazo,,,Provincia,Province,6,EC.CB
+ECU,Ecuador,ECU.6_1,Cotopaxi,,,Provincia,Province,5,EC.CT
+ECU,Ecuador,ECU.7_1,El Oro,,,Provincia,Province,7,EC.EO
+ECU,Ecuador,ECU.8_1,Esmeraldas,,,Provincia,Province,8,EC.ES
+ECU,Ecuador,ECU.9_1,Galápagos,,,Provincia,Province,20,EC.GA
+ECU,Ecuador,ECU.10_1,Guayas,,,Provincia,Province,9,EC.GU
+ECU,Ecuador,ECU.11_1,Imbabura,,,Provincia,Province,10,EC.IM
+ECU,Ecuador,ECU.12_1,Loja,,,Provincia,Province,11,EC.LJ
+ECU,Ecuador,ECU.13_1,Los Rios,,,Provincia,Province,12,EC.LR
+ECU,Ecuador,ECU.14_1,Manabi,,,Provincia,Province,13,EC.MN
+ECU,Ecuador,ECU.15_1,Morona Santiago,,,Provincia,Province,14,EC.MS
+ECU,Ecuador,ECU.16_1,Napo,,,Provincia,Province,15,EC.NA
+ECU,Ecuador,ECU.17_1,Orellana,,,Provincia,Province,22,EC.OR
+ECU,Ecuador,ECU.18_1,Pastaza,,,Provincia,Province,16,EC.PA
+ECU,Ecuador,ECU.19_1,Pichincha,,,Provincia,Province,17,EC.PI
+ECU,Ecuador,ECU.20_1,Santa Elena,,,Provincia,Province,24,EC.SE
+ECU,Ecuador,ECU.21_1,Santo Domingo de los Tsachilas,,,Provincia,Province,23,EC.SD
+ECU,Ecuador,ECU.22_1,Sucumbios,,,Provincia,Province,21,EC.SU
+ECU,Ecuador,ECU.23_1,Tungurahua,,,Provincia,Province,18,EC.TU
+ECU,Ecuador,ECU.24_1,Zamora Chinchipe,,,Provincia,Province,19,EC.ZC
 EGY,Egypt,EGY.1_1,Ad Daqahliyah,Al Daqahliyah|Dacahlia|Dagahlia|Dakahlieh|Dakahliya|Dakalieh|Daqalīya|Dakahlia|Dekahlia,الدقهلية,Muhafazah,Governorate,,EG.DQ
 EGY,Egypt,EGY.2_1,Al Bahr al Ahmar,Mar Rojo|Mar Vermelho|Mer Rouge|Red Sea,محافظة البحر الأحمر,Muhafazah,Governorate,,EG.BA
 EGY,Egypt,EGY.3_1,Al Buhayrah,Beheira|Behera|El Buhayra|Béhéra,البحيرة,Muhafazah,Governorate,,EG.BH
@@ -855,24 +855,24 @@ ESH,Western Sahara,ESH.1_1,Boujdour,Bojador,,Willaya,Province,,EH.BO
 ESH,Western Sahara,ESH.2_1,Es Semara,Smara,,Willaya,Province,,EH.ES
 ESH,Western Sahara,ESH.3_1,Laayoune,El aaiún,,Willaya,Province,,EH.LA
 ESH,Western Sahara,ESH.4_1,Oued el Dahab,Ed Dakhla|Oued Eddahab,,Willaya,Province,,EH.OD
-ESP,Spain,ESP.1_1,Andalucía,Andalousie|Andaluc¡a|Andalusien|Andaluzia,,Comunidad Autónoma,Autonomous Community,"01",ES.AN
-ESP,Spain,ESP.2_1,Aragón,Aragão|Aragó|Aragón|Aragona|Aragonien,,Comunidad Autónoma,Autonomous Community,"15",ES.AR
-ESP,Spain,ESP.3_1,Cantabria,Cantàbria|Cantábria|Cantabrie|Kantabrien,,Comunidad Autónoma,Autonomous Community,"06",ES.CB
-ESP,Spain,ESP.4_1,Castilla-La Mancha,Castela-La Mancha|Castela-Mancha|Castella-la Manxa|Castilha-La Mancha,,Comunidad Autónoma,Autonomous Community,"08",ES.CM
-ESP,Spain,ESP.5_1,Castilla y León,Castile and Leon|Castela e Leão|Castella i Lleó|Castile-Leon|Castilha-Leão|Castilla y León|Castille et Léon|Kastilien-León,,Comunidad Autónoma,Autonomous Community,"07",ES.CL
-ESP,Spain,ESP.6_1,Cataluña,Catalogna|Catalogne|Catalonia|Catalunha|Catalunya|Katalonien,,Comunidad Autónoma,Autonomous Community,"09",ES.CT
-ESP,Spain,ESP.7_1,Ceuta y Melilla,,,Ciudades Autónomas,Autonomous City,"19",ES.ML
+ESP,Spain,ESP.1_1,Andalucía,Andalousie|Andaluc¡a|Andalusien|Andaluzia,,Comunidad Autónoma,Autonomous Community,1,ES.AN
+ESP,Spain,ESP.2_1,Aragón,Aragão|Aragó|Aragón|Aragona|Aragonien,,Comunidad Autónoma,Autonomous Community,15,ES.AR
+ESP,Spain,ESP.3_1,Cantabria,Cantàbria|Cantábria|Cantabrie|Kantabrien,,Comunidad Autónoma,Autonomous Community,6,ES.CB
+ESP,Spain,ESP.4_1,Castilla-La Mancha,Castela-La Mancha|Castela-Mancha|Castella-la Manxa|Castilha-La Mancha,,Comunidad Autónoma,Autonomous Community,8,ES.CM
+ESP,Spain,ESP.5_1,Castilla y León,Castile and Leon|Castela e Leão|Castella i Lleó|Castile-Leon|Castilha-Leão|Castilla y León|Castille et Léon|Kastilien-León,,Comunidad Autónoma,Autonomous Community,7,ES.CL
+ESP,Spain,ESP.6_1,Cataluña,Catalogna|Catalogne|Catalonia|Catalunha|Catalunya|Katalonien,,Comunidad Autónoma,Autonomous Community,9,ES.CT
+ESP,Spain,ESP.7_1,Ceuta y Melilla,,,Ciudades Autónomas,Autonomous City,19,ES.ML
 ESP,Spain,ESP.8_1,Comunidad de Madrid,Madrid|Communauté de Madrid| Community of Madrid|Comunidad de Madrid |Comunidade de Madrid|Comunitat de Madrid,,Comunidad Autónoma,Autonomous Community,,ES.MD
-ESP,Spain,ESP.9_1,Comunidad Foral de Navarra,Communauté forale de Navarre|Comunidade Foral de Navarra|Comunitat Foral|Navarra,,Comunidad Autónoma,Autonomous Community,"15",ES.NA
-ESP,Spain,ESP.10_1,Comunidad Valenciana,Valencia|Communauté de Valence|Comunidade Valenciana|Comunidad Valenciana|Comunitat Valenciana,,Comunidad Autónoma,Autonomous Community,"10",ES.VC
-ESP,Spain,ESP.11_1,Extremadura,Estremadura|Estrémadure,,Comunidad Autónoma,Autonomous Community,"11",ES.EX
-ESP,Spain,ESP.12_1,Galicia,Galice|Gal¡cia|Galicien|Galiza|Galizia,,Comunidad Autónoma,Autonomous Community,"12",ES.GA
-ESP,Spain,ESP.13_1,Islas Baleares,Balearic Islands|Balearen|Balearene|Baleares|Islas Baleares|Baleari|Îles Baléares|Ilhas Baleares|Illes Balears,,Comunidad Autónoma,Autonomous Community,"04",ES.PM
-ESP,Spain,ESP.14_1,Islas Canarias,Canarias|Canary Islands|Canárias|Ilhas Canárias|Canarie|Îles Canaries|Illes Canàries|Kanariøyene|Kanarische Inseln,,Comunidad Autónoma,Autonomous Community,"05",ES.CN
-ESP,Spain,ESP.15_1,La Rioja,Rioja,,Comunidad Autónoma,Autonomous Community,"17",ES.LO
-ESP,Spain,ESP.16_1,País Vasco,Basque Country|Baskenland|Basque Autonomous Community|Basque Provinces|CAV|Comunidad Autonoma Vasca,,Comunidad Autónoma,Autonomous Community,"16",ES.PV
-ESP,Spain,ESP.17_1,Principado de Asturias,Astúrias|Asturie|Asturien|Asturies|Astúries|Asturias,,Comunidad Autónoma,Autonomous Community,"03",ES.AS
-ESP,Spain,ESP.18_1,Región de Murcia,Murcia|Região de Múrcia|Regió de Múrcia|Région de Murcie|Region of Murcia,,Comunidad Autónoma,Autonomous Community,"14",ES.MU
+ESP,Spain,ESP.9_1,Comunidad Foral de Navarra,Communauté forale de Navarre|Comunidade Foral de Navarra|Comunitat Foral|Navarra,,Comunidad Autónoma,Autonomous Community,15,ES.NA
+ESP,Spain,ESP.10_1,Comunidad Valenciana,Valencia|Communauté de Valence|Comunidade Valenciana|Comunidad Valenciana|Comunitat Valenciana,,Comunidad Autónoma,Autonomous Community,10,ES.VC
+ESP,Spain,ESP.11_1,Extremadura,Estremadura|Estrémadure,,Comunidad Autónoma,Autonomous Community,11,ES.EX
+ESP,Spain,ESP.12_1,Galicia,Galice|Gal¡cia|Galicien|Galiza|Galizia,,Comunidad Autónoma,Autonomous Community,12,ES.GA
+ESP,Spain,ESP.13_1,Islas Baleares,Balearic Islands|Balearen|Balearene|Baleares|Islas Baleares|Baleari|Îles Baléares|Ilhas Baleares|Illes Balears,,Comunidad Autónoma,Autonomous Community,4,ES.PM
+ESP,Spain,ESP.14_1,Islas Canarias,Canarias|Canary Islands|Canárias|Ilhas Canárias|Canarie|Îles Canaries|Illes Canàries|Kanariøyene|Kanarische Inseln,,Comunidad Autónoma,Autonomous Community,5,ES.CN
+ESP,Spain,ESP.15_1,La Rioja,Rioja,,Comunidad Autónoma,Autonomous Community,17,ES.LO
+ESP,Spain,ESP.16_1,País Vasco,Basque Country|Baskenland|Basque Autonomous Community|Basque Provinces|CAV|Comunidad Autonoma Vasca,,Comunidad Autónoma,Autonomous Community,16,ES.PV
+ESP,Spain,ESP.17_1,Principado de Asturias,Astúrias|Asturie|Asturien|Asturies|Astúries|Asturias,,Comunidad Autónoma,Autonomous Community,3,ES.AS
+ESP,Spain,ESP.18_1,Región de Murcia,Murcia|Região de Múrcia|Regió de Múrcia|Région de Murcie|Region of Murcia,,Comunidad Autónoma,Autonomous Community,14,ES.MU
 EST,Estonia,EST.1_1,Harju,Harjumaa|Harju maakond,,Maakond,County,,EE.HA
 EST,Estonia,EST.2_1,Hiiu,Hiiumaa|Hiiu maakond|Dagö,,Maakond,County,,EE.HI
 EST,Estonia,EST.3_1,Ida-Viru,Ida-Virumaa|Ida-Viru maakond,,Maakond,County,,EE.IV
@@ -889,17 +889,17 @@ EST,Estonia,EST.13_1,Tartu,Tartumaa|Tartu maakond|Dorpat,,Maakond,County,,EE.TA
 EST,Estonia,EST.14_1,Valga,Valgamaa|Valga maakond,,Maakond,County,,EE.VG
 EST,Estonia,EST.15_1,Viljandi,Viljandimaa|Viljandi maakond|Vilyandi,,Maakond,County,,EE.VD
 EST,Estonia,EST.16_1,Võru,Voru|Võrumaa|Võru maakond,,Maakond,County,,EE.VR
-ETH,Ethiopia,ETH.1_1,Addis Abeba,Āddīs Ābaba|Addis Ababa|Adis-Abeba|Ādīs Ābeba,,Astedader,City,"14",ET.AA
-ETH,Ethiopia,ETH.2_1,Afar,,,Kilil,State,"02",ET.AF
-ETH,Ethiopia,ETH.3_1,Amhara,Amara,,Kilil,State,"03",ET.AM
-ETH,Ethiopia,ETH.4_1,Benshangul-Gumaz,Beneshangul Gumu,,Kilil,State,"06",ET.BE
-ETH,Ethiopia,ETH.5_1,Dire Dawa,,,Astedader,City,"15",ET.DD
-ETH,Ethiopia,ETH.6_1,Gambela Peoples,Gambela,,Kilil,State,"12",ET.GA
-ETH,Ethiopia,ETH.7_1,Harari People,Hareri,,Kilil,State,"13",ET.HA
-ETH,Ethiopia,ETH.8_1,Oromia,Oromiya,,Kilil,State,"04",ET.OR
-ETH,Ethiopia,ETH.9_1,Somali,Sumale,,Kilil,State,"05",ET.SO
-ETH,Ethiopia,ETH.10_1,"Southern Nations, Nationalities and Peoples",SNNPR,,Kilil,State,"07",ET.SN
-ETH,Ethiopia,ETH.11_1,Tigray,Tegré|Tigrai|Tigre,,Kilil,State,"01",ET.TI
+ETH,Ethiopia,ETH.1_1,Addis Abeba,Āddīs Ābaba|Addis Ababa|Adis-Abeba|Ādīs Ābeba,,Astedader,City,14,ET.AA
+ETH,Ethiopia,ETH.2_1,Afar,,,Kilil,State,2,ET.AF
+ETH,Ethiopia,ETH.3_1,Amhara,Amara,,Kilil,State,3,ET.AM
+ETH,Ethiopia,ETH.4_1,Benshangul-Gumaz,Beneshangul Gumu,,Kilil,State,6,ET.BE
+ETH,Ethiopia,ETH.5_1,Dire Dawa,,,Astedader,City,15,ET.DD
+ETH,Ethiopia,ETH.6_1,Gambela Peoples,Gambela,,Kilil,State,12,ET.GA
+ETH,Ethiopia,ETH.7_1,Harari People,Hareri,,Kilil,State,13,ET.HA
+ETH,Ethiopia,ETH.8_1,Oromia,Oromiya,,Kilil,State,4,ET.OR
+ETH,Ethiopia,ETH.9_1,Somali,Sumale,,Kilil,State,5,ET.SO
+ETH,Ethiopia,ETH.10_1,"Southern Nations, Nationalities and Peoples",SNNPR,,Kilil,State,7,ET.SN
+ETH,Ethiopia,ETH.11_1,Tigray,Tegré|Tigrai|Tigre,,Kilil,State,1,ET.TI
 FIN,Finland,FIN.1_1,Eastern Finland,Itä-Suomen lääni|Östra Finlands län,,Lääni,Province,,FI.IS
 FIN,Finland,FIN.2_1,Lapland,Lapin lääni|Lappi|Laponia|Lapônia|Laponie|Lappland|Lapplands län,,Lääni,Province,,FI.LP
 FIN,Finland,FIN.3_1,Oulu,Oulun lääni|Uleåborgs län,,Lääni,Province,,FI.OU
@@ -1078,16 +1078,16 @@ GUM,Guam,GUM.16_1,Tamuning,,,Municipality,Municipality,,GU.TM
 GUM,Guam,GUM.17_1,Umatac,,,Municipality,Municipality,,GU.UM
 GUM,Guam,GUM.18_1,Yigo,,,Municipality,Municipality,,GU.YG
 GUM,Guam,GUM.19_1,Yona,,,Municipality,Municipality,,GU.YN
-GUY,Guyana,GUY.1_1,Barima-Waini,,,Region,Region,"1",GY.BA
-GUY,Guyana,GUY.2_1,Cuyuni-Mazaruni,,,Region,Region,"7",GY.CU
-GUY,Guyana,GUY.3_1,Demerara-Mahaica,,,Region,Region,"4",GY.DE
-GUY,Guyana,GUY.4_1,East Berbice-Corentyne,,,Region,Region,"6",GY.EB
-GUY,Guyana,GUY.5_1,Essequibo Islands-West Demerara,,,Region,Region,"3",GY.ES
-GUY,Guyana,GUY.6_1,Mahaica-Berbice,,,Region,Region,"5",GY.MA
-GUY,Guyana,GUY.7_1,Pomeroon-Supenaam,,,Region,Region,"2",GY.PM
-GUY,Guyana,GUY.8_1,Potaro-Siparuni,,,Region,Region,"8",GY.PT
-GUY,Guyana,GUY.9_1,Upper Demerara-Berbice,,,Region,Region,"10",GY.UD
-GUY,Guyana,GUY.10_1,Upper Takutu-Upper Essequibo,,,Region,Region,"9",GY.UT
+GUY,Guyana,GUY.1_1,Barima-Waini,,,Region,Region,1,GY.BA
+GUY,Guyana,GUY.2_1,Cuyuni-Mazaruni,,,Region,Region,7,GY.CU
+GUY,Guyana,GUY.3_1,Demerara-Mahaica,,,Region,Region,4,GY.DE
+GUY,Guyana,GUY.4_1,East Berbice-Corentyne,,,Region,Region,6,GY.EB
+GUY,Guyana,GUY.5_1,Essequibo Islands-West Demerara,,,Region,Region,3,GY.ES
+GUY,Guyana,GUY.6_1,Mahaica-Berbice,,,Region,Region,5,GY.MA
+GUY,Guyana,GUY.7_1,Pomeroon-Supenaam,,,Region,Region,2,GY.PM
+GUY,Guyana,GUY.8_1,Potaro-Siparuni,,,Region,Region,8,GY.PT
+GUY,Guyana,GUY.9_1,Upper Demerara-Berbice,,,Region,Region,10,GY.UD
+GUY,Guyana,GUY.10_1,Upper Takutu-Upper Essequibo,,,Region,Region,9,GY.UT
 HKG,Hong Kong,HKG.1_1,Central and Western,,,District,District,,HK.CW
 HKG,Hong Kong,HKG.2_1,Eastern,,,District,District,,HK.EA
 HKG,Hong Kong,HKG.3_1,Islands,,,District,District,,HK.IS
@@ -1175,39 +1175,39 @@ HUN,Hungary,HUN.17_1,Tolna,,,Megye,County,,HU.TO
 HUN,Hungary,HUN.18_1,Vas,,,Megye,County,,HU.VA
 HUN,Hungary,HUN.19_1,Veszprém,,,Megye,County,,HU.VE
 HUN,Hungary,HUN.20_1,Zala,,,Megye,County,,HU.ZA
-IDN,Indonesia,IDN.1_1,Aceh,,,Propinisi,Province,"11",ID.AC
-IDN,Indonesia,IDN.2_1,Bali,,,Propinisi,Province,"51",ID.BA
-IDN,Indonesia,IDN.3_1,Bangka Belitung,,,Propinisi,Province,"19",ID.BB
-IDN,Indonesia,IDN.4_1,Banten,,,Propinisi,Province,"36",ID.BT
-IDN,Indonesia,IDN.5_1,Bengkulu,,,Propinisi,Province,"17",ID.BE
-IDN,Indonesia,IDN.6_1,Gorontalo,,,Propinisi,Province,"75",ID.GO
-IDN,Indonesia,IDN.7_1,Jakarta Raya,,,Propinisi,Province,"31",ID.JK
-IDN,Indonesia,IDN.8_1,Jambi,,,Propinisi,Province,"15",ID.JA
-IDN,Indonesia,IDN.9_1,Jawa Barat,,,Propinisi,Province,"32",ID.JR
-IDN,Indonesia,IDN.10_1,Jawa Tengah,,,Propinisi,Province,"33",ID.JT
-IDN,Indonesia,IDN.11_1,Jawa Timur,,,Propinisi,Province,"35",ID.JI
-IDN,Indonesia,IDN.12_1,Kalimantan Barat,,,Propinisi,Province,"61",ID.KB
-IDN,Indonesia,IDN.13_1,Kalimantan Selatan,,,Propinisi,Province,"63",ID.KS
-IDN,Indonesia,IDN.14_1,Kalimantan Tengah,,,Propinisi,Province,"62",ID.KT
-IDN,Indonesia,IDN.15_1,Kalimantan Timur,,,Propinisi,Province,"64",ID.KM
-IDN,Indonesia,IDN.16_1,Kepulauan Riau,,,Propinisi,Province,"21",ID.KR
-IDN,Indonesia,IDN.17_1,Lampung,,,Propinisi,Province,"18",ID.LA
-IDN,Indonesia,IDN.19_1,Maluku,,,Propinisi,Province,"81",ID.MA
-IDN,Indonesia,IDN.18_1,Maluku Utara,,,Propinisi,Province,"82",ID.MU
-IDN,Indonesia,IDN.20_1,Nusa Tenggara Barat,,,Propinisi,Province,"52",ID.NB
-IDN,Indonesia,IDN.21_1,Nusa Tenggara Timur,,,Propinisi,Province,"53",ID.NT
-IDN,Indonesia,IDN.23_1,Papua,,,Propinisi,Province,"94",ID.PA
-IDN,Indonesia,IDN.22_1,Papua Barat,,,Propinisi,Province,"91",ID.IB
-IDN,Indonesia,IDN.24_1,Riau,,,Propinisi,Province,"14",ID.RI
-IDN,Indonesia,IDN.25_1,Sulawesi Barat,,,Propinisi,Province,"76",ID.SR
-IDN,Indonesia,IDN.26_1,Sulawesi Selatan,,,Propinisi,Province,"73",ID.SE
-IDN,Indonesia,IDN.27_1,Sulawesi Tengah,,,Propinisi,Province,"72",ID.ST
-IDN,Indonesia,IDN.28_1,Sulawesi Tenggara,,,Propinisi,Province,"74",ID.SG
-IDN,Indonesia,IDN.29_1,Sulawesi Utara,,,Propinisi,Province,"71",ID.SW
-IDN,Indonesia,IDN.30_1,Sumatera Barat,,,Propinisi,Province,"13",ID.SB
-IDN,Indonesia,IDN.31_1,Sumatera Selatan,,,Propinisi,Province,"16",ID.SL
-IDN,Indonesia,IDN.32_1,Sumatera Utara,,,Propinisi,Province,"12",ID.SU
-IDN,Indonesia,IDN.33_1,Yogyakarta,,,Propinisi,Province,"34",ID.YO
+IDN,Indonesia,IDN.1_1,Aceh,,,Propinisi,Province,11,ID.AC
+IDN,Indonesia,IDN.2_1,Bali,,,Propinisi,Province,51,ID.BA
+IDN,Indonesia,IDN.3_1,Bangka Belitung,,,Propinisi,Province,19,ID.BB
+IDN,Indonesia,IDN.4_1,Banten,,,Propinisi,Province,36,ID.BT
+IDN,Indonesia,IDN.5_1,Bengkulu,,,Propinisi,Province,17,ID.BE
+IDN,Indonesia,IDN.6_1,Gorontalo,,,Propinisi,Province,75,ID.GO
+IDN,Indonesia,IDN.7_1,Jakarta Raya,,,Propinisi,Province,31,ID.JK
+IDN,Indonesia,IDN.8_1,Jambi,,,Propinisi,Province,15,ID.JA
+IDN,Indonesia,IDN.9_1,Jawa Barat,,,Propinisi,Province,32,ID.JR
+IDN,Indonesia,IDN.10_1,Jawa Tengah,,,Propinisi,Province,33,ID.JT
+IDN,Indonesia,IDN.11_1,Jawa Timur,,,Propinisi,Province,35,ID.JI
+IDN,Indonesia,IDN.12_1,Kalimantan Barat,,,Propinisi,Province,61,ID.KB
+IDN,Indonesia,IDN.13_1,Kalimantan Selatan,,,Propinisi,Province,63,ID.KS
+IDN,Indonesia,IDN.14_1,Kalimantan Tengah,,,Propinisi,Province,62,ID.KT
+IDN,Indonesia,IDN.15_1,Kalimantan Timur,,,Propinisi,Province,64,ID.KM
+IDN,Indonesia,IDN.16_1,Kepulauan Riau,,,Propinisi,Province,21,ID.KR
+IDN,Indonesia,IDN.17_1,Lampung,,,Propinisi,Province,18,ID.LA
+IDN,Indonesia,IDN.19_1,Maluku,,,Propinisi,Province,81,ID.MA
+IDN,Indonesia,IDN.18_1,Maluku Utara,,,Propinisi,Province,82,ID.MU
+IDN,Indonesia,IDN.20_1,Nusa Tenggara Barat,,,Propinisi,Province,52,ID.NB
+IDN,Indonesia,IDN.21_1,Nusa Tenggara Timur,,,Propinisi,Province,53,ID.NT
+IDN,Indonesia,IDN.23_1,Papua,,,Propinisi,Province,94,ID.PA
+IDN,Indonesia,IDN.22_1,Papua Barat,,,Propinisi,Province,91,ID.IB
+IDN,Indonesia,IDN.24_1,Riau,,,Propinisi,Province,14,ID.RI
+IDN,Indonesia,IDN.25_1,Sulawesi Barat,,,Propinisi,Province,76,ID.SR
+IDN,Indonesia,IDN.26_1,Sulawesi Selatan,,,Propinisi,Province,73,ID.SE
+IDN,Indonesia,IDN.27_1,Sulawesi Tengah,,,Propinisi,Province,72,ID.ST
+IDN,Indonesia,IDN.28_1,Sulawesi Tenggara,,,Propinisi,Province,74,ID.SG
+IDN,Indonesia,IDN.29_1,Sulawesi Utara,,,Propinisi,Province,71,ID.SW
+IDN,Indonesia,IDN.30_1,Sumatera Barat,,,Propinisi,Province,13,ID.SB
+IDN,Indonesia,IDN.31_1,Sumatera Selatan,,,Propinisi,Province,16,ID.SL
+IDN,Indonesia,IDN.32_1,Sumatera Utara,,,Propinisi,Province,12,ID.SU
+IDN,Indonesia,IDN.33_1,Yogyakarta,,,Propinisi,Province,34,ID.YO
 IMN,Isle of Man,IMN.1_1,Ayre,,,Sheading,,,IM.AY
 IMN,Isle of Man,IMN.2_1,Garff,,,Sheading,,,IM.GR
 IMN,Isle of Man,IMN.3_1,Glenfaba,,,Sheading,,,IM.GB
@@ -1340,26 +1340,26 @@ ISR,Israel,ISR.4_1,HaMerkaz,Central District,,Mehoz,District,,IL.HM
 ISR,Israel,ISR.5_1,HaZafon,Northern,,Mehoz,District,,IL.HZ
 ISR,Israel,ISR.6_1,Jerusalem,Al-Quds|Yerushalayim,,Mehoz,District,,IL.JM
 ISR,Israel,ISR.7_1,Tel Aviv,,,Mehoz,District,,IL.TA
-ITA,Italy,ITA.1_1,Abruzzo,Abruzos|Abruzzen|Abruzzes|Abruzzi,,Regione,Region,"13",
-ITA,Italy,ITA.2_1,Apulia,Apulien|Pouilles|Pouille|Puglia|Puglie,,Regione,Region,"16",
-ITA,Italy,ITA.3_1,Basilicata,Basilicate|Lucania,,Regione,Region,"17",
-ITA,Italy,ITA.4_1,Calabria,Calabre|Calabrie|Kalabrien,,Regione,Region,"18",
-ITA,Italy,ITA.5_1,Campania,Campanha|Campanie|Kampanien,,Regione,Region,"15",
-ITA,Italy,ITA.6_1,Emilia-Romagna,Emilia Romagna|Emilia|Emilia-Romaña|Émilie-Romagne,,Regione,Region,"8",
-ITA,Italy,ITA.7_1,Friuli-Venezia Giulia,Friuli Venezia Giulia|Friuli-Venecia Julia,,Regione,Autonomous Region,"6",
-ITA,Italy,ITA.8_1,Lazio,Lacio|Latium,,Regione,Region,"12",
-ITA,Italy,ITA.9_1,Liguria,Ligurie|Ligurien,,Regione,Region,"7",
-ITA,Italy,ITA.10_1,Lombardia,Lombardy|Lombardei|Lombardie,,Regione,Region,"3",
-ITA,Italy,ITA.11_1,Marche,Marches|Marca,,Regione,Region,"11",
-ITA,Italy,ITA.12_1,Molise,Molisa,,Regione,Region,"14",
-ITA,Italy,ITA.13_1,Piemonte,Piemont|Piémont|Piemonte|Piedmont,,Regione,Region,"1",
-ITA,Italy,ITA.14_1,Sardegna,Cerdeña|Sardenha,,Regione,Autonomous Region,"20",
-ITA,Italy,ITA.15_1,Sicily,Sicilia,,Regione,Autonomous Region,"19",
-ITA,Italy,ITA.16_1,Toscana,Tuscany|Toscane|Toskana,,Regione,Region,"9",
-ITA,Italy,ITA.17_1,Trentino-Alto Adige,Trentino - Alto Adige|Trentino-Alto Adigio|Trentino-South Tirol|Venezia Tridentina,,Regione,Autonomous Region,"4",
-ITA,Italy,ITA.18_1,Umbria,Ombrie|Umbrien,,Regione,Region,"10",
-ITA,Italy,ITA.19_1,Valle d'Aosta,Aosta Valley|Val d'Aoste|Vallée d'Aoste,,Regione,Autonomous Region,"2",
-ITA,Italy,ITA.20_1,Veneto,Venecia|Venetia|Venezia Euganea,,Regione,Region,"5",
+ITA,Italy,ITA.1_1,Abruzzo,Abruzos|Abruzzen|Abruzzes|Abruzzi,,Regione,Region,13,
+ITA,Italy,ITA.2_1,Apulia,Apulien|Pouilles|Pouille|Puglia|Puglie,,Regione,Region,16,
+ITA,Italy,ITA.3_1,Basilicata,Basilicate|Lucania,,Regione,Region,17,
+ITA,Italy,ITA.4_1,Calabria,Calabre|Calabrie|Kalabrien,,Regione,Region,18,
+ITA,Italy,ITA.5_1,Campania,Campanha|Campanie|Kampanien,,Regione,Region,15,
+ITA,Italy,ITA.6_1,Emilia-Romagna,Emilia Romagna|Emilia|Emilia-Romaña|Émilie-Romagne,,Regione,Region,8,
+ITA,Italy,ITA.7_1,Friuli-Venezia Giulia,Friuli Venezia Giulia|Friuli-Venecia Julia,,Regione,Autonomous Region,6,
+ITA,Italy,ITA.8_1,Lazio,Lacio|Latium,,Regione,Region,12,
+ITA,Italy,ITA.9_1,Liguria,Ligurie|Ligurien,,Regione,Region,7,
+ITA,Italy,ITA.10_1,Lombardia,Lombardy|Lombardei|Lombardie,,Regione,Region,3,
+ITA,Italy,ITA.11_1,Marche,Marches|Marca,,Regione,Region,11,
+ITA,Italy,ITA.12_1,Molise,Molisa,,Regione,Region,14,
+ITA,Italy,ITA.13_1,Piemonte,Piemont|Piémont|Piemonte|Piedmont,,Regione,Region,1,
+ITA,Italy,ITA.14_1,Sardegna,Cerdeña|Sardenha,,Regione,Autonomous Region,20,
+ITA,Italy,ITA.15_1,Sicily,Sicilia,,Regione,Autonomous Region,19,
+ITA,Italy,ITA.16_1,Toscana,Tuscany|Toscane|Toskana,,Regione,Region,9,
+ITA,Italy,ITA.17_1,Trentino-Alto Adige,Trentino - Alto Adige|Trentino-Alto Adigio|Trentino-South Tirol|Venezia Tridentina,,Regione,Autonomous Region,4,
+ITA,Italy,ITA.18_1,Umbria,Ombrie|Umbrien,,Regione,Region,10,
+ITA,Italy,ITA.19_1,Valle d'Aosta,Aosta Valley|Val d'Aoste|Vallée d'Aoste,,Regione,Autonomous Region,2,
+ITA,Italy,ITA.20_1,Veneto,Venecia|Venetia|Venezia Euganea,,Regione,Region,5,
 JAM,Jamaica,JAM.1_1,Clarendon,,,Parish,Parish,,JM.CL
 JAM,Jamaica,JAM.2_1,Hanover,,,Parish,Parish,,JM.HA
 JAM,Jamaica,JAM.3_1,Kingston,Kingston and Port Royal,,Parish,Parish,,JM.KI
@@ -1459,53 +1459,53 @@ KAZ,Kazakhstan,KAZ.11_1,Qyzylorda,Kyzyl-Orda|Kzyl-Orda|Kzyl-Ordinskaya Oblast',,
 KAZ,Kazakhstan,KAZ.12_1,South Kazakhstan,Chimkent,,Oblasy,Region,,KZ.SK
 KAZ,Kazakhstan,KAZ.13_1,West Kazakhstan,Ural'sk,,Oblasy,Region,,KZ.WK
 KAZ,Kazakhstan,KAZ.14_1,Zhambyl,Dzhambul,,Oblasy,Region,,KZ.ZM
-KEN,Kenya,KEN.1_1,Baringo,,,County,County,"30",KE.BA
-KEN,Kenya,KEN.2_1,Bomet,,,County,County,"36",KE.BO
-KEN,Kenya,KEN.3_1,Bungoma,,,County,County,"39",KE.BN
-KEN,Kenya,KEN.4_1,Busia,,,County,County,"40",KE.BS
-KEN,Kenya,KEN.5_1,Elgeyo-Marakwet,,,County,County,"28",KE.EM
-KEN,Kenya,KEN.6_1,Embu,,,County,County,"14",KE.EB
-KEN,Kenya,KEN.7_1,Garissa,,,County,County,"7",KE.GA
-KEN,Kenya,KEN.8_1,Homa Bay,,,County,County,"43",KE.HB
-KEN,Kenya,KEN.9_1,Isiolo,,,County,County,"11",KE.IS
-KEN,Kenya,KEN.10_1,Kajiado,,,County,County,"34",KE.KJ
-KEN,Kenya,KEN.11_1,Kakamega,,,County,County,"37",KE.KK
-KEN,Kenya,KEN.12_1,Kericho,,,County,County,"35",KE.KR
-KEN,Kenya,KEN.13_1,Kiambu,,,County,County,"22",KE.KB
-KEN,Kenya,KEN.14_1,Kilifi,,,County,County,"3",KE.KF
-KEN,Kenya,KEN.15_1,Kirinyaga,,,County,County,"20",KE.KY
-KEN,Kenya,KEN.16_1,Kisii,,,County,County,"45",KE.KI
-KEN,Kenya,KEN.17_1,Kisumu,,,County,County,"42",KE.KU
-KEN,Kenya,KEN.18_1,Kitui,,,County,County,"15",KE.KT
-KEN,Kenya,KEN.19_1,Kwale,,,County,County,"2",KE.KW
-KEN,Kenya,KEN.20_1,Laikipia,,,County,County,"31",KE.LK
-KEN,Kenya,KEN.21_1,Lamu,,,County,County,"5",KE.LM
-KEN,Kenya,KEN.22_1,Machakos,,,County,County,"16",KE.MC
-KEN,Kenya,KEN.23_1,Makueni,,,County,County,"17",KE.MK
-KEN,Kenya,KEN.24_1,Mandera,,,County,County,"9",KE.MD
-KEN,Kenya,KEN.25_1,Marsabit,,,County,County,"10",KE.MB
-KEN,Kenya,KEN.26_1,Meru,,,County,County,"12",KE.ME
-KEN,Kenya,KEN.27_1,Migori,,,County,County,"44",KE.MG
-KEN,Kenya,KEN.28_1,Mombasa,,,County,County,"1",KE.MM
-KEN,Kenya,KEN.29_1,Murang'a,,,County,County,"21",KE.MU
-KEN,Kenya,KEN.30_1,Nairobi,,,County,County,"47",KE.NB
-KEN,Kenya,KEN.31_1,Nakuru,,,County,County,"32",KE.NK
-KEN,Kenya,KEN.32_1,Nandi,,,County,County,"29",KE.ND
-KEN,Kenya,KEN.33_1,Narok,,,County,County,"33",KE.NR
-KEN,Kenya,KEN.34_1,Nyamira,,,County,County,"46",KE.NM
-KEN,Kenya,KEN.35_1,Nyandarua,,,County,County,"18",KE.NN
-KEN,Kenya,KEN.36_1,Nyeri,,,County,County,"19",KE.NI
-KEN,Kenya,KEN.37_1,Samburu,,,County,County,"25",KE.SA
-KEN,Kenya,KEN.38_1,Siaya,,,County,County,"41",KE.SI
-KEN,Kenya,KEN.39_1,Taita Taveta,,,County,County,"6",KE.TT
-KEN,Kenya,KEN.40_1,Tana River,,,County,County,"4",KE.TR
-KEN,Kenya,KEN.41_1,Tharaka-Nithi,,,County,County,"13",KE.NT
-KEN,Kenya,KEN.42_1,Trans Nzoia,,,County,County,"26",KE.TN
-KEN,Kenya,KEN.43_1,Turkana,,,County,County,"23",KE.TU
-KEN,Kenya,KEN.44_1,Uasin Gishu,,,County,County,"27",KE.UG
-KEN,Kenya,KEN.45_1,Vihiga,,,County,County,"38",KE.VI
-KEN,Kenya,KEN.46_1,Wajir,,,County,County,"8",KE.WJ
-KEN,Kenya,KEN.47_1,West Pokot,,,County,County,"24",KE.WP
+KEN,Kenya,KEN.1_1,Baringo,,,County,County,30,KE.BA
+KEN,Kenya,KEN.2_1,Bomet,,,County,County,36,KE.BO
+KEN,Kenya,KEN.3_1,Bungoma,,,County,County,39,KE.BN
+KEN,Kenya,KEN.4_1,Busia,,,County,County,40,KE.BS
+KEN,Kenya,KEN.5_1,Elgeyo-Marakwet,,,County,County,28,KE.EM
+KEN,Kenya,KEN.6_1,Embu,,,County,County,14,KE.EB
+KEN,Kenya,KEN.7_1,Garissa,,,County,County,7,KE.GA
+KEN,Kenya,KEN.8_1,Homa Bay,,,County,County,43,KE.HB
+KEN,Kenya,KEN.9_1,Isiolo,,,County,County,11,KE.IS
+KEN,Kenya,KEN.10_1,Kajiado,,,County,County,34,KE.KJ
+KEN,Kenya,KEN.11_1,Kakamega,,,County,County,37,KE.KK
+KEN,Kenya,KEN.12_1,Kericho,,,County,County,35,KE.KR
+KEN,Kenya,KEN.13_1,Kiambu,,,County,County,22,KE.KB
+KEN,Kenya,KEN.14_1,Kilifi,,,County,County,3,KE.KF
+KEN,Kenya,KEN.15_1,Kirinyaga,,,County,County,20,KE.KY
+KEN,Kenya,KEN.16_1,Kisii,,,County,County,45,KE.KI
+KEN,Kenya,KEN.17_1,Kisumu,,,County,County,42,KE.KU
+KEN,Kenya,KEN.18_1,Kitui,,,County,County,15,KE.KT
+KEN,Kenya,KEN.19_1,Kwale,,,County,County,2,KE.KW
+KEN,Kenya,KEN.20_1,Laikipia,,,County,County,31,KE.LK
+KEN,Kenya,KEN.21_1,Lamu,,,County,County,5,KE.LM
+KEN,Kenya,KEN.22_1,Machakos,,,County,County,16,KE.MC
+KEN,Kenya,KEN.23_1,Makueni,,,County,County,17,KE.MK
+KEN,Kenya,KEN.24_1,Mandera,,,County,County,9,KE.MD
+KEN,Kenya,KEN.25_1,Marsabit,,,County,County,10,KE.MB
+KEN,Kenya,KEN.26_1,Meru,,,County,County,12,KE.ME
+KEN,Kenya,KEN.27_1,Migori,,,County,County,44,KE.MG
+KEN,Kenya,KEN.28_1,Mombasa,,,County,County,1,KE.MM
+KEN,Kenya,KEN.29_1,Murang'a,,,County,County,21,KE.MU
+KEN,Kenya,KEN.30_1,Nairobi,,,County,County,47,KE.NB
+KEN,Kenya,KEN.31_1,Nakuru,,,County,County,32,KE.NK
+KEN,Kenya,KEN.32_1,Nandi,,,County,County,29,KE.ND
+KEN,Kenya,KEN.33_1,Narok,,,County,County,33,KE.NR
+KEN,Kenya,KEN.34_1,Nyamira,,,County,County,46,KE.NM
+KEN,Kenya,KEN.35_1,Nyandarua,,,County,County,18,KE.NN
+KEN,Kenya,KEN.36_1,Nyeri,,,County,County,19,KE.NI
+KEN,Kenya,KEN.37_1,Samburu,,,County,County,25,KE.SA
+KEN,Kenya,KEN.38_1,Siaya,,,County,County,41,KE.SI
+KEN,Kenya,KEN.39_1,Taita Taveta,,,County,County,6,KE.TT
+KEN,Kenya,KEN.40_1,Tana River,,,County,County,4,KE.TR
+KEN,Kenya,KEN.41_1,Tharaka-Nithi,,,County,County,13,KE.NT
+KEN,Kenya,KEN.42_1,Trans Nzoia,,,County,County,26,KE.TN
+KEN,Kenya,KEN.43_1,Turkana,,,County,County,23,KE.TU
+KEN,Kenya,KEN.44_1,Uasin Gishu,,,County,County,27,KE.UG
+KEN,Kenya,KEN.45_1,Vihiga,,,County,County,38,KE.VI
+KEN,Kenya,KEN.46_1,Wajir,,,County,County,8,KE.WJ
+KEN,Kenya,KEN.47_1,West Pokot,,,County,County,24,KE.WP
 KGZ,Kyrgyzstan,KGZ.1_1,Batken,,,Oblast,Province,,KG.BA
 KGZ,Kyrgyzstan,KGZ.2_1,Biškek,Bishkek,,Shaar,City,,KG.GB
 KGZ,Kyrgyzstan,KGZ.3_1,Chüy,,,Oblast,Province,,KG.CU
@@ -1603,21 +1603,21 @@ LBN,Lebanon,LBN.5_1,Mount Lebanon,Baabda,,Muhafazah,Governorate,,
 LBN,Lebanon,LBN.6_1,Nabatiyeh,,,Muhafazah,Governorate,,
 LBN,Lebanon,LBN.7_1,North,Tripoli,,Muhafazah,Governorate,,
 LBN,Lebanon,LBN.8_1,South,Sidon,,Muhafazah,Governorate,,
-LBR,Liberia,LBR.1_1,Bomi,,,County,County,"03",LR.BM
-LBR,Liberia,LBR.2_1,Bong,,,County,County,"06",LR.BG
-LBR,Liberia,LBR.3_1,Gbapolu,Gbarpolu,,County,County,"45",LR.GP
-LBR,Liberia,LBR.4_1,Grand Cape Mount,,,County,County,"12",LR.CM
-LBR,Liberia,LBR.5_1,GrandBassa,Grand Bassa,,County,County,"09",LR.GB
-LBR,Liberia,LBR.6_1,GrandGedeh,Grand Gedeh,,County,County,"15",LR.GD
-LBR,Liberia,LBR.7_1,GrandKru,Grand Kru,,County,County,"18",LR.GK
-LBR,Liberia,LBR.8_1,Lofa,,,County,County,"21",LR.LF
-LBR,Liberia,LBR.9_1,Margibi,,,County,County,"24",LR.MG
-LBR,Liberia,LBR.10_1,Maryland,,,County,County,"27",LR.MY
-LBR,Liberia,LBR.11_1,Montserrado,,,County,County,"30",LR.MO
-LBR,Liberia,LBR.12_1,Nimba,,,County,County,"33",LR.NI
-LBR,Liberia,LBR.13_1,River Cess,Rivercess,,County,County,"36",LR.RI
-LBR,Liberia,LBR.14_1,River Gee,,,County,County,"42",LR.RG
-LBR,Liberia,LBR.15_1,Sinoe,,,County,County,"39",LR.SI
+LBR,Liberia,LBR.1_1,Bomi,,,County,County,3,LR.BM
+LBR,Liberia,LBR.2_1,Bong,,,County,County,6,LR.BG
+LBR,Liberia,LBR.3_1,Gbapolu,Gbarpolu,,County,County,45,LR.GP
+LBR,Liberia,LBR.4_1,Grand Cape Mount,,,County,County,12,LR.CM
+LBR,Liberia,LBR.5_1,GrandBassa,Grand Bassa,,County,County,9,LR.GB
+LBR,Liberia,LBR.6_1,GrandGedeh,Grand Gedeh,,County,County,15,LR.GD
+LBR,Liberia,LBR.7_1,GrandKru,Grand Kru,,County,County,18,LR.GK
+LBR,Liberia,LBR.8_1,Lofa,,,County,County,21,LR.LF
+LBR,Liberia,LBR.9_1,Margibi,,,County,County,24,LR.MG
+LBR,Liberia,LBR.10_1,Maryland,,,County,County,27,LR.MY
+LBR,Liberia,LBR.11_1,Montserrado,,,County,County,30,LR.MO
+LBR,Liberia,LBR.12_1,Nimba,,,County,County,33,LR.NI
+LBR,Liberia,LBR.13_1,River Cess,Rivercess,,County,County,36,LR.RI
+LBR,Liberia,LBR.14_1,River Gee,,,County,County,42,LR.RG
+LBR,Liberia,LBR.15_1,Sinoe,,,County,County,39,LR.SI
 LBY,Libya,LBY.1_1,Al Butnan,Tobruk|Tubruq|Butnan,لبطنان,Shabiyah,District,,LY.BN
 LBY,Libya,LBY.2_1,Al Jabal al Akhdar,Jabal al Akhdar|Jabal al-Akhḍar|Jebel el-Akhdar,لجبل الأخضر,Shabiyah,District,,LY.JK
 LBY,Libya,LBY.3_1,Al Jabal al Gharbi,Al Ǧabal al Gharbi,لجبل الغربي,Shabiyah,District,,LY.JG
@@ -2054,23 +2054,23 @@ MYS,Malaysia,MYS.13_1,Sabah,North Borneo,,Negeri,State,,MY.SA
 MYS,Malaysia,MYS.14_1,Sarawak,,,Negeri,State,,MY.SK
 MYS,Malaysia,MYS.15_1,Selangor,Selangor Darul Ehsan,,Negeri,State,,MY.SL
 MYS,Malaysia,MYS.16_1,Trengganu,Terengganu Darul Iman,,Negeri,State,,MY.TE
-MYT,Mayotte,MYT.1_1,Acoua,,,Chef-lieu canton,Commune,"01",
-MYT,Mayotte,MYT.2_1,Bandraboua,,,Chef-lieu canton,Commune,"02",
-MYT,Mayotte,MYT.3_1,Bandrele,,,Chef-lieu canton,Commune,"03",
-MYT,Mayotte,MYT.4_1,Boueni,,,Chef-lieu canton,Commune,"04",
-MYT,Mayotte,MYT.5_1,Chiconi,,,Chef-lieu canton,Commune,"05",
-MYT,Mayotte,MYT.6_1,Chirongui,,,Chef-lieu canton,Commune,"06",
-MYT,Mayotte,MYT.7_1,Dembeni,,,Chef-lieu canton,Commune,"07",
-MYT,Mayotte,MYT.8_1,Dzaoudzi,,,Préfecture de région,Commune,"08",
-MYT,Mayotte,MYT.9_1,Kani-Keli,,,Chef-lieu canton,Commune,"09",
-MYT,Mayotte,MYT.10_1,Koungou,,,Chef-lieu canton,Commune,"10",
-MYT,Mayotte,MYT.11_1,M'tsangamouji,,,Chef-lieu canton,Commune,"13",
-MYT,Mayotte,MYT.12_1,Mamoudzou,,,Sous-préfecture,Commune,"11",
-MYT,Mayotte,MYT.13_1,Mtsamboro,,,Chef-lieu canton,Commune,"12",
-MYT,Mayotte,MYT.14_1,Ouangani,,,Chef-lieu canton,Commune,"14",
-MYT,Mayotte,MYT.15_1,Pamandzi,,,Chef-lieu canton,Commune,"15",
-MYT,Mayotte,MYT.16_1,Sada,,,Chef-lieu canton,Commune,"16",
-MYT,Mayotte,MYT.17_1,Tsingoni,,,Chef-lieu canton,Commune,"17",
+MYT,Mayotte,MYT.1_1,Acoua,,,Chef-lieu canton,Commune,1,
+MYT,Mayotte,MYT.2_1,Bandraboua,,,Chef-lieu canton,Commune,2,
+MYT,Mayotte,MYT.3_1,Bandrele,,,Chef-lieu canton,Commune,3,
+MYT,Mayotte,MYT.4_1,Boueni,,,Chef-lieu canton,Commune,4,
+MYT,Mayotte,MYT.5_1,Chiconi,,,Chef-lieu canton,Commune,5,
+MYT,Mayotte,MYT.6_1,Chirongui,,,Chef-lieu canton,Commune,6,
+MYT,Mayotte,MYT.7_1,Dembeni,,,Chef-lieu canton,Commune,7,
+MYT,Mayotte,MYT.8_1,Dzaoudzi,,,Préfecture de région,Commune,8,
+MYT,Mayotte,MYT.9_1,Kani-Keli,,,Chef-lieu canton,Commune,9,
+MYT,Mayotte,MYT.10_1,Koungou,,,Chef-lieu canton,Commune,10,
+MYT,Mayotte,MYT.11_1,M'tsangamouji,,,Chef-lieu canton,Commune,13,
+MYT,Mayotte,MYT.12_1,Mamoudzou,,,Sous-préfecture,Commune,11,
+MYT,Mayotte,MYT.13_1,Mtsamboro,,,Chef-lieu canton,Commune,12,
+MYT,Mayotte,MYT.14_1,Ouangani,,,Chef-lieu canton,Commune,14,
+MYT,Mayotte,MYT.15_1,Pamandzi,,,Chef-lieu canton,Commune,15,
+MYT,Mayotte,MYT.16_1,Sada,,,Chef-lieu canton,Commune,16,
+MYT,Mayotte,MYT.17_1,Tsingoni,,,Chef-lieu canton,Commune,17,
 NAM,Namibia,NAM.1_1,!Karas,Karas,,Region,Region,,NA.KA
 NAM,Namibia,NAM.2_1,Erongo,,,Region,Region,,NA.ER
 NAM,Namibia,NAM.3_1,Hardap,,,Region,Region,,NA.HA
@@ -2202,25 +2202,25 @@ NRU,Nauru,NRU.11_1,Meneng,,,District,District,,NR.ME
 NRU,Nauru,NRU.12_1,Nibok,,,District,District,,NR.NI
 NRU,Nauru,NRU.13_1,Uaboe,,,District,District,,NR.UA
 NRU,Nauru,NRU.14_1,Yaren,,,District,District,,NR.YA
-NZL,New Zealand,NZL.1_1,Auckland,,,Region,Region,"02",NZ.AU
-NZL,New Zealand,NZL.2_1,Bay of Plenty,,,Region,Region,"04",NZ.BP
-NZL,New Zealand,NZL.3_1,Canterbury,,,Region,Region,"13",NZ.CA
-NZL,New Zealand,NZL.4_1,Chatham Islands,,,Region,Territory,"99",NZ.CI
-NZL,New Zealand,NZL.5_1,Gisborne,,,Region,Region,"05",NZ.GI
-NZL,New Zealand,NZL.6_1,Hawke's Bay,,,Region,Region,"06",NZ.HB
-NZL,New Zealand,NZL.7_1,Manawatu-Wanganui,,,Region,Region,"08",NZ.MW
-NZL,New Zealand,NZL.8_1,Marlborough,,,Region,Region,"18",NZ.MA
-NZL,New Zealand,NZL.9_1,Nelson,,,Region,Region,"17",NZ.NE
+NZL,New Zealand,NZL.1_1,Auckland,,,Region,Region,2,NZ.AU
+NZL,New Zealand,NZL.2_1,Bay of Plenty,,,Region,Region,4,NZ.BP
+NZL,New Zealand,NZL.3_1,Canterbury,,,Region,Region,13,NZ.CA
+NZL,New Zealand,NZL.4_1,Chatham Islands,,,Region,Territory,99,NZ.CI
+NZL,New Zealand,NZL.5_1,Gisborne,,,Region,Region,5,NZ.GI
+NZL,New Zealand,NZL.6_1,Hawke's Bay,,,Region,Region,6,NZ.HB
+NZL,New Zealand,NZL.7_1,Manawatu-Wanganui,,,Region,Region,8,NZ.MW
+NZL,New Zealand,NZL.8_1,Marlborough,,,Region,Region,18,NZ.MA
+NZL,New Zealand,NZL.9_1,Nelson,,,Region,Region,17,NZ.NE
 NZL,New Zealand,NZL.10_1,Northern Islands,,,Group of islands,Group of islands,,NZ.01
-NZL,New Zealand,NZL.11_1,Northland,,,Region,Region,"01",NZ.NO
-NZL,New Zealand,NZL.12_1,Otago,,,Region,Region,"14",NZ.OT
+NZL,New Zealand,NZL.11_1,Northland,,,Region,Region,1,NZ.NO
+NZL,New Zealand,NZL.12_1,Otago,,,Region,Region,14,NZ.OT
 NZL,New Zealand,NZL.13_1,Southern Islands,,,Group of islands,Group of islands,,NZ.02
-NZL,New Zealand,NZL.14_1,Southland,,,Region,Region,"15",NZ.SO
-NZL,New Zealand,NZL.15_1,Taranaki,,,Region,Region,"07",NZ.TK
-NZL,New Zealand,NZL.16_1,Tasman,,,Region,Region,"16",NZ.TS
-NZL,New Zealand,NZL.17_1,Waikato,,,Region,Region,"03",NZ.WK
-NZL,New Zealand,NZL.18_1,Wellington,,,Region,Region,"09",NZ.WG
-NZL,New Zealand,NZL.19_1,West Coast,,,Region,Region,"12",NZ.WC
+NZL,New Zealand,NZL.14_1,Southland,,,Region,Region,15,NZ.SO
+NZL,New Zealand,NZL.15_1,Taranaki,,,Region,Region,7,NZ.TK
+NZL,New Zealand,NZL.16_1,Tasman,,,Region,Region,16,NZ.TS
+NZL,New Zealand,NZL.17_1,Waikato,,,Region,Region,3,NZ.WK
+NZL,New Zealand,NZL.18_1,Wellington,,,Region,Region,9,NZ.WG
+NZL,New Zealand,NZL.19_1,West Coast,,,Region,Region,12,NZ.WC
 OMN,Oman,OMN.1_1,Ad Dakhliyah,Ad Dakhiliyah,,Mintaqah,Region,,OM.DA
 OMN,Oman,OMN.2_1,Al Batinah North,,,Mintaqah,Region,,OM.BN
 OMN,Oman,OMN.3_1,Al Batinah South,,,Mintaqah,Region,,OM.BS
@@ -2253,113 +2253,113 @@ PAN,Panama,PAN.10_1,Ngöbe Buglé,,,Comarca Indígena,Indigenous Territory,,PA.N
 PAN,Panama,PAN.12_1,Panamá,Panam ,,Provincia,Province,,PA.PN
 PAN,Panama,PAN.11_1,Panamá Oeste,,,Provincia,Province,,PA.PO
 PAN,Panama,PAN.13_1,Veraguas,,,Provincia,Province,,PA.VR
-PER,Peru,PER.1_1,Amazonas,,,Región,Region,"01",PE.AM
-PER,Peru,PER.2_1,Ancash,Ancachs,,Región,Region,"02",PE.AN
-PER,Peru,PER.3_1,Apurímac,Apuromac,,Región,Region,"03",PE.AP
-PER,Peru,PER.4_1,Arequipa,,,Región,Region,"04",PE.AR
-PER,Peru,PER.5_1,Ayacucho,,,Región,Region,"05",PE.AY
-PER,Peru,PER.6_1,Cajamarca,Caxamarca,,Región,Region,"06",PE.CJ
-PER,Peru,PER.7_1,Callao,El Callao,,Provincia,Province,"07",PE.CL
-PER,Peru,PER.8_1,Cusco,Cuzco|Qosqo,,Región,Region,"08",PE.CS
-PER,Peru,PER.9_1,Huancavelica,,,Región,Region,"09",PE.HV
-PER,Peru,PER.10_1,Huánuco,Huknuco,,Región,Region,"10",PE.HC
-PER,Peru,PER.11_1,Ica,,,Región,Region,"11",PE.IC
-PER,Peru,PER.12_1,Junín,Junnn,,Región,Region,"12",PE.JU
-PER,Peru,PER.13_1,La Libertad,Libertad,,Región,Region,"13",PE.LL
-PER,Peru,PER.14_1,Lambayeque,,,Región,Region,"14",PE.LB
-PER,Peru,PER.16_1,Lima,,,Región,Region,"15",PE.LR
-PER,Peru,PER.15_1,Lima Province,,,Provincia,Province,"15",PE.LP
-PER,Peru,PER.17_1,Loreto,,,Región,Region,"16",PE.LO
-PER,Peru,PER.18_1,Madre de Dios,,,Región,Region,"17",PE.MD
-PER,Peru,PER.19_1,Moquegua,,,Región,Region,"18",PE.MQ
-PER,Peru,PER.20_1,Pasco,,,Región,Region,"19",PE.PA
-PER,Peru,PER.21_1,Piura,,,Región,Region,"20",PE.PI
-PER,Peru,PER.22_1,Puno,,,Región,Region,"21",PE.PU
-PER,Peru,PER.23_1,San Martín,San Mart,,Región,Region,"22",PE.SM
-PER,Peru,PER.24_1,Tacna,,,Región,Region,"23",PE.TA
-PER,Peru,PER.25_1,Tumbes,Tumbez,,Región,Region,"24",PE.TU
-PER,Peru,PER.26_1,Ucayali,,,Región,Region,"25",PE.UC
-PHL,Philippines,PHL.1_1,Abra,,,Lalawigan|Probinsya,Province,"1401",PH.AB
-PHL,Philippines,PHL.2_1,Agusan del Norte,,,Lalawigan|Probinsya,Province,"1602",PH.AN
-PHL,Philippines,PHL.3_1,Agusan del Sur,,,Lalawigan|Probinsya,Province,"1603",PH.AS
-PHL,Philippines,PHL.4_1,Aklan,,,Lalawigan|Probinsya,Province,"604",PH.AK
-PHL,Philippines,PHL.5_1,Albay,,,Lalawigan|Probinsya,Province,"505",PH.AL
-PHL,Philippines,PHL.6_1,Antique,,,Lalawigan|Probinsya,Province,"606",PH.AQ
-PHL,Philippines,PHL.7_1,Apayao,,,Lalawigan|Probinsya,Province,"1481",PH.AP
-PHL,Philippines,PHL.8_1,Aurora,,,Lalawigan|Probinsya,Province,"377",PH.AU
-PHL,Philippines,PHL.9_1,Basilan,,,Lalawigan|Probinsya,Province,"1507",PH.BS
-PHL,Philippines,PHL.10_1,Bataan,,,Lalawigan|Probinsya,Province,"308",PH.BA
-PHL,Philippines,PHL.11_1,Batanes,,,Lalawigan|Probinsya,Province,"209",PH.BN
-PHL,Philippines,PHL.12_1,Batangas,,,Lalawigan|Probinsya,Province,"410",PH.BT
-PHL,Philippines,PHL.13_1,Benguet,,,Lalawigan|Probinsya,Province,"1411",PH.BG
-PHL,Philippines,PHL.14_1,Biliran,,,Lalawigan|Probinsya,Province,"878",PH.BI
-PHL,Philippines,PHL.15_1,Bohol,,,Lalawigan|Probinsya,Province,"712",PH.BO
-PHL,Philippines,PHL.16_1,Bukidnon,,,Lalawigan|Probinsya,Province,"1013",PH.BK
-PHL,Philippines,PHL.17_1,Bulacan,,,Lalawigan|Probinsya,Province,"314",PH.BU
-PHL,Philippines,PHL.18_1,Cagayan,,,Lalawigan|Probinsya,Province,"215",PH.CG
-PHL,Philippines,PHL.19_1,Camarines Norte,,,Lalawigan|Probinsya,Province,"516",PH.CN
-PHL,Philippines,PHL.20_1,Camarines Sur,,,Lalawigan|Probinsya,Province,"517",PH.CS
-PHL,Philippines,PHL.21_1,Camiguin,,,Lalawigan|Probinsya,Province,"1018",PH.CM
-PHL,Philippines,PHL.22_1,Capiz,,,Lalawigan|Probinsya,Province,"619",PH.CP
-PHL,Philippines,PHL.23_1,Catanduanes,,,Lalawigan|Probinsya,Province,"520",PH.CT
-PHL,Philippines,PHL.24_1,Cavite,,,Lalawigan|Probinsya,Province,"421",PH.CV
-PHL,Philippines,PHL.25_1,Cebu,,,Lalawigan|Probinsya,Province,"722",PH.CB
-PHL,Philippines,PHL.26_1,Compostela Valley,,,Lalawigan|Probinsya,Province,"1182",PH.CL
-PHL,Philippines,PHL.27_1,Davao del Norte,Davao,,Lalawigan|Probinsya,Province,"1123",PH.DV
-PHL,Philippines,PHL.28_1,Davao del Sur,,,Lalawigan|Probinsya,Province,"1124",PH.DS
-PHL,Philippines,PHL.29_1,Davao Oriental,,,Lalawigan|Probinsya,Province,"1125",PH.DO
-PHL,Philippines,PHL.30_1,Dinagat Islands,,,Lalawigan|Probinsya,Province,"1685",PH.DI
-PHL,Philippines,PHL.31_1,Eastern Samar,,,Lalawigan|Probinsya,Province,"826",PH.ES
-PHL,Philippines,PHL.32_1,Guimaras,,,Lalawigan|Probinsya,Province,"679",PH.GU
-PHL,Philippines,PHL.33_1,Ifugao,,,Lalawigan|Probinsya,Province,"1427",PH.IF
-PHL,Philippines,PHL.34_1,Ilocos Norte,,,Lalawigan|Probinsya,Province,"128",PH.IN
-PHL,Philippines,PHL.35_1,Ilocos Sur,,,Lalawigan|Probinsya,Province,"129",PH.IS
-PHL,Philippines,PHL.36_1,Iloilo,,,Lalawigan|Probinsya,Province,"630",PH.II
-PHL,Philippines,PHL.37_1,Isabela,,,Lalawigan|Probinsya,Province,"231",PH.IB
-PHL,Philippines,PHL.38_1,Kalinga,,,Lalawigan|Probinsya,Province,"1432",PH.KA
-PHL,Philippines,PHL.39_1,La Union,,,Lalawigan|Probinsya,Province,"133",PH.LU
-PHL,Philippines,PHL.40_1,Laguna,,,Lalawigan|Probinsya,Province,"434",PH.LG
-PHL,Philippines,PHL.41_1,Lanao del Norte,,,Lalawigan|Probinsya,Province,"1035",PH.LN
-PHL,Philippines,PHL.42_1,Lanao del Sur,,,Lalawigan|Probinsya,Province,"1536",PH.LS
-PHL,Philippines,PHL.43_1,Leyte,,,Lalawigan|Probinsya,Province,"837",PH.LE
-PHL,Philippines,PHL.44_1,Maguindanao,,,Lalawigan|Probinsya,Province,"1538",PH.MG
-PHL,Philippines,PHL.45_1,Marinduque,,,Lalawigan|Probinsya,Province,"1740",PH.MQ
-PHL,Philippines,PHL.46_1,Masbate,,,Lalawigan|Probinsya,Province,"541",PH.MB
-PHL,Philippines,PHL.47_1,Metropolitan Manila,,,Lalawigan|Probinsya,Province,"1339",PH.MM
-PHL,Philippines,PHL.48_1,Misamis Occidental,,,Lalawigan|Probinsya,Province,"1042",PH.MD
-PHL,Philippines,PHL.49_1,Misamis Oriental,,,Lalawigan|Probinsya,Province,"1043",PH.MN
-PHL,Philippines,PHL.50_1,Mountain Province,,,Lalawigan|Probinsya,Province,"1444",PH.MT
-PHL,Philippines,PHL.51_1,Negros Occidental,,,Lalawigan|Probinsya,Province,"645",PH.ND
-PHL,Philippines,PHL.52_1,Negros Oriental,,,Lalawigan|Probinsya,Province,"746",PH.NR
-PHL,Philippines,PHL.53_1,North Cotabato,,,Lalawigan|Probinsya,Province,"1247",PH.NC
-PHL,Philippines,PHL.54_1,Northern Samar,,,Lalawigan|Probinsya,Province,"848",PH.NS
-PHL,Philippines,PHL.55_1,Nueva Ecija,,,Lalawigan|Probinsya,Province,"349",PH.NE
-PHL,Philippines,PHL.56_1,Nueva Vizcaya,,,Lalawigan|Probinsya,Province,"250",PH.NV
-PHL,Philippines,PHL.57_1,Occidental Mindoro,,,Lalawigan|Probinsya,Province,"1751",PH.MC
-PHL,Philippines,PHL.58_1,Oriental Mindoro,,,Lalawigan|Probinsya,Province,"1752",PH.MR
-PHL,Philippines,PHL.59_1,Palawan,Paragua,,Lalawigan|Probinsya,Province,"1753",PH.PL
-PHL,Philippines,PHL.60_1,Pampanga,,,Lalawigan|Probinsya,Province,"354",PH.PM
-PHL,Philippines,PHL.61_1,Pangasinan,,,Lalawigan|Probinsya,Province,"155",PH.PN
-PHL,Philippines,PHL.62_1,Quezon,,,Lalawigan|Probinsya,Province,"456",PH.QZ
-PHL,Philippines,PHL.63_1,Quirino,,,Lalawigan|Probinsya,Province,"257",PH.QR
-PHL,Philippines,PHL.64_1,Rizal,,,Lalawigan|Probinsya,Province,"458",PH.RI
-PHL,Philippines,PHL.65_1,Romblon,,,Lalawigan|Probinsya,Province,"1759",PH.RO
-PHL,Philippines,PHL.66_1,Samar,Western Samar,,Lalawigan|Probinsya,Province,"860",PH.SM
-PHL,Philippines,PHL.67_1,Sarangani,,,Lalawigan|Probinsya,Province,"1280",PH.SG
-PHL,Philippines,PHL.68_1,Siquijor,,,Lalawigan|Probinsya,Province,"761",PH.SQ
-PHL,Philippines,PHL.69_1,Sorsogon,,,Lalawigan|Probinsya,Province,"562",PH.SR
-PHL,Philippines,PHL.70_1,South Cotabato,,,Lalawigan|Probinsya,Province,"1263",PH.SC
-PHL,Philippines,PHL.71_1,Southern Leyte,,,Lalawigan|Probinsya,Province,"864",PH.SL
-PHL,Philippines,PHL.72_1,Sultan Kudarat,,,Lalawigan|Probinsya,Province,"1265",PH.SK
-PHL,Philippines,PHL.73_1,Sulu,,,Lalawigan|Probinsya,Province,"1566",PH.SU
-PHL,Philippines,PHL.74_1,Surigao del Norte,,,Lalawigan|Probinsya,Province,"1667",PH.SN
-PHL,Philippines,PHL.75_1,Surigao del Sur,,,Lalawigan|Probinsya,Province,"1668",PH.SS
-PHL,Philippines,PHL.76_1,Tarlac,,,Lalawigan|Probinsya,Province,"369",PH.TR
-PHL,Philippines,PHL.77_1,Tawi-Tawi,,,Lalawigan|Probinsya,Province,"1570",PH.TT
-PHL,Philippines,PHL.78_1,Zambales,,,Lalawigan|Probinsya,Province,"155",PH.PN
-PHL,Philippines,PHL.79_1,Zamboanga del Norte,,,Lalawigan|Probinsya,Province,"972",PH.ZN
-PHL,Philippines,PHL.80_1,Zamboanga del Sur,,,Lalawigan|Probinsya,Province,"973",PH.ZS
-PHL,Philippines,PHL.81_1,Zamboanga Sibugay,,,Lalawigan|Probinsya,Province,"983",PH.ZY
+PER,Peru,PER.1_1,Amazonas,,,Región,Region,1,PE.AM
+PER,Peru,PER.2_1,Ancash,Ancachs,,Región,Region,2,PE.AN
+PER,Peru,PER.3_1,Apurímac,Apuromac,,Región,Region,3,PE.AP
+PER,Peru,PER.4_1,Arequipa,,,Región,Region,4,PE.AR
+PER,Peru,PER.5_1,Ayacucho,,,Región,Region,5,PE.AY
+PER,Peru,PER.6_1,Cajamarca,Caxamarca,,Región,Region,6,PE.CJ
+PER,Peru,PER.7_1,Callao,El Callao,,Provincia,Province,7,PE.CL
+PER,Peru,PER.8_1,Cusco,Cuzco|Qosqo,,Región,Region,8,PE.CS
+PER,Peru,PER.9_1,Huancavelica,,,Región,Region,9,PE.HV
+PER,Peru,PER.10_1,Huánuco,Huknuco,,Región,Region,10,PE.HC
+PER,Peru,PER.11_1,Ica,,,Región,Region,11,PE.IC
+PER,Peru,PER.12_1,Junín,Junnn,,Región,Region,12,PE.JU
+PER,Peru,PER.13_1,La Libertad,Libertad,,Región,Region,13,PE.LL
+PER,Peru,PER.14_1,Lambayeque,,,Región,Region,14,PE.LB
+PER,Peru,PER.16_1,Lima,,,Región,Region,15,PE.LR
+PER,Peru,PER.15_1,Lima Province,,,Provincia,Province,15,PE.LP
+PER,Peru,PER.17_1,Loreto,,,Región,Region,16,PE.LO
+PER,Peru,PER.18_1,Madre de Dios,,,Región,Region,17,PE.MD
+PER,Peru,PER.19_1,Moquegua,,,Región,Region,18,PE.MQ
+PER,Peru,PER.20_1,Pasco,,,Región,Region,19,PE.PA
+PER,Peru,PER.21_1,Piura,,,Región,Region,20,PE.PI
+PER,Peru,PER.22_1,Puno,,,Región,Region,21,PE.PU
+PER,Peru,PER.23_1,San Martín,San Mart,,Región,Region,22,PE.SM
+PER,Peru,PER.24_1,Tacna,,,Región,Region,23,PE.TA
+PER,Peru,PER.25_1,Tumbes,Tumbez,,Región,Region,24,PE.TU
+PER,Peru,PER.26_1,Ucayali,,,Región,Region,25,PE.UC
+PHL,Philippines,PHL.1_1,Abra,,,Lalawigan|Probinsya,Province,1401,PH.AB
+PHL,Philippines,PHL.2_1,Agusan del Norte,,,Lalawigan|Probinsya,Province,1602,PH.AN
+PHL,Philippines,PHL.3_1,Agusan del Sur,,,Lalawigan|Probinsya,Province,1603,PH.AS
+PHL,Philippines,PHL.4_1,Aklan,,,Lalawigan|Probinsya,Province,604,PH.AK
+PHL,Philippines,PHL.5_1,Albay,,,Lalawigan|Probinsya,Province,505,PH.AL
+PHL,Philippines,PHL.6_1,Antique,,,Lalawigan|Probinsya,Province,606,PH.AQ
+PHL,Philippines,PHL.7_1,Apayao,,,Lalawigan|Probinsya,Province,1481,PH.AP
+PHL,Philippines,PHL.8_1,Aurora,,,Lalawigan|Probinsya,Province,377,PH.AU
+PHL,Philippines,PHL.9_1,Basilan,,,Lalawigan|Probinsya,Province,1507,PH.BS
+PHL,Philippines,PHL.10_1,Bataan,,,Lalawigan|Probinsya,Province,308,PH.BA
+PHL,Philippines,PHL.11_1,Batanes,,,Lalawigan|Probinsya,Province,209,PH.BN
+PHL,Philippines,PHL.12_1,Batangas,,,Lalawigan|Probinsya,Province,410,PH.BT
+PHL,Philippines,PHL.13_1,Benguet,,,Lalawigan|Probinsya,Province,1411,PH.BG
+PHL,Philippines,PHL.14_1,Biliran,,,Lalawigan|Probinsya,Province,878,PH.BI
+PHL,Philippines,PHL.15_1,Bohol,,,Lalawigan|Probinsya,Province,712,PH.BO
+PHL,Philippines,PHL.16_1,Bukidnon,,,Lalawigan|Probinsya,Province,1013,PH.BK
+PHL,Philippines,PHL.17_1,Bulacan,,,Lalawigan|Probinsya,Province,314,PH.BU
+PHL,Philippines,PHL.18_1,Cagayan,,,Lalawigan|Probinsya,Province,215,PH.CG
+PHL,Philippines,PHL.19_1,Camarines Norte,,,Lalawigan|Probinsya,Province,516,PH.CN
+PHL,Philippines,PHL.20_1,Camarines Sur,,,Lalawigan|Probinsya,Province,517,PH.CS
+PHL,Philippines,PHL.21_1,Camiguin,,,Lalawigan|Probinsya,Province,1018,PH.CM
+PHL,Philippines,PHL.22_1,Capiz,,,Lalawigan|Probinsya,Province,619,PH.CP
+PHL,Philippines,PHL.23_1,Catanduanes,,,Lalawigan|Probinsya,Province,520,PH.CT
+PHL,Philippines,PHL.24_1,Cavite,,,Lalawigan|Probinsya,Province,421,PH.CV
+PHL,Philippines,PHL.25_1,Cebu,,,Lalawigan|Probinsya,Province,722,PH.CB
+PHL,Philippines,PHL.26_1,Compostela Valley,,,Lalawigan|Probinsya,Province,1182,PH.CL
+PHL,Philippines,PHL.27_1,Davao del Norte,Davao,,Lalawigan|Probinsya,Province,1123,PH.DV
+PHL,Philippines,PHL.28_1,Davao del Sur,,,Lalawigan|Probinsya,Province,1124,PH.DS
+PHL,Philippines,PHL.29_1,Davao Oriental,,,Lalawigan|Probinsya,Province,1125,PH.DO
+PHL,Philippines,PHL.30_1,Dinagat Islands,,,Lalawigan|Probinsya,Province,1685,PH.DI
+PHL,Philippines,PHL.31_1,Eastern Samar,,,Lalawigan|Probinsya,Province,826,PH.ES
+PHL,Philippines,PHL.32_1,Guimaras,,,Lalawigan|Probinsya,Province,679,PH.GU
+PHL,Philippines,PHL.33_1,Ifugao,,,Lalawigan|Probinsya,Province,1427,PH.IF
+PHL,Philippines,PHL.34_1,Ilocos Norte,,,Lalawigan|Probinsya,Province,128,PH.IN
+PHL,Philippines,PHL.35_1,Ilocos Sur,,,Lalawigan|Probinsya,Province,129,PH.IS
+PHL,Philippines,PHL.36_1,Iloilo,,,Lalawigan|Probinsya,Province,630,PH.II
+PHL,Philippines,PHL.37_1,Isabela,,,Lalawigan|Probinsya,Province,231,PH.IB
+PHL,Philippines,PHL.38_1,Kalinga,,,Lalawigan|Probinsya,Province,1432,PH.KA
+PHL,Philippines,PHL.39_1,La Union,,,Lalawigan|Probinsya,Province,133,PH.LU
+PHL,Philippines,PHL.40_1,Laguna,,,Lalawigan|Probinsya,Province,434,PH.LG
+PHL,Philippines,PHL.41_1,Lanao del Norte,,,Lalawigan|Probinsya,Province,1035,PH.LN
+PHL,Philippines,PHL.42_1,Lanao del Sur,,,Lalawigan|Probinsya,Province,1536,PH.LS
+PHL,Philippines,PHL.43_1,Leyte,,,Lalawigan|Probinsya,Province,837,PH.LE
+PHL,Philippines,PHL.44_1,Maguindanao,,,Lalawigan|Probinsya,Province,1538,PH.MG
+PHL,Philippines,PHL.45_1,Marinduque,,,Lalawigan|Probinsya,Province,1740,PH.MQ
+PHL,Philippines,PHL.46_1,Masbate,,,Lalawigan|Probinsya,Province,541,PH.MB
+PHL,Philippines,PHL.47_1,Metropolitan Manila,,,Lalawigan|Probinsya,Province,1339,PH.MM
+PHL,Philippines,PHL.48_1,Misamis Occidental,,,Lalawigan|Probinsya,Province,1042,PH.MD
+PHL,Philippines,PHL.49_1,Misamis Oriental,,,Lalawigan|Probinsya,Province,1043,PH.MN
+PHL,Philippines,PHL.50_1,Mountain Province,,,Lalawigan|Probinsya,Province,1444,PH.MT
+PHL,Philippines,PHL.51_1,Negros Occidental,,,Lalawigan|Probinsya,Province,645,PH.ND
+PHL,Philippines,PHL.52_1,Negros Oriental,,,Lalawigan|Probinsya,Province,746,PH.NR
+PHL,Philippines,PHL.53_1,North Cotabato,,,Lalawigan|Probinsya,Province,1247,PH.NC
+PHL,Philippines,PHL.54_1,Northern Samar,,,Lalawigan|Probinsya,Province,848,PH.NS
+PHL,Philippines,PHL.55_1,Nueva Ecija,,,Lalawigan|Probinsya,Province,349,PH.NE
+PHL,Philippines,PHL.56_1,Nueva Vizcaya,,,Lalawigan|Probinsya,Province,250,PH.NV
+PHL,Philippines,PHL.57_1,Occidental Mindoro,,,Lalawigan|Probinsya,Province,1751,PH.MC
+PHL,Philippines,PHL.58_1,Oriental Mindoro,,,Lalawigan|Probinsya,Province,1752,PH.MR
+PHL,Philippines,PHL.59_1,Palawan,Paragua,,Lalawigan|Probinsya,Province,1753,PH.PL
+PHL,Philippines,PHL.60_1,Pampanga,,,Lalawigan|Probinsya,Province,354,PH.PM
+PHL,Philippines,PHL.61_1,Pangasinan,,,Lalawigan|Probinsya,Province,155,PH.PN
+PHL,Philippines,PHL.62_1,Quezon,,,Lalawigan|Probinsya,Province,456,PH.QZ
+PHL,Philippines,PHL.63_1,Quirino,,,Lalawigan|Probinsya,Province,257,PH.QR
+PHL,Philippines,PHL.64_1,Rizal,,,Lalawigan|Probinsya,Province,458,PH.RI
+PHL,Philippines,PHL.65_1,Romblon,,,Lalawigan|Probinsya,Province,1759,PH.RO
+PHL,Philippines,PHL.66_1,Samar,Western Samar,,Lalawigan|Probinsya,Province,860,PH.SM
+PHL,Philippines,PHL.67_1,Sarangani,,,Lalawigan|Probinsya,Province,1280,PH.SG
+PHL,Philippines,PHL.68_1,Siquijor,,,Lalawigan|Probinsya,Province,761,PH.SQ
+PHL,Philippines,PHL.69_1,Sorsogon,,,Lalawigan|Probinsya,Province,562,PH.SR
+PHL,Philippines,PHL.70_1,South Cotabato,,,Lalawigan|Probinsya,Province,1263,PH.SC
+PHL,Philippines,PHL.71_1,Southern Leyte,,,Lalawigan|Probinsya,Province,864,PH.SL
+PHL,Philippines,PHL.72_1,Sultan Kudarat,,,Lalawigan|Probinsya,Province,1265,PH.SK
+PHL,Philippines,PHL.73_1,Sulu,,,Lalawigan|Probinsya,Province,1566,PH.SU
+PHL,Philippines,PHL.74_1,Surigao del Norte,,,Lalawigan|Probinsya,Province,1667,PH.SN
+PHL,Philippines,PHL.75_1,Surigao del Sur,,,Lalawigan|Probinsya,Province,1668,PH.SS
+PHL,Philippines,PHL.76_1,Tarlac,,,Lalawigan|Probinsya,Province,369,PH.TR
+PHL,Philippines,PHL.77_1,Tawi-Tawi,,,Lalawigan|Probinsya,Province,1570,PH.TT
+PHL,Philippines,PHL.78_1,Zambales,,,Lalawigan|Probinsya,Province,155,PH.PN
+PHL,Philippines,PHL.79_1,Zamboanga del Norte,,,Lalawigan|Probinsya,Province,972,PH.ZN
+PHL,Philippines,PHL.80_1,Zamboanga del Sur,,,Lalawigan|Probinsya,Province,973,PH.ZS
+PHL,Philippines,PHL.81_1,Zamboanga Sibugay,,,Lalawigan|Probinsya,Province,983,PH.ZY
 PLW,Palau,PLW.1_1,Aimeliik,,,State,State,,PW.AM
 PLW,Palau,PLW.2_1,Airai,,,State,State,,PW.AR
 PLW,Palau,PLW.3_1,Angaur,,,State,State,,PW.PE
@@ -2398,22 +2398,22 @@ PNG,Papua New Guinea,PNG.19_1,Southern Highlands,,,Province,Province,,PG.SL
 PNG,Papua New Guinea,PNG.20_1,West New Britain,Nova Bretanha Ocidental|Nuova Britannia Occidentale,,Province,Province,,PG.WN
 PNG,Papua New Guinea,PNG.22_1,Western,Fly,,Province,Province,,PG.WE
 PNG,Papua New Guinea,PNG.21_1,Western Highlands,Planalto Ocidental,,Province,Province,,PG.WL
-POL,Poland,POL.1_1,Dolnośląskie,,,Województwo,Province|Voivodeship,"02",
-POL,Poland,POL.2_1,Kujawsko-Pomorskie,,,Województwo,Province|Voivodeship,"04",
-POL,Poland,POL.3_1,Łódzkie,,,Województwo,Province|Voivodeship,"10",
-POL,Poland,POL.4_1,Lubelskie,,,Województwo,Province|Voivodeship,"06",
-POL,Poland,POL.5_1,Lubuskie,,,Województwo,Province|Voivodeship,"08",
-POL,Poland,POL.6_1,Małopolskie,,,Województwo,Province|Voivodeship,"12",
-POL,Poland,POL.7_1,Mazowieckie,,,Województwo,Province|Voivodeship,"14",
-POL,Poland,POL.8_1,Opolskie,,,Województwo,Province|Voivodeship,"16",
-POL,Poland,POL.9_1,Podkarpackie,,,Województwo,Province|Voivodeship,"18",
-POL,Poland,POL.10_1,Podlaskie,,,Województwo,Province|Voivodeship,"20",
-POL,Poland,POL.11_1,Pomorskie,,,Województwo,Province|Voivodeship,"22",
-POL,Poland,POL.12_1,Śląskie,,,Województwo,Province|Voivodeship,"24",
-POL,Poland,POL.13_1,Świętokrzyskie,,,Województwo,Province|Voivodeship,"26",
-POL,Poland,POL.14_1,Warmińsko-Mazurskie,,,Województwo,Province|Voivodeship,"28",
-POL,Poland,POL.15_1,Wielkopolskie,,,Województwo,Province|Voivodeship,"30",
-POL,Poland,POL.16_1,Zachodniopomorskie,,,Województwo,Province|Voivodeship,"32",
+POL,Poland,POL.1_1,Dolnośląskie,,,Województwo,Province|Voivodeship,2,
+POL,Poland,POL.2_1,Kujawsko-Pomorskie,,,Województwo,Province|Voivodeship,4,
+POL,Poland,POL.3_1,Łódzkie,,,Województwo,Province|Voivodeship,10,
+POL,Poland,POL.4_1,Lubelskie,,,Województwo,Province|Voivodeship,6,
+POL,Poland,POL.5_1,Lubuskie,,,Województwo,Province|Voivodeship,8,
+POL,Poland,POL.6_1,Małopolskie,,,Województwo,Province|Voivodeship,12,
+POL,Poland,POL.7_1,Mazowieckie,,,Województwo,Province|Voivodeship,14,
+POL,Poland,POL.8_1,Opolskie,,,Województwo,Province|Voivodeship,16,
+POL,Poland,POL.9_1,Podkarpackie,,,Województwo,Province|Voivodeship,18,
+POL,Poland,POL.10_1,Podlaskie,,,Województwo,Province|Voivodeship,20,
+POL,Poland,POL.11_1,Pomorskie,,,Województwo,Province|Voivodeship,22,
+POL,Poland,POL.12_1,Śląskie,,,Województwo,Province|Voivodeship,24,
+POL,Poland,POL.13_1,Świętokrzyskie,,,Województwo,Province|Voivodeship,26,
+POL,Poland,POL.14_1,Warmińsko-Mazurskie,,,Województwo,Province|Voivodeship,28,
+POL,Poland,POL.15_1,Wielkopolskie,,,Województwo,Province|Voivodeship,30,
+POL,Poland,POL.16_1,Zachodniopomorskie,,,Województwo,Province|Voivodeship,32,
 PRI,Puerto Rico,PRI.1_1,Adjuntas,,,Municipio,Municipality,,PR.AJ
 PRI,Puerto Rico,PRI.2_1,Aguada,,,Municipio,Municipality,,PR.AD
 PRI,Puerto Rico,PRI.3_1,Aguadilla,,,Municipio,Municipality,,PR.AL
@@ -2506,16 +2506,16 @@ PRK,North Korea,PRK.11_1,P'yŏngyang,Pyongyang|Pjöngjang|P'yŏngyang-tŭkpyŏls
 PRK,North Korea,PRK.12_1,Rasŏn,Rajin-Sŏnbong,"	라선 직할시",Teukbyeolsi,Directly Governed City,,KP.NJ
 PRK,North Korea,PRK.13_1,Ryanggang,Yanggang|Ryanggang-do,"	량강도",Do,Province,,KP.YG
 PRK,North Korea,PRK.14_1,Sinŭiju,,"	신의주 특별 행정구",T'ŭkbyŏl Haengjeonggu,Special Administrative Region,,
-PRT,Portugal,PRT.1_1,Aveiro,,,Distrito,District,"01",PT.AV
+PRT,Portugal,PRT.1_1,Aveiro,,,Distrito,District,1,PT.AV
 PRT,Portugal,PRT.2_1,Azores,Açores,,Regiões autônoma,'Autonomous Region',,PT.AC
-PRT,Portugal,PRT.3_1,Beja,,,Distrito,District,"02",PT.BE
-PRT,Portugal,PRT.4_1,Braga,,,Distrito,District,"03",PT.BR
-PRT,Portugal,PRT.5_1,Bragança,Braganza,,Distrito,District,"04",PT.BA
-PRT,Portugal,PRT.6_1,Castelo Branco,,,Distrito,District,"05",PT.CB
-PRT,Portugal,PRT.7_1,Coimbra,,,Distrito,District,"06",PT.CO
+PRT,Portugal,PRT.3_1,Beja,,,Distrito,District,2,PT.BE
+PRT,Portugal,PRT.4_1,Braga,,,Distrito,District,3,PT.BR
+PRT,Portugal,PRT.5_1,Bragança,Braganza,,Distrito,District,4,PT.BA
+PRT,Portugal,PRT.6_1,Castelo Branco,,,Distrito,District,5,PT.CB
+PRT,Portugal,PRT.7_1,Coimbra,,,Distrito,District,6,PT.CO
 PRT,Portugal,PRT.8_1,Évora,,,Distrito,District,,PT.EV
-PRT,Portugal,PRT.9_1,Faro,,,Distrito,District,"08",PT.FA
-PRT,Portugal,PRT.10_1,Guarda,,,Distrito,District,"09",PT.GU
+PRT,Portugal,PRT.9_1,Faro,,,Distrito,District,8,PT.FA
+PRT,Portugal,PRT.10_1,Guarda,,,Distrito,District,9,PT.GU
 PRT,Portugal,PRT.11_1,Leiria,,,Distrito,District,,PT.LE
 PRT,Portugal,PRT.12_1,Lisboa,Lisbon|Lisbona|Lisbonne|Lissabon,,Distrito,District,,PT.LI
 PRT,Portugal,PRT.13_1,Madeira,,,Regiões autônoma,'Autonomous Region',,
@@ -2615,12 +2615,12 @@ RUS,Russia,RUS.8_1,Bryansk,Bryanskaya Oblast,Брянская область,Obl
 RUS,Russia,RUS.9_1,Buryat,Buryatiya|Buryat-Mongol A.S.S.R.|Republic of Buryatia|Buryatskaya A.S.S.R.|Respublika,Республика Бурятия,Respublika,Republic,,RU.BU
 RUS,Russia,RUS.10_1,Chechnya,Cecenia|Chechenia|Chechênia|Tchetchnia|Chechen-Ingush A.S.S.R.|Checheno-Ingushetia|Checheno-Ingushetia,Республика Чечено-Ингушская,Respublika,Republic,,RU.CN
 RUS,Russia,RUS.11_1,Chelyabinsk,Chelyabinskaya Oblast,Челябинская область,Oblast,Region,,RU.CL
-RUS,Russia,RUS.12_1,Chukot,Chukotka|Chukotskiy Aok,Чукотский АОк,Avtonomnyy Okrug,Autonomous Province,"7001",RU.CK
+RUS,Russia,RUS.12_1,Chukot,Chukotka|Chukotskiy Aok,Чукотский АОк,Avtonomnyy Okrug,Autonomous Province,7001,RU.CK
 RUS,Russia,RUS.13_1,Chuvash,Chuvashskaya A.S.S.R.|Chuvashskaya Respublika|Chuvashiya|Chuvash Republic,Чувашская Республика,Respublika,Republic,,RU.CV
-RUS,Russia,RUS.14_1,City of St. Petersburg,Sankt-Peterburg gorsovet,Санкт-Петербург (горсовет),Gorsovet,City,"601",RU.SP
+RUS,Russia,RUS.14_1,City of St. Petersburg,Sankt-Peterburg gorsovet,Санкт-Петербург (горсовет),Gorsovet,City,601,RU.SP
 RUS,Russia,RUS.15_1,Dagestan,Dagestanskaya A.S.S.R.|Daghestan|Republic of Dagestan|Respublika Dagestan|Dagistan,Республика Дагестан,Respublika,Republic,,RU.DA
 RUS,Russia,RUS.16_1,Gorno-Altay,Gorno-Altayskaya A.Obl.|Respublika Altay|Oirot|Republic of Altai,Республика Алтай,Respublika,Republic,,RU.GA
-RUS,Russia,RUS.17_1,Ingush,Ingouchie|Inguchétia|Inguschetien|Ingushetia|Ingushetiya|Ingush Republic|Ingushskaya Respublika|Respublika Ingushetiya,Респу́блика Ингуше́тия,Respublika,Republic,"4201",RU.IN
+RUS,Russia,RUS.17_1,Ingush,Ingouchie|Inguchétia|Inguschetien|Ingushetia|Ingushetiya|Ingush Republic|Ingushskaya Respublika|Respublika Ingushetiya,Респу́блика Ингуше́тия,Respublika,Republic,4201,RU.IN
 RUS,Russia,RUS.18_1,Irkutsk,Irkutskaya Oblast,Иркутская область,Oblast,Region,,RU.IK
 RUS,Russia,RUS.19_1,Ivanovo,Ivanovskaya Oblast,Ивановская область,Oblast,Region,,RU.IV
 RUS,Russia,RUS.20_1,Kabardin-Balkar,Kabardin A.S.S.R.|Kabardino-Balkarskaya A.S.S.R.|Kabardino-Balkariya|Kabardino-Balkarsk|Kabard|Kabardino-Balkarskaya Republic,Кабардино-Балкарская Республика,Respublika,Republic,,RU.KB
@@ -2638,12 +2638,12 @@ RUS,Russia,RUS.31_1,Kirov,Vyatka|Vyatskaya G.|Kirovskaya Oblast,Кировска
 RUS,Russia,RUS.32_1,Komi,Komi A.S.S.R.|Republic of Komi|Respublika Komi,Республика Коми,Respublika,Republic,,RU.KO
 RUS,Russia,RUS.33_1,Kostroma,Kostromskaya Oblast,Костромская область,Oblast,Region,,RU.KT
 RUS,Russia,RUS.34_1,Krasnodar,Cossacks of the Black Sea|Kuban|Kubanskaya|Yekaterinodar|Krasnodarskiy Kray,Краснодарский край,Kray,Territory,,RU.KD
-RUS,Russia,RUS.35_1,Krasnoyarsk,Krasnoyarskiy Kray|Yeniseisk|Yeniseyskaya G.,Красноярский край,Kray,Territory,"6209",RU.KX
+RUS,Russia,RUS.35_1,Krasnoyarsk,Krasnoyarskiy Kray|Yeniseisk|Yeniseyskaya G.,Красноярский край,Kray,Territory,6209,RU.KX
 RUS,Russia,RUS.36_1,Kurgan,Kurganskaya Oblast,Курганская область,Oblast,Region,,RU.KU
 RUS,Russia,RUS.37_1,Kursk,Kurskaya Oblast,Курская область,Oblast,Region,,RU.KS
 RUS,Russia,RUS.38_1,Leningrad,Saint Petersburg|Sankt-Peterburgskaya G.|Leningradskaya Oblast,Ленинградская область,Oblast,Region,,RU.LN
 RUS,Russia,RUS.39_1,Lipetsk,Lipetskaya Oblast,Липецкая область,Oblast,Region,,RU.LP
-RUS,Russia,RUS.40_1,Maga Buryatdan,Magadanskaya Oblast,Магаданская область,Oblast,Region,"7009",RU.MG
+RUS,Russia,RUS.40_1,Maga Buryatdan,Magadanskaya Oblast,Магаданская область,Oblast,Region,7009,RU.MG
 RUS,Russia,RUS.41_1,Mariy-El,Mari|Mari-El|Republic of Mari El|Mariyskaya A.S.S.R.|Respublika Mariy El,Республика Марий Эл,Respublika,Republic,,RU.ME
 RUS,Russia,RUS.42_1,Mordovia,Mordov|Mordvian Autonomous Republic|Mordvinia|Republic of Mordovia|Mordovian A.S.S.R.,Республика Мордовия,Respublika,Republic,,RU.MR
 RUS,Russia,RUS.43_1,Moscow City,,,Gorod,City,,
@@ -2685,13 +2685,13 @@ RUS,Russia,RUS.78_1,Vologda,Vologodskaya Oblast,Вологодская обла�
 RUS,Russia,RUS.79_1,Voronezh,Voronezhskaya Oblast,Воронежская область,Oblast,Region,,RU.VR
 RUS,Russia,RUS.80_1,Yamal-Nenets,Yamalo-Nenetskiy A. Okrug,Ямало-Ненецкий АОк,Avtonomnyy Okrug,Autonomous Province,,RU.YN
 RUS,Russia,RUS.81_1,Yaroslavl',Yaroslavskaya,Ярославская область,Oblast,Region,,RU.YS
-RUS,Russia,RUS.82_1,Yevrey,Den jødiske autonome oblasten|Evrey|Jewish A.Obl.|Yahudi|Yevreyskaya A.Obl.|Evreyskaya AOb,Eврейская АОб,Avtonomnaya Oblast,Autonomous Region,"6701",RU.YV
+RUS,Russia,RUS.82_1,Yevrey,Den jødiske autonome oblasten|Evrey|Jewish A.Obl.|Yahudi|Yevreyskaya A.Obl.|Evreyskaya AOb,Eврейская АОб,Avtonomnaya Oblast,Autonomous Region,6701,RU.YV
 RUS,Russia,RUS.83_1,Zabaykal'ye,Zabaykalsky,Забайкальский край,Kray,Territory,,RU.ZB
-RWA,Rwanda,RWA.1_1,Amajyaruguru,Northern Province|Province du Nord,,Province,Province,"4",RW.NO
-RWA,Rwanda,RWA.2_1,Amajyepfo,Southern Province|Province du Sud,,Province,Province,"2",RW.SU
-RWA,Rwanda,RWA.3_1,Iburasirazuba,Eastern Province|Province de l'Est,,Province,Province,"5",RW.ES
-RWA,Rwanda,RWA.4_1,Iburengerazuba,Western Province|Province de l'Ouestern Province|Province de l'Ouest,,Province,Province,"3",RW.OU
-RWA,Rwanda,RWA.5_1,Umujyi wa Kigali,Kigali City|Ville de Kigali,,Province,Province,"1",RW.KV
+RWA,Rwanda,RWA.1_1,Amajyaruguru,Northern Province|Province du Nord,,Province,Province,4,RW.NO
+RWA,Rwanda,RWA.2_1,Amajyepfo,Southern Province|Province du Sud,,Province,Province,2,RW.SU
+RWA,Rwanda,RWA.3_1,Iburasirazuba,Eastern Province|Province de l'Est,,Province,Province,5,RW.ES
+RWA,Rwanda,RWA.4_1,Iburengerazuba,Western Province|Province de l'Ouestern Province|Province de l'Ouest,,Province,Province,3,RW.OU
+RWA,Rwanda,RWA.5_1,Umujyi wa Kigali,Kigali City|Ville de Kigali,,Province,Province,1,RW.KV
 SAU,Saudi Arabia,SAU.1_1,`Asir,Asir|Aseer|Assyear,,Emirate|Mintaqah,Region,,SA.AS
 SAU,Saudi Arabia,SAU.2_1,Al Bahah,Baha,,Emirate|Mintaqah,Region,,SA.BA
 SAU,Saudi Arabia,SAU.3_1,Al Hudud ash Shamaliyah,Northern Frontier,,Emirate|Mintaqah,Region,,SA.HS
@@ -2723,20 +2723,20 @@ SDN,Sudan,SDN.15_1,South Kurdufan,Southern Kordofan|South Kordufan|Janūb Kurduf
 SDN,Sudan,SDN.16_1,West Darfur,Dārfūr al Gharbīyah|Gharb Dārfūr,غرب دارفور‎,Wilayat,State,,SD.WD
 SDN,Sudan,SDN.17_1,West Kurdufan,Gharb Kurdufān| Gharb Kurdufun| Kurdufān al Gharbīyah| Western Kordofan,غرب كردفان‎,Wilayat,State,,SD.KN
 SDN,Sudan,SDN.18_1,White Nile,An Baḥr al Abyad|An Nīl al-Abyad|Nil Blanc|Nilo Branco,النيل الأبيض‎,Wilayat,State,,SD.WN
-SEN,Senegal,SEN.1_1,Dakar,Cap Vert|Dacar,,Région,Region,"1",SN.DK
-SEN,Senegal,SEN.2_1,Diourbel,,,Région,Region,"3",SN.DB
-SEN,Senegal,SEN.3_1,Fatick,,,Région,Region,"9",SN.FK
-SEN,Senegal,SEN.4_1,Kaffrine,,,Région,Region,"12",SN.KF
-SEN,Senegal,SEN.5_1,Kaolack,,,Région,Region,"6",SN.KC
-SEN,Senegal,SEN.6_1,Kédougou,Sénégal Oriental,,Région,Region,"13",SN.KG
-SEN,Senegal,SEN.7_1,Kolda,,,Région,Region,"10",SN.KD
-SEN,Senegal,SEN.8_1,Louga,,,Région,Region,"8",SN.LG
-SEN,Senegal,SEN.9_1,Matam,,,Région,Region,"11",SN.MT
-SEN,Senegal,SEN.10_1,Saint-Louis,Fleuve|Vallée du Fleuve,,Région,Region,"4",SN.ST
-SEN,Senegal,SEN.11_1,Sédhiou,,,Région,Region,"14",SN.SD
-SEN,Senegal,SEN.12_1,Tambacounda,Sénégal Oriental,,Région,Region,"5",SN.TB
-SEN,Senegal,SEN.13_1,Thiès,,,Région,Region,"7",SN.TH
-SEN,Senegal,SEN.14_1,Ziguinchor,,,Région,Region,"2",SN.ZG
+SEN,Senegal,SEN.1_1,Dakar,Cap Vert|Dacar,,Région,Region,1,SN.DK
+SEN,Senegal,SEN.2_1,Diourbel,,,Région,Region,3,SN.DB
+SEN,Senegal,SEN.3_1,Fatick,,,Région,Region,9,SN.FK
+SEN,Senegal,SEN.4_1,Kaffrine,,,Région,Region,12,SN.KF
+SEN,Senegal,SEN.5_1,Kaolack,,,Région,Region,6,SN.KC
+SEN,Senegal,SEN.6_1,Kédougou,Sénégal Oriental,,Région,Region,13,SN.KG
+SEN,Senegal,SEN.7_1,Kolda,,,Région,Region,10,SN.KD
+SEN,Senegal,SEN.8_1,Louga,,,Région,Region,8,SN.LG
+SEN,Senegal,SEN.9_1,Matam,,,Région,Region,11,SN.MT
+SEN,Senegal,SEN.10_1,Saint-Louis,Fleuve|Vallée du Fleuve,,Région,Region,4,SN.ST
+SEN,Senegal,SEN.11_1,Sédhiou,,,Région,Region,14,SN.SD
+SEN,Senegal,SEN.12_1,Tambacounda,Sénégal Oriental,,Région,Region,5,SN.TB
+SEN,Senegal,SEN.13_1,Thiès,,,Région,Region,7,SN.TH
+SEN,Senegal,SEN.14_1,Ziguinchor,,,Région,Region,2,SN.ZG
 SGP,Singapore,SGP.1_1,Central,,,Region,Region,,
 SGP,Singapore,SGP.2_1,East,,,Region,Region,,
 SGP,Singapore,SGP.3_1,North,,,Region,Region,,
@@ -2970,83 +2970,83 @@ TGO,Togo,TGO.2_1,Kara,Région de la Kara,,Région,Region,,TG.KA
 TGO,Togo,TGO.3_1,Maritime,Région Maritime,,Région,Region,,TG.MA
 TGO,Togo,TGO.4_1,Plateaux,Région des Plateaux,,Région,Region,,TG.PL
 TGO,Togo,TGO.5_1,Savanes,Région des Savanes,,Région,Region,,TG.SA
-THA,Thailand,THA.1_1,Amnat Charoen,,จังหวัดอำนาจเจริญ,Changwat,Province,"37",TH.AC
-THA,Thailand,THA.2_1,Ang Thong,,จังหวัดอ่างทอง,Changwat,Province,"15",TH.AT
-THA,Thailand,THA.3_1,Bangkok Metropolis,Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi,จังหวัดเชียงใหม่,Changwat,Province,"10",TH.BM
+THA,Thailand,THA.1_1,Amnat Charoen,,จังหวัดอำนาจเจริญ,Changwat,Province,37,TH.AC
+THA,Thailand,THA.2_1,Ang Thong,,จังหวัดอ่างทอง,Changwat,Province,15,TH.AT
+THA,Thailand,THA.3_1,Bangkok Metropolis,Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi,จังหวัดเชียงใหม่,Changwat,Province,10,TH.BM
 THA,Thailand,THA.4_1,Bueng Kan,,บึงกาฬ,Changwat,Province,,TH.BK
-THA,Thailand,THA.5_1,Buri Ram,Buri Rum,จังหวัดบุรีรัมย์,Changwat,Province,"31",TH.BR
-THA,Thailand,THA.6_1,Chachoengsao,Chaxerngsao|Pad Rew|Paed Riu|Petrieu|Shajeun Dhrao,จังหวัดฉะเชิงเทรา,Changwat,Province,"24",TH.CC
-THA,Thailand,THA.7_1,Chai Nat,Chainat,จังหวัดชัยนาท,Changwat,Province,"18",TH.CN
-THA,Thailand,THA.8_1,Chaiyaphum,,จังหวัดชัยนาท,Changwat,Province,"36",TH.CY
+THA,Thailand,THA.5_1,Buri Ram,Buri Rum,จังหวัดบุรีรัมย์,Changwat,Province,31,TH.BR
+THA,Thailand,THA.6_1,Chachoengsao,Chaxerngsao|Pad Rew|Paed Riu|Petrieu|Shajeun Dhrao,จังหวัดฉะเชิงเทรา,Changwat,Province,24,TH.CC
+THA,Thailand,THA.7_1,Chai Nat,Chainat,จังหวัดชัยนาท,Changwat,Province,18,TH.CN
+THA,Thailand,THA.8_1,Chaiyaphum,,จังหวัดชัยนาท,Changwat,Province,36,TH.CY
 THA,Thailand,THA.9_1,Chanthaburi,Chantaburi|Muang Chan,จันทบุรี,Changwat,Province,,TH.CT
-THA,Thailand,THA.10_1,Chiang Mai,,จังหวัดเชียงใหม่,Changwat,Province,"50",TH.CM
-THA,Thailand,THA.11_1,Chiang Rai,,จังหวัดเชียงราย,Changwat,Province,"57",TH.CR
-THA,Thailand,THA.12_1,Chon Buri,,จังหวัดชลบุรี,Changwat,Province,"20",TH.CB
-THA,Thailand,THA.13_1,Chumphon,,จังหวัดชุมพร,Changwat,Province,"86",TH.CP
-THA,Thailand,THA.14_1,Kalasin,,จังหวัดกาฬสินธุ์,Changwat,Province,"46",TH.KL
-THA,Thailand,THA.15_1,Kamphaeng Phet,Gampheang Phet|Kambhengbhej,จังหวัดกำแพงเพชร,Changwat,Province,"62",TH.KP
-THA,Thailand,THA.16_1,Kanchanaburi,Kan Buri|Park Prag,อำเภอเมืองกาญจนบุรี,Changwat,Province,"71",TH.KN
-THA,Thailand,THA.17_1,Khon Kaen,,จังหวัดขอนแก่น,Changwat,Province,"40",TH.KK
-THA,Thailand,THA.18_1,Krabi,,จังหวัดกระบี่,Changwat,Province,"81",TH.KR
-THA,Thailand,THA.19_1,Lampang,,จังหวัดลำปาง,Changwat,Province,"52",TH.LG
-THA,Thailand,THA.20_1,Lamphun,Hariphunchai|Lampoon,จังหวัดลำพูน,Changwat,Province,"51",TH.LN
-THA,Thailand,THA.21_1,Loei,,จังหวัดเลย,Changwat,Province,"42",TH.LE
-THA,Thailand,THA.22_1,Lop Buri,,ลพบุรี,Changwat,Province,"16",TH.LB
-THA,Thailand,THA.23_1,Mae Hong Son,,จังหวัดแม่ฮ่องสอน,Changwat,Province,"58",TH.MH
-THA,Thailand,THA.24_1,Maha Sarakham,,จังหวัดมหาสารคาม,Changwat,Province,"44",TH.MS
-THA,Thailand,THA.25_1,Mukdahan,,จังหวัดมุกดาหาร,Changwat,Province,"49",TH.MD
-THA,Thailand,THA.26_1,Nakhon Nayok,Nakon Nayok,จังหวัดนครนายก,Changwat,Province,"26",TH.NN
-THA,Thailand,THA.27_1,Nakhon Pathom,,อำเภอเมืองนครปฐม,Changwat,Province,"73",TH.NP
-THA,Thailand,THA.28_1,Nakhon Phanom,,จังหวัดนครพนม,Changwat,Province,"48",TH.NF
-THA,Thailand,THA.29_1,Nakhon Ratchasima,Khorat|Nagara Rajasima|Nakaun Rachasima,จังหวัดนครราชสีมา,Changwat,Province,"30",TH.NR
-THA,Thailand,THA.30_1,Nakhon Sawan,,จังหวัดนครสวรรค์,Changwat,Province,"60",TH.NS
-THA,Thailand,THA.31_1,Nakhon Si Thammarat,Nakhon Thammarat|Nagara Sridharmaraj|Nakhon Sri Thammarat|Nakhornsrithamrat|Nakornsrithamaraj,จังหวัดนครศรีธรรมราช,Changwat,Province,"80",TH.NT
-THA,Thailand,THA.32_1,Nan,,จังหวัดน่าน,Changwat,Province,"55",TH.NA
-THA,Thailand,THA.33_1,Narathiwat,,จังหวัดนราธิวาส,Changwat,Province,"96",TH.NW
-THA,Thailand,THA.34_1,Nong Bua Lam Phu,Nong Bua Lamphu,จังหวัดหนองบัวลำภู,Changwat,Province,"39",TH.NB
-THA,Thailand,THA.35_1,Nong Khai,,จังหวัดหนองคาย,Changwat,Province,"43",TH.NK
-THA,Thailand,THA.36_1,Nonthaburi,,จังหวัดนนทบุรี,Changwat,Province,"12",TH.NO
-THA,Thailand,THA.37_1,Pathum Thani,,จังหวัดปทุมธานี,Changwat,Province,"13",TH.PT
-THA,Thailand,THA.38_1,Pattani,,จังหวัดปัตตานี,Changwat,Province,"94",TH.PI
-THA,Thailand,THA.39_1,Phangnga,,จังหวัดพังงา,Changwat,Province,"82",TH.PG
-THA,Thailand,THA.40_1,Phatthalung,,จังหวัดพัทลุง,Changwat,Province,"93",TH.PL
-THA,Thailand,THA.41_1,Phayao,,จังหวัดพะเยา,Changwat,Province,"56",TH.PY
-THA,Thailand,THA.42_1,Phetchabun,,อำเภอเมืองเพชรบูรณ์,Changwat,Province,"67",TH.PH
-THA,Thailand,THA.43_1,Phetchaburi,Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit,จังหวัดเพชรบุรี,Changwat,Province,"76",TH.PE
-THA,Thailand,THA.44_1,Phichit,,จังหวัดพิจิตร,Changwat,Province,"66",TH.PC
-THA,Thailand,THA.45_1,Phitsanulok,Bisnulok|Phisanulauk|Phitsnulok|Pitsanuloke,จังหวัดพิษณุโลก,Changwat,Province,"65",TH.PS
-THA,Thailand,THA.46_1,Phra Nakhon Si Ayutthaya,Phranakhon Si Ayutthaya|Ayudhya|Ayutthaya|Phranakhornsri-ayuthaya,จังหวัดพระนครศรีอยุธยา,Changwat,Province,"14",TH.PA
-THA,Thailand,THA.47_1,Phrae,,จังหวัดแพร่,Changwat,Province,"54",TH.PR
-THA,Thailand,THA.48_1,Phuket,,จังหวัดภูเก็ต,Changwat,Province,"83",TH.PU
-THA,Thailand,THA.49_1,Prachin Buri,,จังหวัดปราจีนบุรี,Changwat,Province,"25",TH.PB
-THA,Thailand,THA.50_1,Prachuap Khiri Khan,Korh Luxk|Prachuab Girikhand|Prachuapkirikhan|Prachut Khirikhan,จังหวัดประจวบคีรีขันธ์,Changwat,Province,"77",TH.PK
-THA,Thailand,THA.51_1,Ranong,,จังหวัดระนอง,Changwat,Province,"85",TH.RN
-THA,Thailand,THA.52_1,Ratchaburi,,จังหวัดราชบุรี,Changwat,Province,"70",TH.RT
-THA,Thailand,THA.53_1,Rayong,,จังหวัดระยอง,Changwat,Province,"21",TH.RY
-THA,Thailand,THA.54_1,Roi Et,,ร้อยเอ็ด,Changwat,Province,"45",TH.RE
-THA,Thailand,THA.55_1,Sa Kaeo,Srakaeo,จังหวัดสระแก้ว,Changwat,Province,"27",TH.SK
-THA,Thailand,THA.56_1,Sakon Nakhon,,จังหวัดสกลนคร,Changwat,Province,"47",TH.SN
-THA,Thailand,THA.57_1,Samut Prakan,Pak Nam|Samudh Prakarn|Samudraprakar|Samut Phrakhan,จังหวัดสมุทรปราการ,Changwat,Province,"11",TH.SP
-THA,Thailand,THA.58_1,Samut Sakhon,Krokkrak Maha Chai|Mahachai|Samudrasagara,จังหวัดสมุทรสาคร,Changwat,Province,"74",TH.SS
-THA,Thailand,THA.59_1,Samut Songkhram,Mae Klong|Samudrasonggram,จังหวัดสมุทรสงคราม,Changwat,Province,"75",TH.SM
-THA,Thailand,THA.60_1,Saraburi,Sara Buri,จังหวัดสระบุรี,Changwat,Province,"19",TH.SR
-THA,Thailand,THA.61_1,Satun,,จังหวัดสตูล,Changwat,Province,"91",TH.SA
-THA,Thailand,THA.62_1,Si Sa Ket,Sisaket|Khukhan|Khukhandh|Srisaket,จังหวัดศรีสะเกษ,Changwat,Province,"33",TH.SI
-THA,Thailand,THA.63_1,Sing Buri,,จังหวัดสิงห์บุรี,Changwat,Province,"17",TH.SB
-THA,Thailand,THA.64_1,Songkhla,,จังหวัดสงขลา,Changwat,Province,"90",TH.SG
-THA,Thailand,THA.65_1,Sukhothai,Sawankhalokt|Sukhotai|Sukothai|Svargalok,จังหวัดสุโขทัย,Changwat,Province,"64",TH.SO
-THA,Thailand,THA.66_1,Suphan Buri,,จังหวัดสุพรรณบุรี,Changwat,Province,"72",TH.SH
-THA,Thailand,THA.67_1,Surat Thani,,จังหวัดสุราษฎร์ธานี,Changwat,Province,"84",TH.ST
-THA,Thailand,THA.68_1,Surin,,จังหวัดสุรินทร์,Changwat,Province,"32",TH.SU
-THA,Thailand,THA.69_1,Tak,,จังหวัดตาก,Changwat,Province,"63",TH.TK
-THA,Thailand,THA.70_1,Trang,Tab Tiang,จังหวัดตรัง,Changwat,Province,"92",TH.TG
-THA,Thailand,THA.71_1,Trat,,จังหวัดตราด,Changwat,Province,"23",TH.TT
-THA,Thailand,THA.72_1,Ubon Ratchathani,,จังหวัดอุบลราชธานี,Changwat,Province,"34",TH.UR
-THA,Thailand,THA.73_1,Udon Thani,,จังหวัดอุดรธานี,Changwat,Province,"41",TH.UN
-THA,Thailand,THA.74_1,Uthai Thani,,จังหวัดอุทัยธานี,Changwat,Province,"61",TH.UT
-THA,Thailand,THA.75_1,Uttaradit,,จังหวัดอุตรดิตถ์,Changwat,Province,"53",TH.UD
-THA,Thailand,THA.76_1,Yala,,จังหวัดยะลา,Changwat,Province,"95",TH.YL
-THA,Thailand,THA.77_1,Yasothon,,จังหวัดยโสธร,Changwat,Province,"35",TH.YS
+THA,Thailand,THA.10_1,Chiang Mai,,จังหวัดเชียงใหม่,Changwat,Province,50,TH.CM
+THA,Thailand,THA.11_1,Chiang Rai,,จังหวัดเชียงราย,Changwat,Province,57,TH.CR
+THA,Thailand,THA.12_1,Chon Buri,,จังหวัดชลบุรี,Changwat,Province,20,TH.CB
+THA,Thailand,THA.13_1,Chumphon,,จังหวัดชุมพร,Changwat,Province,86,TH.CP
+THA,Thailand,THA.14_1,Kalasin,,จังหวัดกาฬสินธุ์,Changwat,Province,46,TH.KL
+THA,Thailand,THA.15_1,Kamphaeng Phet,Gampheang Phet|Kambhengbhej,จังหวัดกำแพงเพชร,Changwat,Province,62,TH.KP
+THA,Thailand,THA.16_1,Kanchanaburi,Kan Buri|Park Prag,อำเภอเมืองกาญจนบุรี,Changwat,Province,71,TH.KN
+THA,Thailand,THA.17_1,Khon Kaen,,จังหวัดขอนแก่น,Changwat,Province,40,TH.KK
+THA,Thailand,THA.18_1,Krabi,,จังหวัดกระบี่,Changwat,Province,81,TH.KR
+THA,Thailand,THA.19_1,Lampang,,จังหวัดลำปาง,Changwat,Province,52,TH.LG
+THA,Thailand,THA.20_1,Lamphun,Hariphunchai|Lampoon,จังหวัดลำพูน,Changwat,Province,51,TH.LN
+THA,Thailand,THA.21_1,Loei,,จังหวัดเลย,Changwat,Province,42,TH.LE
+THA,Thailand,THA.22_1,Lop Buri,,ลพบุรี,Changwat,Province,16,TH.LB
+THA,Thailand,THA.23_1,Mae Hong Son,,จังหวัดแม่ฮ่องสอน,Changwat,Province,58,TH.MH
+THA,Thailand,THA.24_1,Maha Sarakham,,จังหวัดมหาสารคาม,Changwat,Province,44,TH.MS
+THA,Thailand,THA.25_1,Mukdahan,,จังหวัดมุกดาหาร,Changwat,Province,49,TH.MD
+THA,Thailand,THA.26_1,Nakhon Nayok,Nakon Nayok,จังหวัดนครนายก,Changwat,Province,26,TH.NN
+THA,Thailand,THA.27_1,Nakhon Pathom,,อำเภอเมืองนครปฐม,Changwat,Province,73,TH.NP
+THA,Thailand,THA.28_1,Nakhon Phanom,,จังหวัดนครพนม,Changwat,Province,48,TH.NF
+THA,Thailand,THA.29_1,Nakhon Ratchasima,Khorat|Nagara Rajasima|Nakaun Rachasima,จังหวัดนครราชสีมา,Changwat,Province,30,TH.NR
+THA,Thailand,THA.30_1,Nakhon Sawan,,จังหวัดนครสวรรค์,Changwat,Province,60,TH.NS
+THA,Thailand,THA.31_1,Nakhon Si Thammarat,Nakhon Thammarat|Nagara Sridharmaraj|Nakhon Sri Thammarat|Nakhornsrithamrat|Nakornsrithamaraj,จังหวัดนครศรีธรรมราช,Changwat,Province,80,TH.NT
+THA,Thailand,THA.32_1,Nan,,จังหวัดน่าน,Changwat,Province,55,TH.NA
+THA,Thailand,THA.33_1,Narathiwat,,จังหวัดนราธิวาส,Changwat,Province,96,TH.NW
+THA,Thailand,THA.34_1,Nong Bua Lam Phu,Nong Bua Lamphu,จังหวัดหนองบัวลำภู,Changwat,Province,39,TH.NB
+THA,Thailand,THA.35_1,Nong Khai,,จังหวัดหนองคาย,Changwat,Province,43,TH.NK
+THA,Thailand,THA.36_1,Nonthaburi,,จังหวัดนนทบุรี,Changwat,Province,12,TH.NO
+THA,Thailand,THA.37_1,Pathum Thani,,จังหวัดปทุมธานี,Changwat,Province,13,TH.PT
+THA,Thailand,THA.38_1,Pattani,,จังหวัดปัตตานี,Changwat,Province,94,TH.PI
+THA,Thailand,THA.39_1,Phangnga,,จังหวัดพังงา,Changwat,Province,82,TH.PG
+THA,Thailand,THA.40_1,Phatthalung,,จังหวัดพัทลุง,Changwat,Province,93,TH.PL
+THA,Thailand,THA.41_1,Phayao,,จังหวัดพะเยา,Changwat,Province,56,TH.PY
+THA,Thailand,THA.42_1,Phetchabun,,อำเภอเมืองเพชรบูรณ์,Changwat,Province,67,TH.PH
+THA,Thailand,THA.43_1,Phetchaburi,Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit,จังหวัดเพชรบุรี,Changwat,Province,76,TH.PE
+THA,Thailand,THA.44_1,Phichit,,จังหวัดพิจิตร,Changwat,Province,66,TH.PC
+THA,Thailand,THA.45_1,Phitsanulok,Bisnulok|Phisanulauk|Phitsnulok|Pitsanuloke,จังหวัดพิษณุโลก,Changwat,Province,65,TH.PS
+THA,Thailand,THA.46_1,Phra Nakhon Si Ayutthaya,Phranakhon Si Ayutthaya|Ayudhya|Ayutthaya|Phranakhornsri-ayuthaya,จังหวัดพระนครศรีอยุธยา,Changwat,Province,14,TH.PA
+THA,Thailand,THA.47_1,Phrae,,จังหวัดแพร่,Changwat,Province,54,TH.PR
+THA,Thailand,THA.48_1,Phuket,,จังหวัดภูเก็ต,Changwat,Province,83,TH.PU
+THA,Thailand,THA.49_1,Prachin Buri,,จังหวัดปราจีนบุรี,Changwat,Province,25,TH.PB
+THA,Thailand,THA.50_1,Prachuap Khiri Khan,Korh Luxk|Prachuab Girikhand|Prachuapkirikhan|Prachut Khirikhan,จังหวัดประจวบคีรีขันธ์,Changwat,Province,77,TH.PK
+THA,Thailand,THA.51_1,Ranong,,จังหวัดระนอง,Changwat,Province,85,TH.RN
+THA,Thailand,THA.52_1,Ratchaburi,,จังหวัดราชบุรี,Changwat,Province,70,TH.RT
+THA,Thailand,THA.53_1,Rayong,,จังหวัดระยอง,Changwat,Province,21,TH.RY
+THA,Thailand,THA.54_1,Roi Et,,ร้อยเอ็ด,Changwat,Province,45,TH.RE
+THA,Thailand,THA.55_1,Sa Kaeo,Srakaeo,จังหวัดสระแก้ว,Changwat,Province,27,TH.SK
+THA,Thailand,THA.56_1,Sakon Nakhon,,จังหวัดสกลนคร,Changwat,Province,47,TH.SN
+THA,Thailand,THA.57_1,Samut Prakan,Pak Nam|Samudh Prakarn|Samudraprakar|Samut Phrakhan,จังหวัดสมุทรปราการ,Changwat,Province,11,TH.SP
+THA,Thailand,THA.58_1,Samut Sakhon,Krokkrak Maha Chai|Mahachai|Samudrasagara,จังหวัดสมุทรสาคร,Changwat,Province,74,TH.SS
+THA,Thailand,THA.59_1,Samut Songkhram,Mae Klong|Samudrasonggram,จังหวัดสมุทรสงคราม,Changwat,Province,75,TH.SM
+THA,Thailand,THA.60_1,Saraburi,Sara Buri,จังหวัดสระบุรี,Changwat,Province,19,TH.SR
+THA,Thailand,THA.61_1,Satun,,จังหวัดสตูล,Changwat,Province,91,TH.SA
+THA,Thailand,THA.62_1,Si Sa Ket,Sisaket|Khukhan|Khukhandh|Srisaket,จังหวัดศรีสะเกษ,Changwat,Province,33,TH.SI
+THA,Thailand,THA.63_1,Sing Buri,,จังหวัดสิงห์บุรี,Changwat,Province,17,TH.SB
+THA,Thailand,THA.64_1,Songkhla,,จังหวัดสงขลา,Changwat,Province,90,TH.SG
+THA,Thailand,THA.65_1,Sukhothai,Sawankhalokt|Sukhotai|Sukothai|Svargalok,จังหวัดสุโขทัย,Changwat,Province,64,TH.SO
+THA,Thailand,THA.66_1,Suphan Buri,,จังหวัดสุพรรณบุรี,Changwat,Province,72,TH.SH
+THA,Thailand,THA.67_1,Surat Thani,,จังหวัดสุราษฎร์ธานี,Changwat,Province,84,TH.ST
+THA,Thailand,THA.68_1,Surin,,จังหวัดสุรินทร์,Changwat,Province,32,TH.SU
+THA,Thailand,THA.69_1,Tak,,จังหวัดตาก,Changwat,Province,63,TH.TK
+THA,Thailand,THA.70_1,Trang,Tab Tiang,จังหวัดตรัง,Changwat,Province,92,TH.TG
+THA,Thailand,THA.71_1,Trat,,จังหวัดตราด,Changwat,Province,23,TH.TT
+THA,Thailand,THA.72_1,Ubon Ratchathani,,จังหวัดอุบลราชธานี,Changwat,Province,34,TH.UR
+THA,Thailand,THA.73_1,Udon Thani,,จังหวัดอุดรธานี,Changwat,Province,41,TH.UN
+THA,Thailand,THA.74_1,Uthai Thani,,จังหวัดอุทัยธานี,Changwat,Province,61,TH.UT
+THA,Thailand,THA.75_1,Uttaradit,,จังหวัดอุตรดิตถ์,Changwat,Province,53,TH.UD
+THA,Thailand,THA.76_1,Yala,,จังหวัดยะลา,Changwat,Province,95,TH.YL
+THA,Thailand,THA.77_1,Yasothon,,จังหวัดยโสธร,Changwat,Province,35,TH.YS
 TJK,Tajikistan,TJK.1_1,Dushanbe,,,Viloyat,Region,,TJ.RR
 TJK,Tajikistan,TJK.2_1,Gorno-Badakhshan,Badakhshoni Kuni|Autonomes Gebiet der Berg-Badachschanen|Gorno-Badahshanskaya avtonomnaya oblast'|Go,,Viloiati Mukhtori|Viloyati Avtonomii,Region,,TJ.BK
 TJK,Tajikistan,TJK.3_1,Khatlon,Hationskaya oblast'|Hatlonskaja oblast',,Viloyat,Region,,TJ.KL
@@ -3215,93 +3215,93 @@ TWN,Taiwan,TWN.4_1,Taichung,,台中,Zhíxiáshì,Special Municipality,,TW.TG
 TWN,Taiwan,TWN.5_1,Tainan,,台南,Zhíxiáshì,Special Municipality,,TW.TN
 TWN,Taiwan,TWN.6_1,Taipei,Taibei|Taipé|Taipeh,台北,Zhíxiáshì,Special Municipality,,TW.TP
 TWN,Taiwan,TWN.7_1,Taiwan,,台灣,Shěng,Province,,TW.TA
-TZA,Tanzania,TZA.1_1,Arusha,,,Mkoa,Region,"02",TZ.AS
-TZA,Tanzania,TZA.2_1,Dar es Salaam,Dar-es-salaam|Pwani,,Mkoa,Region,"07",TZ.DS
-TZA,Tanzania,TZA.3_1,Dodoma,,,Mkoa,Region,"01",TZ.DO
-TZA,Tanzania,TZA.4_1,Geita,,,Mkoa,Region,"25",TZ.GE
-TZA,Tanzania,TZA.5_1,Iringa,,,Mkoa,Region,"11",TZ.IG
-TZA,Tanzania,TZA.6_1,Kagera,,,Mkoa,Region,"18",TZ.KG
-TZA,Tanzania,TZA.7_1,Katavi,,,Mkoa,Region,"23",TZ.KA
-TZA,Tanzania,TZA.8_1,Kigoma,,,Mkoa,Region,"16",TZ.KM
-TZA,Tanzania,TZA.9_1,Kilimanjaro,,,Mkoa,Region,"03",TZ.KL
-TZA,Tanzania,TZA.10_1,Lindi,,,Mkoa,Region,"08",TZ.LI
-TZA,Tanzania,TZA.11_1,Manyara,,,Mkoa,Region,"21",TZ.MY
-TZA,Tanzania,TZA.12_1,Mara,,,Mkoa,Region,"20",TZ.MA
-TZA,Tanzania,TZA.13_1,Mbeya,,,Mkoa,Region,"12",TZ.MB
-TZA,Tanzania,TZA.14_1,Morogoro,,,Mkoa,Region,"05",TZ.MO
-TZA,Tanzania,TZA.15_1,Mtwara,,,Mkoa,Region,"09",TZ.MT
-TZA,Tanzania,TZA.16_1,Mwanza,,,Mkoa,Region,"19",TZ.MZ
-TZA,Tanzania,TZA.17_1,Njombe,,,Mkoa,Region,"22",TZ.NJ
-TZA,Tanzania,TZA.18_1,Pemba North,Kaskazini Pemba,,Mkoa,Region,"54",TZ.PN
-TZA,Tanzania,TZA.19_1,Pemba South,Kusini Pemba,,Mkoa,Region,"55",TZ.PS
-TZA,Tanzania,TZA.20_1,Pwani,,,Mkoa,Region,"06",TZ.PW
-TZA,Tanzania,TZA.21_1,Rukwa,,,Mkoa,Region,"15",TZ.RU
-TZA,Tanzania,TZA.22_1,Ruvuma,,,Mkoa,Region,"10",TZ.RV
-TZA,Tanzania,TZA.23_1,Shinyanga,,,Mkoa,Region,"17",TZ.SY
-TZA,Tanzania,TZA.24_1,Simiyu,,,Mkoa,Region,"24",TZ.SI
-TZA,Tanzania,TZA.25_1,Singida,,,Mkoa,Region,"13",TZ.SD
-TZA,Tanzania,TZA.26_1,Tabora,,,Mkoa,Region,"14",TZ.TB
-TZA,Tanzania,TZA.27_1,Tanga,,,Mkoa,Region,"04",TZ.TN
-TZA,Tanzania,TZA.28_1,Zanzibar North,Kaskazini Unguja,,Mkoa,Region,"51",TZ.ZN
-TZA,Tanzania,TZA.29_1,Zanzibar South and Central,Kusini Unguja,,Mkoa,Region,"52",TZ.ZS
-TZA,Tanzania,TZA.30_1,Zanzibar West,Mjini Magharibi,,Mkoa,Region,"53",TZ.ZW
-UGA,Uganda,UGA.1_1,Adjumani,,,District,District,"30",UG.AD
-UGA,Uganda,UGA.2_1,Apac,,,District,District,"30",UG.AC
-UGA,Uganda,UGA.3_1,Arua,,,District,District,"30",UG.AW
-UGA,Uganda,UGA.4_1,Bugiri,,,District,District,"20",UG.BG
-UGA,Uganda,UGA.5_1,Bundibugyo,,,District,District,"40",UG.BN
-UGA,Uganda,UGA.6_1,Bushenyi,,,District,District,"11",UG.BS
-UGA,Uganda,UGA.7_1,Busia,,,District,District,"20",UG.BU
-UGA,Uganda,UGA.8_1,Gulu,,,District,District,"30",UG.GL
-UGA,Uganda,UGA.9_1,Hoima,,,District,District,"40",UG.HO
-UGA,Uganda,UGA.10_1,Iganga,,,District,District,"20",UG.IN
-UGA,Uganda,UGA.11_1,Jinja,,,District,District,"20",UG.JI
-UGA,Uganda,UGA.12_1,Kabale,,,District,District,"22",UG.KA
-UGA,Uganda,UGA.13_1,Kabarole,,,District,District,"13",UG.BR
-UGA,Uganda,UGA.14_1,Kaberamaido,,,District,District,"21",UG.KD
-UGA,Uganda,UGA.15_1,Kalangala,,,District,District,"10",UG.KN
-UGA,Uganda,UGA.16_1,Kampala,,,District,District,"10",UG.KM
-UGA,Uganda,UGA.17_1,Kamuli,,,District,District,"20",UG.KX
-UGA,Uganda,UGA.18_1,Kamwenge,,,District,District,"41",UG.KE
-UGA,Uganda,UGA.19_1,Kanungu,,,District,District,"13",UG.UU
-UGA,Uganda,UGA.20_1,Kapchorwa,,,District,District,"20",UG.KP
-UGA,Uganda,UGA.21_1,Kasese,,,District,District,"11",UG.KS
-UGA,Uganda,UGA.22_1,Katakwi,,,District,District,"20",UG.KK
-UGA,Uganda,UGA.23_1,Kayunga,,,District,District,"11",UG.KY
-UGA,Uganda,UGA.24_1,Kibale,Kibaale,,District,District,"10",UG.KI
-UGA,Uganda,UGA.25_1,Kiboga,,,District,District,"10",UG.KG
-UGA,Uganda,UGA.26_1,Kisoro,,,District,District,"40",UG.KR
-UGA,Uganda,UGA.27_1,Kitgum,,,District,District,"12",UG.TG
-UGA,Uganda,UGA.28_1,Kotido,,,District,District,"12",UG.KF
-UGA,Uganda,UGA.29_1,Kumi,,,District,District,"20",UG.KU
-UGA,Uganda,UGA.30_1,Kyenjojo,,,District,District,"41",UG.KJ
+TZA,Tanzania,TZA.1_1,Arusha,,,Mkoa,Region,2,TZ.AS
+TZA,Tanzania,TZA.2_1,Dar es Salaam,Dar-es-salaam|Pwani,,Mkoa,Region,7,TZ.DS
+TZA,Tanzania,TZA.3_1,Dodoma,,,Mkoa,Region,1,TZ.DO
+TZA,Tanzania,TZA.4_1,Geita,,,Mkoa,Region,25,TZ.GE
+TZA,Tanzania,TZA.5_1,Iringa,,,Mkoa,Region,11,TZ.IG
+TZA,Tanzania,TZA.6_1,Kagera,,,Mkoa,Region,18,TZ.KG
+TZA,Tanzania,TZA.7_1,Katavi,,,Mkoa,Region,23,TZ.KA
+TZA,Tanzania,TZA.8_1,Kigoma,,,Mkoa,Region,16,TZ.KM
+TZA,Tanzania,TZA.9_1,Kilimanjaro,,,Mkoa,Region,3,TZ.KL
+TZA,Tanzania,TZA.10_1,Lindi,,,Mkoa,Region,8,TZ.LI
+TZA,Tanzania,TZA.11_1,Manyara,,,Mkoa,Region,21,TZ.MY
+TZA,Tanzania,TZA.12_1,Mara,,,Mkoa,Region,20,TZ.MA
+TZA,Tanzania,TZA.13_1,Mbeya,,,Mkoa,Region,12,TZ.MB
+TZA,Tanzania,TZA.14_1,Morogoro,,,Mkoa,Region,5,TZ.MO
+TZA,Tanzania,TZA.15_1,Mtwara,,,Mkoa,Region,9,TZ.MT
+TZA,Tanzania,TZA.16_1,Mwanza,,,Mkoa,Region,19,TZ.MZ
+TZA,Tanzania,TZA.17_1,Njombe,,,Mkoa,Region,22,TZ.NJ
+TZA,Tanzania,TZA.18_1,Pemba North,Kaskazini Pemba,,Mkoa,Region,54,TZ.PN
+TZA,Tanzania,TZA.19_1,Pemba South,Kusini Pemba,,Mkoa,Region,55,TZ.PS
+TZA,Tanzania,TZA.20_1,Pwani,,,Mkoa,Region,6,TZ.PW
+TZA,Tanzania,TZA.21_1,Rukwa,,,Mkoa,Region,15,TZ.RU
+TZA,Tanzania,TZA.22_1,Ruvuma,,,Mkoa,Region,10,TZ.RV
+TZA,Tanzania,TZA.23_1,Shinyanga,,,Mkoa,Region,17,TZ.SY
+TZA,Tanzania,TZA.24_1,Simiyu,,,Mkoa,Region,24,TZ.SI
+TZA,Tanzania,TZA.25_1,Singida,,,Mkoa,Region,13,TZ.SD
+TZA,Tanzania,TZA.26_1,Tabora,,,Mkoa,Region,14,TZ.TB
+TZA,Tanzania,TZA.27_1,Tanga,,,Mkoa,Region,4,TZ.TN
+TZA,Tanzania,TZA.28_1,Zanzibar North,Kaskazini Unguja,,Mkoa,Region,51,TZ.ZN
+TZA,Tanzania,TZA.29_1,Zanzibar South and Central,Kusini Unguja,,Mkoa,Region,52,TZ.ZS
+TZA,Tanzania,TZA.30_1,Zanzibar West,Mjini Magharibi,,Mkoa,Region,53,TZ.ZW
+UGA,Uganda,UGA.1_1,Adjumani,,,District,District,30,UG.AD
+UGA,Uganda,UGA.2_1,Apac,,,District,District,30,UG.AC
+UGA,Uganda,UGA.3_1,Arua,,,District,District,30,UG.AW
+UGA,Uganda,UGA.4_1,Bugiri,,,District,District,20,UG.BG
+UGA,Uganda,UGA.5_1,Bundibugyo,,,District,District,40,UG.BN
+UGA,Uganda,UGA.6_1,Bushenyi,,,District,District,11,UG.BS
+UGA,Uganda,UGA.7_1,Busia,,,District,District,20,UG.BU
+UGA,Uganda,UGA.8_1,Gulu,,,District,District,30,UG.GL
+UGA,Uganda,UGA.9_1,Hoima,,,District,District,40,UG.HO
+UGA,Uganda,UGA.10_1,Iganga,,,District,District,20,UG.IN
+UGA,Uganda,UGA.11_1,Jinja,,,District,District,20,UG.JI
+UGA,Uganda,UGA.12_1,Kabale,,,District,District,22,UG.KA
+UGA,Uganda,UGA.13_1,Kabarole,,,District,District,13,UG.BR
+UGA,Uganda,UGA.14_1,Kaberamaido,,,District,District,21,UG.KD
+UGA,Uganda,UGA.15_1,Kalangala,,,District,District,10,UG.KN
+UGA,Uganda,UGA.16_1,Kampala,,,District,District,10,UG.KM
+UGA,Uganda,UGA.17_1,Kamuli,,,District,District,20,UG.KX
+UGA,Uganda,UGA.18_1,Kamwenge,,,District,District,41,UG.KE
+UGA,Uganda,UGA.19_1,Kanungu,,,District,District,13,UG.UU
+UGA,Uganda,UGA.20_1,Kapchorwa,,,District,District,20,UG.KP
+UGA,Uganda,UGA.21_1,Kasese,,,District,District,11,UG.KS
+UGA,Uganda,UGA.22_1,Katakwi,,,District,District,20,UG.KK
+UGA,Uganda,UGA.23_1,Kayunga,,,District,District,11,UG.KY
+UGA,Uganda,UGA.24_1,Kibale,Kibaale,,District,District,10,UG.KI
+UGA,Uganda,UGA.25_1,Kiboga,,,District,District,10,UG.KG
+UGA,Uganda,UGA.26_1,Kisoro,,,District,District,40,UG.KR
+UGA,Uganda,UGA.27_1,Kitgum,,,District,District,12,UG.TG
+UGA,Uganda,UGA.28_1,Kotido,,,District,District,12,UG.KF
+UGA,Uganda,UGA.29_1,Kumi,,,District,District,20,UG.KU
+UGA,Uganda,UGA.30_1,Kyenjojo,,,District,District,41,UG.KJ
 UGA,Uganda,UGA.31_1,Lake Albert,,,Water body,Water body,,
 UGA,Uganda,UGA.32_1,Lake Victoria,,,Water body,Water body,,
-UGA,Uganda,UGA.33_1,Lira,,,District,District,"30",UG.LA
-UGA,Uganda,UGA.34_1,Luwero,Luweero,,District,District,"10",UG.LW
-UGA,Uganda,UGA.35_1,Masaka,,,District,District,"10",UG.MA
-UGA,Uganda,UGA.36_1,Masindi,,,District,District,"11",UG.MC
-UGA,Uganda,UGA.37_1,Mayuge,,,District,District,"21",UG.MG
-UGA,Uganda,UGA.38_1,Mbale,,,District,District,"20",UG.ME
-UGA,Uganda,UGA.39_1,Mbarara,,,District,District,"41",UG.RR
-UGA,Uganda,UGA.40_1,Moroto,,,District,District,"30",UG.MT
-UGA,Uganda,UGA.41_1,Moyo,,,District,District,"30",UG.MY
-UGA,Uganda,UGA.42_1,Mpigi,,,District,District,"10",UG.MI
-UGA,Uganda,UGA.43_1,Mubende,,,District,District,"10",UG.MD
-UGA,Uganda,UGA.44_1,Mukono,,,District,District,"10",UG.MN
-UGA,Uganda,UGA.45_1,Nakapiripirit,,,District,District,"31",UG.NP
-UGA,Uganda,UGA.46_1,Nakasongola,,,District,District,"10",UG.NA
-UGA,Uganda,UGA.47_1,Nebbi,,,District,District,"31",UG.NE
-UGA,Uganda,UGA.48_1,Ntungamo,,,District,District,"41",UG.NT
+UGA,Uganda,UGA.33_1,Lira,,,District,District,30,UG.LA
+UGA,Uganda,UGA.34_1,Luwero,Luweero,,District,District,10,UG.LW
+UGA,Uganda,UGA.35_1,Masaka,,,District,District,10,UG.MA
+UGA,Uganda,UGA.36_1,Masindi,,,District,District,11,UG.MC
+UGA,Uganda,UGA.37_1,Mayuge,,,District,District,21,UG.MG
+UGA,Uganda,UGA.38_1,Mbale,,,District,District,20,UG.ME
+UGA,Uganda,UGA.39_1,Mbarara,,,District,District,41,UG.RR
+UGA,Uganda,UGA.40_1,Moroto,,,District,District,30,UG.MT
+UGA,Uganda,UGA.41_1,Moyo,,,District,District,30,UG.MY
+UGA,Uganda,UGA.42_1,Mpigi,,,District,District,10,UG.MI
+UGA,Uganda,UGA.43_1,Mubende,,,District,District,10,UG.MD
+UGA,Uganda,UGA.44_1,Mukono,,,District,District,10,UG.MN
+UGA,Uganda,UGA.45_1,Nakapiripirit,,,District,District,31,UG.NP
+UGA,Uganda,UGA.46_1,Nakasongola,,,District,District,10,UG.NA
+UGA,Uganda,UGA.47_1,Nebbi,,,District,District,31,UG.NE
+UGA,Uganda,UGA.48_1,Ntungamo,,,District,District,41,UG.NT
 UGA,Uganda,UGA.49_1,Pader,,,District,District,,UG.PD
-UGA,Uganda,UGA.50_1,Pallisa,,,District,District,"21",UG.PL
-UGA,Uganda,UGA.51_1,Rakai,,,District,District,"11",UG.RA
-UGA,Uganda,UGA.52_1,Rukungiri,,,District,District,"41",UG.RK
-UGA,Uganda,UGA.53_1,Sembabule,,,District,District,"11",UG.SE
-UGA,Uganda,UGA.54_1,Sironko,,,District,District,"21",UG.SI
-UGA,Uganda,UGA.55_1,Soroti,,,District,District,"21",UG.SR
-UGA,Uganda,UGA.56_1,Tororo,,,District,District,"21",UG.TR
-UGA,Uganda,UGA.57_1,Wakiso,,,District,District,"11",UG.WA
+UGA,Uganda,UGA.50_1,Pallisa,,,District,District,21,UG.PL
+UGA,Uganda,UGA.51_1,Rakai,,,District,District,11,UG.RA
+UGA,Uganda,UGA.52_1,Rukungiri,,,District,District,41,UG.RK
+UGA,Uganda,UGA.53_1,Sembabule,,,District,District,11,UG.SE
+UGA,Uganda,UGA.54_1,Sironko,,,District,District,21,UG.SI
+UGA,Uganda,UGA.55_1,Soroti,,,District,District,21,UG.SR
+UGA,Uganda,UGA.56_1,Tororo,,,District,District,21,UG.TR
+UGA,Uganda,UGA.57_1,Wakiso,,,District,District,11,UG.WA
 UGA,Uganda,UGA.58_1,Yumbe,,,District,District,,UG.YU
 UKR,Ukraine,UKR.1_1,Cherkasy,Cherkas'ka Oblast'|Cherkasskaya Oblast'|Cherkassy,,Oblast',Region,,UA.CK
 UKR,Ukraine,UKR.2_1,Chernihiv,Chernigov|Tschernigow,,Oblast',Region,,UA.CH
@@ -3559,27 +3559,27 @@ XNC,Northern Cyprus,XNC.2_1,Girne,Kyrenia,Κερύvεια,Kaza,District,,
 XNC,Northern Cyprus,XNC.3_1,Güzelyurt,Morphou,,Kaza,District,,
 XNC,Northern Cyprus,XNC.4_1,Iskele,Trikomo,,Kaza,District,,
 XNC,Northern Cyprus,XNC.5_1,Nicosia,Lefkosa,Λευκωσία,Kaza,District,,
-YEM,Yemen,YEM.1_1,`Adan,Aden,عدن,Muhafazah,Governorate,"24",YE.AD
-YEM,Yemen,YEM.2_1,Abyan,,أبين,Muhafazah,Governorate,"12",YE.AB
-YEM,Yemen,YEM.3_1,Al Bayda',Albaidah|Al Baidha|Al-Baydha|Al Beida|Baidaa|Al Bayda,البيضاء,Muhafazah,Governorate,"14",YE.BA
-YEM,Yemen,YEM.4_1,Al Dali',Al Dhale'e,الضالع,Muhafazah,Governorate,"30",YE.DL
-YEM,Yemen,YEM.5_1,Al Hudaydah,Al Hodeida|Al-Hodeidah|Al Hudaidah|Hodiedah|Hudaidah,الحديده,Muhafazah,Governorate,"18",YE.HU
-YEM,Yemen,YEM.6_1,Al Jawf,Al Jouf|Aljowf|Jawf,الجوف,Muhafazah,Governorate,"16",YE.JA
-YEM,Yemen,YEM.7_1,Al Mahrah,Al Ghaydah|Al-Mahara|Almaharah|al-Mahra|Mahra,المهره,Muhafazah,Governorate,"28",YE.MR
-YEM,Yemen,YEM.8_1,Al Mahwit,Almahweet|Mahweet,المحويت,Muhafazah,Governorate,"27",YE.MW
-YEM,Yemen,YEM.9_1,Amanat Al Asimah,,أمانة العاصمة,Muhafazah,Governorate,"13",
-YEM,Yemen,YEM.10_1,Amran,'Amran,عمران,Muhafazah,Governorate,"29",YE.AM
-YEM,Yemen,YEM.11_1,Dhamar,,ذمار,Muhafazah,Governorate,"20",YE.DH
-YEM,Yemen,YEM.12_1,Hadramawt,Hadhramaut|Hadhramawt|Hadhramout|HadramautHadramout,حضرموت,Muhafazah,Governorate,"19",YE.HD
-YEM,Yemen,YEM.13_1,Hajjah,Hajja,حجه,Muhafazah,Governorate,"17",YE.HJ
-YEM,Yemen,YEM.14_1,Ibb,,إب,Muhafazah,Governorate,"11",YE.IB
-YEM,Yemen,YEM.15_1,Lahij,Laheg|Lahej|Lahj|Tuban,لحج,Muhafazah,Governorate,"25",YE.LA
-YEM,Yemen,YEM.16_1,Ma'rib,Mareb|Marib,مأرب,Muhafazah,Governorate,"26",YE.MA
-YEM,Yemen,YEM.17_1,Raymah,,ريمة,Muhafazah,Governorate,"31",
-YEM,Yemen,YEM.18_1,Sa`dah,Sa'ada|Saadah|Sa'da|Saidah|Sa'adah,صعدة,Muhafazah,Governorate,"22",YE.SD
-YEM,Yemen,YEM.19_1,San`a',Sana'a,صنعاء,City,City,"23",YE.SN
-YEM,Yemen,YEM.20_1,Shabwah,Shabwa|Shibwah|Ataq,شبوة,Muhafazah,Governorate,"21",YE.SH
-YEM,Yemen,YEM.21_1,Ta`izz,Taez|Taiz|Taizz,تعز,Muhafazah,Governorate,"15",YE.TA
+YEM,Yemen,YEM.1_1,`Adan,Aden,عدن,Muhafazah,Governorate,24,YE.AD
+YEM,Yemen,YEM.2_1,Abyan,,أبين,Muhafazah,Governorate,12,YE.AB
+YEM,Yemen,YEM.3_1,Al Bayda',Albaidah|Al Baidha|Al-Baydha|Al Beida|Baidaa|Al Bayda,البيضاء,Muhafazah,Governorate,14,YE.BA
+YEM,Yemen,YEM.4_1,Al Dali',Al Dhale'e,الضالع,Muhafazah,Governorate,30,YE.DL
+YEM,Yemen,YEM.5_1,Al Hudaydah,Al Hodeida|Al-Hodeidah|Al Hudaidah|Hodiedah|Hudaidah,الحديده,Muhafazah,Governorate,18,YE.HU
+YEM,Yemen,YEM.6_1,Al Jawf,Al Jouf|Aljowf|Jawf,الجوف,Muhafazah,Governorate,16,YE.JA
+YEM,Yemen,YEM.7_1,Al Mahrah,Al Ghaydah|Al-Mahara|Almaharah|al-Mahra|Mahra,المهره,Muhafazah,Governorate,28,YE.MR
+YEM,Yemen,YEM.8_1,Al Mahwit,Almahweet|Mahweet,المحويت,Muhafazah,Governorate,27,YE.MW
+YEM,Yemen,YEM.9_1,Amanat Al Asimah,,أمانة العاصمة,Muhafazah,Governorate,13,
+YEM,Yemen,YEM.10_1,Amran,'Amran,عمران,Muhafazah,Governorate,29,YE.AM
+YEM,Yemen,YEM.11_1,Dhamar,,ذمار,Muhafazah,Governorate,20,YE.DH
+YEM,Yemen,YEM.12_1,Hadramawt,Hadhramaut|Hadhramawt|Hadhramout|HadramautHadramout,حضرموت,Muhafazah,Governorate,19,YE.HD
+YEM,Yemen,YEM.13_1,Hajjah,Hajja,حجه,Muhafazah,Governorate,17,YE.HJ
+YEM,Yemen,YEM.14_1,Ibb,,إب,Muhafazah,Governorate,11,YE.IB
+YEM,Yemen,YEM.15_1,Lahij,Laheg|Lahej|Lahj|Tuban,لحج,Muhafazah,Governorate,25,YE.LA
+YEM,Yemen,YEM.16_1,Ma'rib,Mareb|Marib,مأرب,Muhafazah,Governorate,26,YE.MA
+YEM,Yemen,YEM.17_1,Raymah,,ريمة,Muhafazah,Governorate,31,
+YEM,Yemen,YEM.18_1,Sa`dah,Sa'ada|Saadah|Sa'da|Saidah|Sa'adah,صعدة,Muhafazah,Governorate,22,YE.SD
+YEM,Yemen,YEM.19_1,San`a',Sana'a,صنعاء,City,City,23,YE.SN
+YEM,Yemen,YEM.20_1,Shabwah,Shabwa|Shibwah|Ataq,شبوة,Muhafazah,Governorate,21,YE.SH
+YEM,Yemen,YEM.21_1,Ta`izz,Taez|Taiz|Taizz,تعز,Muhafazah,Governorate,15,YE.TA
 ZAF,South Africa,ZAF.1_1,Eastern Cape,Oos-Kaap,,Provinsie,Province,EC,ZA.EC
 ZAF,South Africa,ZAF.2_1,Free State,Orange Free State|Vrystaat,,Provinsie,Province,FS,ZA.FS
 ZAF,South Africa,ZAF.3_1,Gauteng,Pretoria/Witwatersrand/Vaal,,Provinsie,Province,GT,ZA.GT

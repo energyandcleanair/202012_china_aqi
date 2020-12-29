@@ -20,7 +20,10 @@ utils.add_aqi <- function(df){
                 breaks=c(0,50,100,150,200,300,400,500,Inf),
                 labels=c(1,2,3,4,5,6,6,6)))
   ) %>%
-    mutate(aqi_argmax=c("pm25","pm10","no2","so2")[max.col(.[c("aqi_pm25","aqi_pm10","aqi_no2", "aqi_so2")])]) %>%
+    mutate(aqi_argmax=factor(max.col(.[c("aqi_pm25","aqi_pm10","aqi_no2", "aqi_so2")]),
+                             seq(1,4),
+                             labels=c("pm25","pm10","no2","so2"),
+                             ordered=F)) %>%
     left_join(tibble(aqi_cat=seq(1,6),
                      aqi_cat_zh=factor(seq(1,6), seq(1,6), labels=c("优","良", "轻度污染", "中度污染", "重度污染", "严重污染"), ordered=T),
                      aqi_cat_en=factor(seq(1,6), seq(1,6), labels=c("Excellent", "Good", "Mildly polluted", "Moderately polluted", "Heavily polluted", "Severely polluted"), ordered=T)))

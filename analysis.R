@@ -44,12 +44,12 @@ write.csv(m.aqi, file.path("results","m.aqi.csv"), row.names=F)
 ggsave(file.path("results","plots","heatmap.png"), width=12, height=8)
 
 
-# Responsible pollutant ---------------------------------------------------
+# Responsible pollutant per category ------------------------------------------
 (plt <- ggplot(m.aqi) +
-   geom_bar(stat="count", aes(x=factor(aqi_argmax),
+   geom_bar(stat="count", aes(x=aqi_argmax,
                               group=aqi_cat_en,
                               y=..prop..,
-                              fill=factor(..x..)),
+                              fill=..x..),
             show.legend = F) +
    facet_wrap(~aqi_cat_en, scales="free_x") +
    theme(axis.text.y=element_blank(),
@@ -63,3 +63,24 @@ ggsave(file.path("results","plots","heatmap.png"), width=12, height=8)
         caption="Source: CREA based on MEE"))
 
 ggsave(file.path("results","plots","aqi_pollutants.png"), width=8, height=5)
+
+
+# Responsible pollutant per province ------------------------------------------
+(plt <- ggplot(m.aqi %>% filter(aqi_cat >= 5)) +
+   geom_bar(stat="count", aes(x=factor(aqi_argmax),
+                              group=province_en,
+                              y=..prop..,
+                              fill=factor(..x..)),
+            show.legend = F) +
+   facet_wrap(~province_en, scales="free_x") +
+   theme(axis.text.y=element_blank(),
+         axis.ticks.y=element_blank()) +
+   scale_x_discrete(drop=FALSE) +
+   scale_y_continuous(labels=scales::percent) +
+   rcrea::theme_crea() +
+   labs(x=NULL,y=NULL,
+        title="Pollutant responsible for heavy polluted days",
+        subtitle="AQI > 200 during 2018-2020",
+        caption="Source: CREA based on MEE"))
+
+ggsave(file.path("results","plots","aqi_pollutants_province.png"), width=12, height=8)
