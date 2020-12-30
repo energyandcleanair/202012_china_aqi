@@ -1,3 +1,11 @@
+
+utils.add_sandstorm <- function(df){
+
+  df %>% mutate(sandstorm = (pm10 > 300) & (pm25/pm10)< 0.5)
+
+}
+
+
 utils.add_aqi <- function(df){
   # Capping at 500
   # Using this: https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/jcffbz/201203/W020120410332725219541.pdf
@@ -23,9 +31,11 @@ utils.add_aqi <- function(df){
                              seq(1,4),
                              labels=c("pm25","pm10","no2","so2"),
                              ordered=F)) %>%
-    left_join(tibble(aqi_cat=seq(1,6),
-                     aqi_cat_zh=factor(seq(1,6), seq(1,6), labels=c("优","良", "轻度污染", "中度污染", "重度污染", "严重污染"), ordered=T),
-                     aqi_cat_en=factor(seq(1,6), seq(1,6), labels=c("Excellent", "Good", "Mildly polluted", "Moderately polluted", "Heavily polluted", "Severely polluted"), ordered=T)))
+    mutate(aqi_cat=ifelse(sandstorm, 7, aqi_cat),
+           aqi_argmax=ifelse(sandstorm, NA, aqi_argmax)) %>%
+    left_join(tibble(aqi_cat=seq(1,7),
+                     aqi_cat_zh=factor(seq(1,7), seq(1,7), labels=c("优","良", "轻度污染", "中度污染", "重度污染", "严重污染", "沙暴"), ordered=T),
+                     aqi_cat_en=factor(seq(1,7), seq(1,7), labels=c("Excellent", "Good", "Mildly polluted", "Moderately polluted", "Heavily polluted", "Severely polluted", "Sand storm"), ordered=T)))
 }
 
 
