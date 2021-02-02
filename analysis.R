@@ -2,7 +2,7 @@ remotes::install_github('energyandcleanair/rcrea')
 library(rcrea)
 library(dplyr)
 library(tidyr)
-
+source('utils.R')
 
 
 m <- rcrea::measurements(source="mee",
@@ -31,7 +31,7 @@ m.aqi <- m %>% utils.add_aqi() %>% filter(!is.na(province_en))
 saveRDS(m.aqi,  file.path("results","m.aqi.RDS"))
 
 # Fill missing dates with NA to ensure comparability across years
-m.aqi <- m.aqi %>% utils.fill_city_dates(min_date=min(m$date))
+m.aqi <- m.aqi %>% utils.fill_city_dates(min_date=min(m.aqi$date))
 
 
 # Daily heatmap ----------------------------------------------------------------
@@ -50,7 +50,7 @@ m.aqi <- m.aqi %>% utils.fill_city_dates(min_date=min(m$date))
        subtitle="Each row corresponds to a city",
        caption="Source: CREA based on MEE"))
 
-ggsave(file.path("results","plots","heatmap.png"), width=12, height=8)
+ggsave(file.path("results","plots","heatmap.png"), plot=plt, width=12, height=8)
 
 
 
@@ -72,7 +72,7 @@ ggsave(file.path("results","plots","heatmap.png"), width=12, height=8)
         subtitle="2018-2020",
         caption="Source: CREA based on MEE"))
 
-ggsave(file.path("results","plots","aqi_pollutants.png"), width=8, height=5)
+ggsave(file.path("results","plots","aqi_pollutants.png"), plot=plt, width=8, height=5)
 
 
 # Responsible pollutant per province ------------------------------------------
@@ -88,12 +88,12 @@ ggsave(file.path("results","plots","aqi_pollutants.png"), width=8, height=5)
    scale_x_discrete(drop=FALSE) +
    scale_y_continuous(labels=scales::percent) +
    rcrea::theme_crea() +
-   labs(x=NULL,y=city x day,
+   labs(x=NULL,y=NULL,
         title="Pollutant responsible for heavy polluted days",
         subtitle="AQI > 200 during 2018-2020",
         caption="Source: CREA based on MEE"))
 
-ggsave(file.path("results","plots","aqi_pollutants_province.png"), width=12, height=8)
+ggsave(file.path("results","plots","aqi_pollutants_province.png"), plot=plt, width=12, height=8)
 
 
 # Number of days with AQI>200 per province ------------------------------------------
@@ -101,10 +101,17 @@ ggsave(file.path("results","plots","aqi_pollutants_province.png"), width=12, hei
                   filter(!sandstorm) %>%
                   group_by(province_en, aqi_cat, aqi_cat_en, year=lubridate::year(date)) %>%
                   summarise(count=n()) %>%
-                  mutate(aqi_cat_en=factor(aqi_cat_en, levels=rev(levels(.$aqi_cat_en))))
+                  left_join(
+                     m.aqi %>%
+                        filter(!sandstorm) %>%
+                        group_by(province_en, year=lubridate::year(date)) %>%
+                        summarise(total_year=n())
+                  ) %>%
+                  mutate(aqi_cat_en=factor(aqi_cat_en, levels=rev(levels(.$aqi_cat_en))),
+                         count_rel = count / total_year)
                  ) +
    geom_area(stat="identity", aes(x=year,
-                               y=count,
+                               y=count_rel,
                                fill=factor(aqi_cat_en))) +
    # guides(fill = guide_legend(reverse=TRUE)) +
    # geom_area(stat="count", aes(x=year,
@@ -116,14 +123,15 @@ ggsave(file.path("results","plots","aqi_pollutants_province.png"), width=12, hei
    theme(axis.text.y=element_blank(),
          axis.ticks.y=element_blank()) +
    scale_x_discrete(drop=FALSE) +
-   # scale_y_continuous(labels=scales::percent) +
+   scale_y_continuous(labels=scales::percent,
+                      expand=expansion(mult=c(0,0))) +
    scale_fill_brewer(palette="RdYlGn", direction=1, name=NULL, na.value="grey") +
    rcrea::theme_crea() +
    labs(x=NULL,y=NULL,
         title="Air quality levels in Chinese regions",
         caption="Source: CREA based on MEE"))
 
-ggsave(file.path("results","plots","aqi_ts_province.png"), width=12, height=8)
+ggsave(file.path("results","plots","aqi_area_province.png"), plot=plt, width=12, height=8)
 
 
 # Number of days with AQI>200 in selected cities ------------------------------------------
@@ -141,7 +149,7 @@ cities <- c("Beijing","Shanghai","Guangzhou","Shenzhen","Chengdu","Hangzhou","Wu
         subtitle="AQI > 200",
         caption="Source: CREA based on MEE"))
 
-ggsave(file.path("results","plots","aqi_ts_province.png"), width=12, height=8)
+ggsave(file.path("results","plots","aqi_ts_province.png"), plot=plt, width=12, height=8)
 
 
 # Number of days with sandstorm ------------------------------------------
@@ -160,6 +168,35 @@ ggsave(file.path("results","plots","aqi_ts_province.png"), width=12, height=8)
            title="Average number of sandstorm days in China provinces",
            caption="Storm-day defined as (PM10 > 300 µg/m3) and (PM2.5/PM10 < 0.5). Source: CREA based on MEE"))
 
-ggsave(file.path("results","plots","sandstorm_bar_province.png"), width=12, height=8)
+ggsave(file.path("results","plots","sandstorm_bar_province.png"), plot=plt, width=12, height=8)
 
 
+# Worst cities in 2020 ----------------------------------------------------
+m.aqi %>%
+   filter(lubridate::year(date)==2020) %>%
+   group_by(location_name, province_en) %>%
+   summarise(aqi_average=mean(aqi, na.rm=T),
+             days_excellent=sum(aqi_cat_en=="Excellent", na.rm=T),
+             days_good=sum(aqi_cat_en=="Good", na.rm=T),
+             days_mildly_polluted=sum(aqi_cat_en=="Mildly polluted", na.rm=T),
+             days_moderately_polluted=sum(aqi_cat_en=="Moderately polluted", na.rm=T),
+             days_heavily_polluted=sum(aqi_cat_en=="Heavily polluted", na.rm=T),
+             days_severely_polluted=sum(aqi_cat_en=="Severely polluted", na.rm=T),
+             days_sandstorm=sum(aqi_cat_en=="Sand storm", na.rm=T)) %>%
+   arrange(desc(aqi_average)) %>%
+   write.csv("results/data/aqi2020.csv", row.names = F)
+
+m.aqi %>%
+   filter(lubridate::year(date)==2020) %>%
+   filter(!sandstorm) %>%
+   group_by(location_name, province_en) %>%
+   summarise(aqi_average=mean(aqi, na.rm=T),
+             days_excellent=sum(aqi_cat_en=="Excellent", na.rm=T),
+             days_good=sum(aqi_cat_en=="Good", na.rm=T),
+             days_mildly_polluted=sum(aqi_cat_en=="Mildly polluted", na.rm=T),
+             days_moderately_polluted=sum(aqi_cat_en=="Moderately polluted", na.rm=T),
+             days_heavily_polluted=sum(aqi_cat_en=="Heavily polluted", na.rm=T),
+             days_severely_polluted=sum(aqi_cat_en=="Severely polluted", na.rm=T),
+             days_sandstorm=sum(aqi_cat_en=="Sand storm", na.rm=T)) %>%
+   arrange(desc(aqi_average)) %>%
+   write.csv("results/data/aqi2020.nosandstorm.csv")
